@@ -1,0 +1,34 @@
+import java.util.Scanner;
+
+
+public class _02_PythagoreanNumbers {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+		int n = sc.nextInt();
+		int[] numbers = new int[n];
+		for (int i = 0; i < n; i++) {
+			numbers[i] = sc.nextInt();
+		}
+		
+		for (int n1 = 0; n1 < numbers.length; n1++) {
+			for (int n2 = 0; n2 < numbers.length; n2++) {
+				for (int n3 = 0; n3 < numbers.length; n3++) {
+					int a = numbers[n1];
+					int b = numbers[n2];
+					int c = numbers[n3];
+					if (a <= b) {
+						int left = a*a + b*b;
+						int right = c*c;
+						if (left == right) {
+							System.out.printf("%d*%d + %d*%d = %d*%d%n",a,a,b,b,c,c);
+						}
+					}
+				}
+			}
+		}
+
+	}
+
+}

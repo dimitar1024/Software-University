@@ -1,0 +1,1 @@
+G:\Programing Language\C# Basics Sample Exam\11. Exam\CSharpBasicsExam25July2014Evening\05. ChangeEvenBits\bin\Debug\_05.ChangeEvenBits.exe.config

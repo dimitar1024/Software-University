@@ -1,0 +1,19 @@
+import java.util.Scanner;
+
+
+public class _06_FormattingNumbers {
+
+	private static Scanner sc;
+
+	public static void main(String[] args) {
+		sc = new Scanner(System.in);
+		
+		double a = sc.nextDouble();
+		double b = sc.nextDouble();
+		double c = sc.nextDouble();
+		
+		
+		System.out.printf("|%-10x|%10f|%10.2f|%10.3f|",a,a,b,c);
+	}
+
+}

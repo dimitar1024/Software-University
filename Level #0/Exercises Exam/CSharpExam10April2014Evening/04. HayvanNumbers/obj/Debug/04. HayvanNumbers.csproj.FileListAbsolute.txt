@@ -1,0 +1,2 @@
+G:\Programing Language\C# Basics Sample Exam\05. Exam\C# Basics Exam 10 April 2014 Evening\CSharpExam10April2014Evening\04. HayvanNumbers\bin\Debug\_04.HayvanNumbers.exe.config
+G:\Programing Language\C# Basics Sample Exam\03. Exam\C# Basics Exam 10 April 2014 Evening\CSharpExam10April2014Evening\04. HayvanNumbers\bin\Debug\_04.HayvanNumbers.exe.config

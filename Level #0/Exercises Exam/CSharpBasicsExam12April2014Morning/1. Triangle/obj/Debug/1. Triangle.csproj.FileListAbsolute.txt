@@ -1,0 +1,6 @@
+G:\Programing Language\C# Basics Sample Exam\06. Exam\CSharpBasicsExam12April2014Morning\1. Triangle\bin\Debug\_1.Triangle.exe.config
+G:\Programing Language\C# Basics Sample Exam\06. Exam\CSharpBasicsExam12April2014Morning\1. Triangle\bin\Debug\_1.Triangle.exe
+G:\Programing Language\C# Basics Sample Exam\06. Exam\CSharpBasicsExam12April2014Morning\1. Triangle\bin\Debug\_1.Triangle.pdb
+G:\Programing Language\C# Basics Sample Exam\06. Exam\CSharpBasicsExam12April2014Morning\1. Triangle\obj\Debug\1. Triangle.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Basics Sample Exam\06. Exam\CSharpBasicsExam12April2014Morning\1. Triangle\obj\Debug\_1.Triangle.exe
+G:\Programing Language\C# Basics Sample Exam\06. Exam\CSharpBasicsExam12April2014Morning\1. Triangle\obj\Debug\_1.Triangle.pdb

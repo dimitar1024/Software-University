@@ -1,0 +1,29 @@
+import java.util.Arrays;
+import java.util.Scanner;
+
+
+public class _04_StraightFlush {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+		String input = sc.nextLine();
+		String[] cards = input.split(" ");
+		Arrays.sort(cards);
+		String[] face = new String[cards.length];
+		String[] suit = new String[cards.length];
+		
+		for (int i = 0; i < cards.length; i++) {
+			String[] faceAndsuit = cards[i].split("");
+			face[i] = faceAndsuit[0];
+			suit[i] = faceAndsuit[1];
+			
+			System.out.print(cards[i] + " ");
+			System.out.print(face[i] + " ");
+			System.out.println(suit[i]);
+		}
+		
+
+	}
+
+}

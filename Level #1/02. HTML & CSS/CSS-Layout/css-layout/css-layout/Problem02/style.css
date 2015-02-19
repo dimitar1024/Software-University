@@ -1,0 +1,160 @@
+﻿body, ul, li, h5, p {
+    margin: 0;
+    padding: 0;
+    font-family: Calibri;
+}
+
+section {
+    height: 300px;
+    background-color: #234465;
+    position: relative;
+}
+
+section div {
+    margin-left: 70px;
+}
+
+    section div#buttons {
+        display: inline-block;
+        width: 124px;
+        height: 105px;
+        /*border: 1px solid #fff;*/
+        margin-top: 60px;
+        margin-left: 0px;
+        position: absolute;
+    }
+        section div#buttons div {
+            width: 124px;
+            height: 30px;
+            border: 2px solid #FF9C00 ;
+            margin-top: 10px;
+            text-align: center;
+            font-size: 16px;
+            color: #ffffff;
+            padding-top: 10px;
+        }
+
+            section div#buttons div:hover{
+                background-color: #FF9C00;
+            }
+
+            section div#buttons div a {
+                color: #ffffff;
+                text-decoration: none;
+                padding: 10px;
+                
+            }
+
+    section div#about {
+        display: inline-block;
+        margin: 10px;
+        margin-top: 50px;
+        font-size: 16px;
+        margin-left: 220px;
+        position: absolute;
+    }
+
+        section div h5 {
+            font-size: 12px;
+            color: #FF9C00;
+        }
+    section div ul{
+        list-style-type: none;
+    }
+
+    section div li {
+        color: #ffffff;
+    }
+
+        section div li a {
+            font-size: 12px;
+            text-decoration: none;
+            color: #ffffff;
+        }
+
+    section div#friends {
+        display: inline-block;
+        margin: 10px;
+        margin-top: 50px;
+        margin-left: 400px;
+        position: absolute;
+    }
+
+
+    section div#info {
+        display: inline-block;
+        width: 200px;
+        margin: 10px;
+        margin-top: 50px;
+        margin-left: 600px;
+        position: absolute;
+    }
+
+    section div#fb {
+        display: inline-block;
+        width: 250px;
+        height: 210px;
+        background-color: #e9edf0;
+        margin: 10px;
+        margin-top: 40px;
+        margin-left: 850px;
+        position: absolute;
+        padding: 10px;
+    }
+
+        section div#fb img {
+            width: 50px;
+            height: 50px;
+            margin: 2px;
+        }
+
+        section div#fb table {
+            width: 250px;
+            height: 100px;
+            margin-top: -20px;
+            vertical-align: middle;
+        }
+
+            section div#fb table tr td h4 {
+                font-weight: bold;
+                color: #5a66a0;
+                margin-left: -20px;
+                margin-top: 0px;
+                margin-bottom: 5px;
+            }
+
+            section div#fb table tr td {
+                font-weight: bold;
+                color: #5a66a0;
+            }
+                section div#fb table tr td div {
+                    display: inline-block;
+                    font-weight: normal;
+                    font-size: 12px;
+                    color: #000000;
+                    margin-top: -20px;
+                }
+
+        section div#fb hr {
+            margin-top: -15px;
+        }
+
+        section div#fb p {
+            font-size: 12px;
+            margin-top: -3px;
+            margin-bottom: 7px;
+        }
+
+            section div#fb p span {
+                color: #5a66a0;
+            }
+        
+        section div#fb div img[src*=like] {
+            display: inline-block;
+            width: 50px;
+            height: 20px;
+            vertical-align:sub;
+            margin-left: -90px;
+        }
+
+    

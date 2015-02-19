@@ -1,0 +1,6 @@
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\19 BitsInverter\bin\Debug\19 BitsInverter.exe.config
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\19 BitsInverter\obj\Debug\19 BitsInverter.csprojResolveAssemblyReference.cache
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\19 BitsInverter\bin\Debug\19 BitsInverter.exe
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\19 BitsInverter\bin\Debug\19 BitsInverter.pdb
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\19 BitsInverter\obj\Debug\19 BitsInverter.exe
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\19 BitsInverter\obj\Debug\19 BitsInverter.pdb

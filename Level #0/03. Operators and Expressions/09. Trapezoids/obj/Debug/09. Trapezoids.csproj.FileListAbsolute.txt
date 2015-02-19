@@ -1,0 +1,5 @@
+G:\Programing Language\Software University\03. Operators and Expressions\09. Trapezoids\bin\Debug\_09.Trapezoids.exe.config
+G:\Programing Language\Software University\03. Operators and Expressions\09. Trapezoids\bin\Debug\_09.Trapezoids.exe
+G:\Programing Language\Software University\03. Operators and Expressions\09. Trapezoids\bin\Debug\_09.Trapezoids.pdb
+G:\Programing Language\Software University\03. Operators and Expressions\09. Trapezoids\obj\Debug\_09.Trapezoids.exe
+G:\Programing Language\Software University\03. Operators and Expressions\09. Trapezoids\obj\Debug\_09.Trapezoids.pdb

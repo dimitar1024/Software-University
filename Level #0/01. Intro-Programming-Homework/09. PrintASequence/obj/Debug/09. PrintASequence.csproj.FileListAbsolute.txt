@@ -1,0 +1,8 @@
+G:\Programing Language\Software University\Intro-Programming-Homework\09. PrintASequence\bin\Debug\_09.PrintASequence.exe.config
+G:\Programing Language\Software University\Intro-Programming-Homework\09. PrintASequence\bin\Debug\_09.PrintASequence.exe
+G:\Programing Language\Software University\Intro-Programming-Homework\09. PrintASequence\bin\Debug\_09.PrintASequence.pdb
+G:\Programing Language\Software University\Intro-Programming-Homework\09. PrintASequence\obj\Debug\_09.PrintASequence.exe
+G:\Programing Language\Software University\Intro-Programming-Homework\09. PrintASequence\obj\Debug\_09.PrintASequence.pdb
+G:\Programing Language\Software University\01. Intro-Programming-Homework\09. PrintASequence\bin\Debug\_09.PrintASequence.exe.config
+G:\Programing Language\Software University\01. Intro-Programming-Homework\09. PrintASequence\obj\Debug\_09.PrintASequence.exe
+G:\Programing Language\Software University\01. Intro-Programming-Homework\09. PrintASequence\obj\Debug\_09.PrintASequence.pdb

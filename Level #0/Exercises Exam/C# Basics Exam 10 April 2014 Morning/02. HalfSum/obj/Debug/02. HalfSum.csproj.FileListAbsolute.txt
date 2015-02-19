@@ -1,0 +1,9 @@
+G:\Programing Language\C# Basics Sample Exam\04. Exam\C# Basics Exam 10 April 2014 Morning\CSharpExam10April2014Morning\02. HalfSum\bin\Debug\_02.HalfSum.exe.config
+G:\Programing Language\C# Basics Sample Exam\04. Exam\C# Basics Exam 10 April 2014 Morning\CSharpExam10April2014Morning\02. HalfSum\bin\Debug\_02.HalfSum.exe
+G:\Programing Language\C# Basics Sample Exam\04. Exam\C# Basics Exam 10 April 2014 Morning\CSharpExam10April2014Morning\02. HalfSum\bin\Debug\_02.HalfSum.pdb
+G:\Programing Language\C# Basics Sample Exam\04. Exam\C# Basics Exam 10 April 2014 Morning\CSharpExam10April2014Morning\02. HalfSum\obj\Debug\_02.HalfSum.exe
+G:\Programing Language\C# Basics Sample Exam\04. Exam\C# Basics Exam 10 April 2014 Morning\CSharpExam10April2014Morning\02. HalfSum\obj\Debug\_02.HalfSum.pdb
+G:\Programing Language\C# Basics Sample Exam\04. Exam\C# Basics Exam 10 April 2014 Morning\CSharpExam10April2014Morning\02. HalfSum\obj\Debug\02. HalfSum.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Basics Sample Exam\02. Exam\C# Basics Exam 10 April 2014 Morning\02. HalfSum\bin\Debug\_02.HalfSum.exe.config
+G:\Programing Language\C# Basics Sample Exam\02. Exam\C# Basics Exam 10 April 2014 Morning\02. HalfSum\obj\Debug\_02.HalfSum.exe
+G:\Programing Language\C# Basics Sample Exam\02. Exam\C# Basics Exam 10 April 2014 Morning\02. HalfSum\obj\Debug\_02.HalfSum.pdb

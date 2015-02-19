@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="style.css" rel="stylesheet" />
+</head>
+<body>
+    <section>
+        <form>
+            <p>Step 1: Your details</p>
+            <div>Name <input type="text" name="name" placeholder="  First and last name" /></div>
+            <div>Email<input type="email" name="name" placeholder="  example@domain.com" /></div>
+            <div>Phone<input type="tel" name="phone" placeholder="  eg. +447500000000"/></div>
+
+            <p>Step 2: Delivery address</p>
+            <div class="text">Address <textarea></textarea></div>
+            <div>Postcode<input type="text" name="postcode" placeholder="" /></div>
+            <div>Country<input type="text" name="country" placeholder="" /></div>
+            <p>Step 3: Card Details</p>
+            <div>Card type<br />
+                <input type="radio" name="typeCard" value="1" id="visa" />
+                <label for="visa"><img src="img/visa.png" />VISA</label>
+                <input type="radio" name="typeCard" value="2" id="amex"/>
+                <label for="amex"><img src="img/american-express.png" />AmEx</label>
+                <input type="radio" name="typeCard" value="3" id="mcard"/>
+                <label for="mcard"><img src="img/mastercard.png" />MasterCard</label>
+
+            </div>
+            <div>Card Number<input type="text" name="cardnumber" placeholder="" /></div>
+            <div>Security Code<input type="tel" name="securitycode" placeholder="" /></div>
+            <div>Name of Card<input type="text" name="nameofcard" placeholder="  exect name of as on the card" /></div>
+            
+            <input type="submit" name="name" value="BUY IT!" />
+
+        </form>
+    </section>
+</body>
+</html>

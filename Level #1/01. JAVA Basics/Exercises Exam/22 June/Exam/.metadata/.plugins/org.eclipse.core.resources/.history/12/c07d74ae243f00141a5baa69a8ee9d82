@@ -1,0 +1,18 @@
+import java.util.Arrays;
+import java.util.Scanner;
+
+
+public class _03_ExamScore {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		sc.nextLine();
+		sc.nextLine();
+		sc.nextLine();
+		String input = sc.nextLine();
+		String[] data = input.split("[ |]+");
+		System.out.println(Arrays.toString(data));
+
+	}
+
+}

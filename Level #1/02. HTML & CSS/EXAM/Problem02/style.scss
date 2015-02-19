@@ -1,0 +1,146 @@
+body, h1, h2, h3, h4, h5, span, a, p, div {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+}
+
+@font-face {
+    font-family: 'LDFComicSans';
+    src: url('fonts/LDFComicSans.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'ThisNight';
+    src: url('fonts/ThisNight.ttf') format('truetype');
+}
+
+header {
+    font-family: ThisNight, Helvetica, sans-serif;
+    font-size: 56px;
+    height: 140px;
+    background-color: #234465;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 40px;
+}
+
+nav {
+    font-family: ThisNight, Helvetica, sans-serif;
+
+    ul {
+        list-style-type: none;
+        text-align: center;
+
+        li {
+            display: inline-block;
+            font-size: 32px;
+            margin: 0px 20px;
+        }
+
+        li:hover a {
+            color: #ff9c00;
+        }
+    }
+
+    a {
+        color: black;
+        text-decoration: none;
+    }
+
+    li.select {
+        padding: 10px;
+        background-color: #234465;
+    }
+}
+
+main {
+    width: 960px;
+    margin: 0px 200px;
+    height: 900px;
+
+    article {
+        float: left;
+        width: 430px;
+        height: 380px;
+        box-shadow: 5px 5px 10px #234465;
+        border-radius: 10px;
+        margin: 10px;
+        padding: 15px;
+
+        div {
+            width: 430px;
+            height: 80px;
+            background-color: #234465;
+
+            h2 {
+                margin: 10px;
+                font-family: LDFComicSans, Arial, sans-serif;
+                font-size: 36px;
+                text-align: center;
+                padding-top: 15px;
+                color: #ffffff;
+                text-shadow: 3px 3px 3px #bd811e;
+            }
+        }
+
+        a{
+            img {
+            width: 430px;
+        }
+
+        }
+
+        p {
+            font-family: LDFComicSans, Arial, sans-serif;
+            font-size: 18px;
+            margin-top: 10px;
+        }
+
+        span {
+            font-family: LDFComicSans, Arial, sans-serif;
+            font-style: italic;
+            font-size: 16px;
+            line-height: 2;
+        }
+    }
+}
+
+footer {
+    clear: both;
+    font-family: LDFComicSans, Arial, sans-serif;
+    height: 250px;
+    background-color: #234465;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 10px;
+
+    ul {
+        list-style-type: none;
+        text-align: center;
+
+        li {
+            display: inline-block;
+            font-size: 28px;
+            margin: 0px 20px;
+        }
+    }
+
+    a:hover {
+        padding: 10px;
+        background-color: #ff9c00;
+        color: #234465;
+    }
+
+    a {
+        padding: 10px;
+        text-decoration: none;
+        color: #ffffff;
+    }
+
+    & > a:hover {
+        background: none;
+        color: #ff9142;
+    }
+}

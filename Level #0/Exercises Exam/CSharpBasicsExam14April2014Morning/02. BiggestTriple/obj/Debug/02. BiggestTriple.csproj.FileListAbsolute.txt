@@ -1,0 +1,6 @@
+G:\Programing Language\C# Basics Sample Exam\08. Exam\CSharpBasicsExam14April2014Morning\02. BiggestTriple\bin\Debug\_02.BiggestTriple.exe.config
+G:\Programing Language\C# Basics Sample Exam\08. Exam\CSharpBasicsExam14April2014Morning\02. BiggestTriple\bin\Debug\_02.BiggestTriple.exe
+G:\Programing Language\C# Basics Sample Exam\08. Exam\CSharpBasicsExam14April2014Morning\02. BiggestTriple\bin\Debug\_02.BiggestTriple.pdb
+G:\Programing Language\C# Basics Sample Exam\08. Exam\CSharpBasicsExam14April2014Morning\02. BiggestTriple\obj\Debug\02. BiggestTriple.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Basics Sample Exam\08. Exam\CSharpBasicsExam14April2014Morning\02. BiggestTriple\obj\Debug\_02.BiggestTriple.exe
+G:\Programing Language\C# Basics Sample Exam\08. Exam\CSharpBasicsExam14April2014Morning\02. BiggestTriple\obj\Debug\_02.BiggestTriple.pdb

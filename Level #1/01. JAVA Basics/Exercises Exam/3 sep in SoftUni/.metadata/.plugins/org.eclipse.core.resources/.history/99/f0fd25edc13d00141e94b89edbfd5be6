@@ -1,0 +1,15 @@
+import java.util.*;
+
+
+public class _03_Biggest3PrimeNumbers {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		String line = sc.nextLine().replace(" ", "");
+		String[] lineStr = line.split("[ ()]+");
+		for (int i = 1; i < lineStr.length; i++) {
+			System.out.println(lineStr[i]);
+		}
+	}
+
+}

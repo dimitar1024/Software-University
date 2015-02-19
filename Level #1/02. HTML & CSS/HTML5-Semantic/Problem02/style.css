@@ -1,0 +1,44 @@
+﻿body, p { margin: auto; padding: 0;
+          font-family: Calibri;
+    
+}
+
+
+section {
+    height: 290px;
+    width: 900px;
+    background-color: #ffc0cb;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 10px;
+    
+}
+section header {
+    text-align: center;
+    font-weight: bold;
+    height: 30px;
+    margin-top: -20px;
+}
+article {
+    background-color: #ffc0cb;
+    float: left;
+    width: 250px;
+    margin-right: 10px;
+
+}
+
+article img[src*=aha] {
+    width: 250px;
+}
+
+    article meter {
+        width: 200px;
+    }
+    article audio {
+        width: 250px;
+    }
+
+    article div.audio {
+        background-color: black;
+        height: 137px;
+    }

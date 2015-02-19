@@ -1,0 +1,6 @@
+G:\Programing Language\C# Basics Sample Exam\11. Exam\CSharpBasicsExam25July2014Evening\01. Electricity\bin\Debug\_01.Electricity.exe.config
+G:\Programing Language\C# Basics Sample Exam\11. Exam\CSharpBasicsExam25July2014Evening\01. Electricity\bin\Debug\_01.Electricity.exe
+G:\Programing Language\C# Basics Sample Exam\11. Exam\CSharpBasicsExam25July2014Evening\01. Electricity\bin\Debug\_01.Electricity.pdb
+G:\Programing Language\C# Basics Sample Exam\11. Exam\CSharpBasicsExam25July2014Evening\01. Electricity\obj\Debug\01. Electricity.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Basics Sample Exam\11. Exam\CSharpBasicsExam25July2014Evening\01. Electricity\obj\Debug\_01.Electricity.exe
+G:\Programing Language\C# Basics Sample Exam\11. Exam\CSharpBasicsExam25July2014Evening\01. Electricity\obj\Debug\_01.Electricity.pdb

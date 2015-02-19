@@ -1,0 +1,6 @@
+G:\Programing Language\C# Basics Sample Exam\06. Exam\CSharpBasicsExam11April2014Morning\03. TheExplorer\bin\Debug\_03.TheExplorer.exe.config
+G:\Programing Language\C# Basics Sample Exam\06. Exam\CSharpBasicsExam11April2014Morning\03. TheExplorer\bin\Debug\_03.TheExplorer.exe
+G:\Programing Language\C# Basics Sample Exam\06. Exam\CSharpBasicsExam11April2014Morning\03. TheExplorer\bin\Debug\_03.TheExplorer.pdb
+G:\Programing Language\C# Basics Sample Exam\06. Exam\CSharpBasicsExam11April2014Morning\03. TheExplorer\obj\Debug\03. TheExplorer.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Basics Sample Exam\06. Exam\CSharpBasicsExam11April2014Morning\03. TheExplorer\obj\Debug\_03.TheExplorer.exe
+G:\Programing Language\C# Basics Sample Exam\06. Exam\CSharpBasicsExam11April2014Morning\03. TheExplorer\obj\Debug\_03.TheExplorer.pdb

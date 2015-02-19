@@ -1,0 +1,6 @@
+G:\Programing Language\Software University\06. Loops\16, DecimalТoHexadecimalNumber\bin\Debug\16, DecimalТoHexadecimalNumber.exe.config
+G:\Programing Language\Software University\06. Loops\16, DecimalТoHexadecimalNumber\bin\Debug\16, DecimalТoHexadecimalNumber.exe
+G:\Programing Language\Software University\06. Loops\16, DecimalТoHexadecimalNumber\bin\Debug\16, DecimalТoHexadecimalNumber.pdb
+G:\Programing Language\Software University\06. Loops\16, DecimalТoHexadecimalNumber\obj\Debug\16, DecimalТoHexadecimalNumber.csprojResolveAssemblyReference.cache
+G:\Programing Language\Software University\06. Loops\16, DecimalТoHexadecimalNumber\obj\Debug\16, DecimalТoHexadecimalNumber.exe
+G:\Programing Language\Software University\06. Loops\16, DecimalТoHexadecimalNumber\obj\Debug\16, DecimalТoHexadecimalNumber.pdb

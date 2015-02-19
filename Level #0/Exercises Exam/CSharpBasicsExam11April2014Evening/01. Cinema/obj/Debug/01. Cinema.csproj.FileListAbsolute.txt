@@ -1,0 +1,9 @@
+G:\Programing Language\C# Basics Sample Exam\07. Exam\CSharpBasicsExam11April2014Evening\01. Cinema\bin\Debug\_01.Cinema.exe.config
+G:\Programing Language\C# Basics Sample Exam\07. Exam\CSharpBasicsExam11April2014Evening\01. Cinema\bin\Debug\_01.Cinema.exe
+G:\Programing Language\C# Basics Sample Exam\07. Exam\CSharpBasicsExam11April2014Evening\01. Cinema\bin\Debug\_01.Cinema.pdb
+G:\Programing Language\C# Basics Sample Exam\07. Exam\CSharpBasicsExam11April2014Evening\01. Cinema\obj\Debug\01. Cinema.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Basics Sample Exam\07. Exam\CSharpBasicsExam11April2014Evening\01. Cinema\obj\Debug\_01.Cinema.exe
+G:\Programing Language\C# Basics Sample Exam\07. Exam\CSharpBasicsExam11April2014Evening\01. Cinema\obj\Debug\_01.Cinema.pdb
+G:\Programing Language\C# Basics Sample Exam\05. Exam\CSharpBasicsExam11April2014Evening\01. Cinema\bin\Debug\_01.Cinema.exe.config
+G:\Programing Language\C# Basics Sample Exam\05. Exam\CSharpBasicsExam11April2014Evening\01. Cinema\obj\Debug\_01.Cinema.exe
+G:\Programing Language\C# Basics Sample Exam\05. Exam\CSharpBasicsExam11April2014Evening\01. Cinema\obj\Debug\_01.Cinema.pdb

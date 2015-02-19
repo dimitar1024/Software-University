@@ -1,0 +1,42 @@
+import java.sql.Date;
+import java.text.DateFormat;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
+import java.util.Scanner;
+import java.util.concurrent.TimeUnit;
+
+
+public class _07_DaysBetweenTwoDates {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		DateFormat df= new SimpleDateFormat("dd-MM-yyyy");
+		try {
+			Date start = (Date) df.parse(sc.nextLine());
+			Calendar startDate = Calendar.getInstance();
+			startDate.setTime(start);
+
+			Date end = (Date) df.parse(sc.nextLine());
+			Calendar endDate = Calendar.getInstance();
+			startDate.setTime(end);
+			
+			long days = calculateDays(startDate, endDate);
+			
+			System.out.println(days);
+			
+		} catch (ParseException e) {
+		    e.printStackTrace();
+		}
+		
+		
+	}
+	
+	public static long calculateDays(Calendar startDate,Calendar endDate){
+		long end = endDate.getTimeInMillis();
+		long start = startDate.getTimeInMillis();
+		long diff = TimeUnit.MILLISECONDS.toDays(Math.abs(end-start));
+		return diff;
+	}
+
+}

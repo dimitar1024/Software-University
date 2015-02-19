@@ -1,0 +1,6 @@
+G:\Programing Language\C# Basics Sample Exam\11. Exam\CSharpBasicsExam25July2014Evening\04. NakovsMatching\bin\Debug\_04.NakovsMatching.exe.config
+G:\Programing Language\C# Basics Sample Exam\11. Exam\CSharpBasicsExam25July2014Evening\04. NakovsMatching\bin\Debug\_04.NakovsMatching.exe
+G:\Programing Language\C# Basics Sample Exam\11. Exam\CSharpBasicsExam25July2014Evening\04. NakovsMatching\bin\Debug\_04.NakovsMatching.pdb
+G:\Programing Language\C# Basics Sample Exam\11. Exam\CSharpBasicsExam25July2014Evening\04. NakovsMatching\obj\Debug\04. NakovsMatching.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Basics Sample Exam\11. Exam\CSharpBasicsExam25July2014Evening\04. NakovsMatching\obj\Debug\_04.NakovsMatching.exe
+G:\Programing Language\C# Basics Sample Exam\11. Exam\CSharpBasicsExam25July2014Evening\04. NakovsMatching\obj\Debug\_04.NakovsMatching.pdb

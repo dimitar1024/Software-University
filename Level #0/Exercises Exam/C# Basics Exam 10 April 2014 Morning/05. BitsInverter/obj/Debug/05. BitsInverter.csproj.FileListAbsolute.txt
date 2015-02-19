@@ -1,0 +1,9 @@
+G:\Programing Language\C# Basics Sample Exam\04. Exam\C# Basics Exam 10 April 2014 Morning\CSharpExam10April2014Morning\05. BitsInverter\bin\Debug\_05.BitsInverter.exe.config
+G:\Programing Language\C# Basics Sample Exam\04. Exam\C# Basics Exam 10 April 2014 Morning\CSharpExam10April2014Morning\05. BitsInverter\bin\Debug\_05.BitsInverter.exe
+G:\Programing Language\C# Basics Sample Exam\04. Exam\C# Basics Exam 10 April 2014 Morning\CSharpExam10April2014Morning\05. BitsInverter\bin\Debug\_05.BitsInverter.pdb
+G:\Programing Language\C# Basics Sample Exam\04. Exam\C# Basics Exam 10 April 2014 Morning\CSharpExam10April2014Morning\05. BitsInverter\obj\Debug\05. BitsInverter.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Basics Sample Exam\04. Exam\C# Basics Exam 10 April 2014 Morning\CSharpExam10April2014Morning\05. BitsInverter\obj\Debug\_05.BitsInverter.exe
+G:\Programing Language\C# Basics Sample Exam\04. Exam\C# Basics Exam 10 April 2014 Morning\CSharpExam10April2014Morning\05. BitsInverter\obj\Debug\_05.BitsInverter.pdb
+G:\Programing Language\C# Basics Sample Exam\02. Exam\C# Basics Exam 10 April 2014 Morning\05. BitsInverter\bin\Debug\_05.BitsInverter.exe.config
+G:\Programing Language\C# Basics Sample Exam\02. Exam\C# Basics Exam 10 April 2014 Morning\05. BitsInverter\obj\Debug\_05.BitsInverter.exe
+G:\Programing Language\C# Basics Sample Exam\02. Exam\C# Basics Exam 10 April 2014 Morning\05. BitsInverter\obj\Debug\_05.BitsInverter.pdb

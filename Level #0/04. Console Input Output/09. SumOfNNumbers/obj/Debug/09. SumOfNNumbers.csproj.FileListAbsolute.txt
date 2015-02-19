@@ -1,0 +1,5 @@
+G:\Programing Language\Software University\04. Console Input Output\09. SumOfNNumbers\bin\Debug\_09.SumOfNNumbers.exe.config
+G:\Programing Language\Software University\04. Console Input Output\09. SumOfNNumbers\bin\Debug\_09.SumOfNNumbers.exe
+G:\Programing Language\Software University\04. Console Input Output\09. SumOfNNumbers\bin\Debug\_09.SumOfNNumbers.pdb
+G:\Programing Language\Software University\04. Console Input Output\09. SumOfNNumbers\obj\Debug\_09.SumOfNNumbers.exe
+G:\Programing Language\Software University\04. Console Input Output\09. SumOfNNumbers\obj\Debug\_09.SumOfNNumbers.pdb

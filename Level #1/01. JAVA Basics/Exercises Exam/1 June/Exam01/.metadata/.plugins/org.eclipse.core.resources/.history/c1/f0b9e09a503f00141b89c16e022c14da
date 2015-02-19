@@ -1,0 +1,17 @@
+import java.util.Scanner;
+
+
+public class _03_SimpleExpression {
+
+	public static void main(String[] args) {
+		Scanner in = new Scanner(System.in);
+		String input = in.nextLine().replace(" ", "");
+		
+		String[] numStr = input.split("\\D+");
+		
+		for (String string : numStr) {
+			System.out.println(string);
+		}
+	}
+
+}

@@ -1,0 +1,2 @@
+G:\Programing Language\C# Basics Sample Exam\07. Exam\CSharpBasicsExam11April2014Evening\04. CrossingSequences\bin\Debug\_04.CrossingSequences.exe.config
+G:\Programing Language\C# Basics Sample Exam\05. Exam\CSharpBasicsExam11April2014Evening\04. CrossingSequences\bin\Debug\_04.CrossingSequences.exe.config

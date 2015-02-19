@@ -1,0 +1,6 @@
+G:\Programing Language\Software University\03. Operators and Expressions\21. BitSifting\bin\Debug\_21.BitSifting.exe.config
+G:\Programing Language\Software University\03. Operators and Expressions\21. BitSifting\bin\Debug\_21.BitSifting.exe
+G:\Programing Language\Software University\03. Operators and Expressions\21. BitSifting\bin\Debug\_21.BitSifting.pdb
+G:\Programing Language\Software University\03. Operators and Expressions\21. BitSifting\obj\Debug\21. BitSifting.csprojResolveAssemblyReference.cache
+G:\Programing Language\Software University\03. Operators and Expressions\21. BitSifting\obj\Debug\_21.BitSifting.exe
+G:\Programing Language\Software University\03. Operators and Expressions\21. BitSifting\obj\Debug\_21.BitSifting.pdb

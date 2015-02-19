@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Check if Number is Prime</title>
+
+</head>
+<body>
+
+    <input type="text" id="fr-textbox" placeholder="Enter number" />
+
+    <a href="#" onclick="Event()">Reload</a>
+    <hr />
+    <p id="demo"></p>
+    <script>
+        function Event() {
+            var input = document.getElementById("fr-textbox").value;
+            var number = input | 0;
+
+
+            document.getElementById("demo").innerHTML = isPrime(number);
+
+
+        }
+
+        function isPrime(n) {
+            for (var i = 2; i < n; i++) {
+                if (n % i == 0)
+                    return false;
+            }
+            return true;
+        }
+
+
+
+
+
+    </script>
+</body>
+</html>

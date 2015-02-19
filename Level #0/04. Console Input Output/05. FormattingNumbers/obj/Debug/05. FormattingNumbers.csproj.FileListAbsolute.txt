@@ -1,0 +1,6 @@
+G:\Programing Language\Software University\04. Console Input Output\05. FormattingNumbers\bin\Debug\_05.FormattingNumbers.exe.config
+G:\Programing Language\Software University\04. Console Input Output\05. FormattingNumbers\bin\Debug\_05.FormattingNumbers.exe
+G:\Programing Language\Software University\04. Console Input Output\05. FormattingNumbers\bin\Debug\_05.FormattingNumbers.pdb
+G:\Programing Language\Software University\04. Console Input Output\05. FormattingNumbers\obj\Debug\05. FormattingNumbers.csprojResolveAssemblyReference.cache
+G:\Programing Language\Software University\04. Console Input Output\05. FormattingNumbers\obj\Debug\_05.FormattingNumbers.exe
+G:\Programing Language\Software University\04. Console Input Output\05. FormattingNumbers\obj\Debug\_05.FormattingNumbers.pdb

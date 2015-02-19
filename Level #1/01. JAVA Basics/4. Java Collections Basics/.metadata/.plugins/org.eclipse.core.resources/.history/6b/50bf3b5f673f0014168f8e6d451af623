@@ -1,0 +1,21 @@
+import java.util.Arrays;
+import java.util.Scanner;
+
+
+public class _08_ExtractEmails {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		String input = sc.nextLine();
+		String[] emails = input.split("[a-zA-Z\\.\\+\\-]+[@][a-zA-Z\\.]+");
+		
+		String email = Arrays.toString(emails);
+		
+		System.out.println(email);
+		
+		
+		
+		
+	}
+
+}

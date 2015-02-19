@@ -1,0 +1,106 @@
+﻿body {
+}
+
+    body div#content {
+        width: 520px;
+        height: 200px;
+        border-left: 5px dashed #ff0000;
+        border-top: 5px dotted #ffff00;
+        border-right: 10px solid #008000;
+        border-bottom: 5px double #0000FF;
+        box-shadow: 10px 10px 5px #3f3f3f;
+    }
+
+        body div p {
+            font-family: Calibri;
+            font-size: 42px;
+            text-align: center;
+            text-shadow: 5px 5px 9px #808080 ;
+            margin: 0px;
+        }
+
+        body div div {
+            width: 460px;
+            height: 80px;
+            border: 8px solid #000;
+            -moz-border-bottom-colors: #0000ff #0000ff #1a8f00 #1a8f00 #fff200 #fff200 #ff0f00 #ff0f00;
+            -moz-border-top-colors: #0000ff #0000ff #1a8f00 #1a8f00 #fff200 #fff200 #ff0f00 #ff0f00;
+            -moz-border-right-colors: #0000ff #0000ff #1a8f00 #1a8f00 #fff200 #fff200 #ff0f00 #ff0f00;
+            -moz-border-left-colors: #0000ff #0000ff #1a8f00 #1a8f00 #fff200 #fff200 #ff0f00 #ff0f00;
+            border-radius: 60px;
+            margin: 20px;
+        }
+
+            body div div p {
+                font-size: 18px;
+            }
+
+
+            body div div div{
+                display: inline-block;
+                width: 160px;
+                height: 16px;
+                background-color: #d8921a;
+                font-size: 10px;
+                border: none;
+                border-radius: initial;
+                border-top:3px solid #ffa200;
+                border-left:3px solid #ffa200;
+                border-right:3px solid #a56400;
+                border-bottom:3px solid #a56400;
+                text-align: center;
+                vertical-align: baseline;
+                font-family: Calibri;
+            }
+
+            body div div div.first {
+                margin-left: 60px;
+            }
+
+            body div div div.second {
+                margin-left: -10px;
+            }
+
+    div.balon1 {
+        width: 22px;
+        height: 22px;
+        background-color: rgba(168,168,168,0.9);
+        border: dashed 2px #fff;
+        border-radius: 15px;
+        margin-top: -85px;
+        margin-left: 395px;
+        position: absolute;
+    }
+
+    div.balon2 {
+        width: 32px;
+        height: 32px;
+        background-color: rgba(168,168,168,0.9);
+        border: dashed 2px #fff;
+        border-radius: 25px;
+        margin-top: -120px;
+        margin-left: 440px;
+        position: absolute;
+    }
+
+    div.balon3 {
+        width: 108px;
+        height: 62px;
+        background-color: rgba(168,168,168,0.9);
+        color: #fff;
+        text-align: center;
+        font-family: Calibri;
+        font-size: 18px;
+        font-weight: bold;
+        border: dashed 2px #fff;
+        border-radius: 35px;
+        margin-top: -170px;
+        margin-left: 480px;
+        position: relative;
+    }
+
+
+     /*Dotted and dashed rounded border corners are rendered as solid in Gecko; see bug 382721.
+         https://bugzilla.mozilla.org/show_bug.cgi?id=382721
+         */
+    

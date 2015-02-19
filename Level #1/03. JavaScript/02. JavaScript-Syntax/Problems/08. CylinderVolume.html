@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>The Lifetime Supply Calculator</title>
+
+</head>
+<body>
+    <textarea id="fr-textbox" placeholder="Enter number"></textarea>
+
+
+    <a href="#" onclick="Event()">Reload</a>
+    <hr />
+    <p id="demo"></p>
+    <script>
+        function Event() {
+            var input = document.getElementById("fr-textbox").value;
+
+            var data = input.split(/([a-zA-Z0-9.]+)/);
+            //опитвах да премахна празните елементи но за сега не успявам. По-късно ще опитам пак.
+            var cilinder = {};
+            cilinder["radius"] = parseInt(data[1]);
+            cilinder["height"] = parseInt(data[3]);
+
+            var areaBasic = cilinder.radius * cilinder.radius * Math.PI;
+            var volume = areaBasic * cilinder.height;
+            volume = volume.toFixed(3);
+            document.getElementById("demo").innerHTML = volume;
+        };
+
+
+    </script>
+</body>
+</html>

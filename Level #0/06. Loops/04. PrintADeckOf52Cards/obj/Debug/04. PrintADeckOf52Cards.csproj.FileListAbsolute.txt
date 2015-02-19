@@ -1,0 +1,6 @@
+G:\Programing Language\Software University\06. Loops\04. PrintADeckOf52Cards\bin\Debug\_04.PrintADeckOf52Cards.exe.config
+G:\Programing Language\Software University\06. Loops\04. PrintADeckOf52Cards\bin\Debug\_04.PrintADeckOf52Cards.exe
+G:\Programing Language\Software University\06. Loops\04. PrintADeckOf52Cards\bin\Debug\_04.PrintADeckOf52Cards.pdb
+G:\Programing Language\Software University\06. Loops\04. PrintADeckOf52Cards\obj\Debug\_04.PrintADeckOf52Cards.exe
+G:\Programing Language\Software University\06. Loops\04. PrintADeckOf52Cards\obj\Debug\_04.PrintADeckOf52Cards.pdb
+G:\Programing Language\Software University\06. Loops\04. PrintADeckOf52Cards\obj\Debug\04. PrintADeckOf52Cards.csprojResolveAssemblyReference.cache

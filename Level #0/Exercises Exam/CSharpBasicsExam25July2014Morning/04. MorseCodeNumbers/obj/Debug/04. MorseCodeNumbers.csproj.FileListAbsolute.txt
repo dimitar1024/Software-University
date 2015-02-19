@@ -1,0 +1,6 @@
+G:\Programing Language\C# Basics Sample Exam\10. Exam\CSharpBasicsExam25July2014Morning\04. MorseCodeNumbers\bin\Debug\_04.MorseCodeNumbers.exe.config
+G:\Programing Language\C# Basics Sample Exam\10. Exam\CSharpBasicsExam25July2014Morning\04. MorseCodeNumbers\bin\Debug\_04.MorseCodeNumbers.exe
+G:\Programing Language\C# Basics Sample Exam\10. Exam\CSharpBasicsExam25July2014Morning\04. MorseCodeNumbers\bin\Debug\_04.MorseCodeNumbers.pdb
+G:\Programing Language\C# Basics Sample Exam\10. Exam\CSharpBasicsExam25July2014Morning\04. MorseCodeNumbers\obj\Debug\04. MorseCodeNumbers.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Basics Sample Exam\10. Exam\CSharpBasicsExam25July2014Morning\04. MorseCodeNumbers\obj\Debug\_04.MorseCodeNumbers.exe
+G:\Programing Language\C# Basics Sample Exam\10. Exam\CSharpBasicsExam25July2014Morning\04. MorseCodeNumbers\obj\Debug\_04.MorseCodeNumbers.pdb

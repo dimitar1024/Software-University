@@ -1,0 +1,5 @@
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\04. UnicodeCharacter\bin\Debug\_04.UnicodeCharacter.exe.config
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\04. UnicodeCharacter\bin\Debug\_04.UnicodeCharacter.exe
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\04. UnicodeCharacter\bin\Debug\_04.UnicodeCharacter.pdb
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\04. UnicodeCharacter\obj\Debug\_04.UnicodeCharacter.exe
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\04. UnicodeCharacter\obj\Debug\_04.UnicodeCharacter.pdb

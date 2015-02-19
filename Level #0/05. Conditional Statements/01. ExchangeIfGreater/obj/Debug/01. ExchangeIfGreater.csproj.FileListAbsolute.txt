@@ -1,0 +1,6 @@
+G:\Programing Language\Software University\05. Conditional Statements\01. ExchangeIfGreater\bin\Debug\_01.ExchangeIfGreater.exe.config
+G:\Programing Language\Software University\05. Conditional Statements\01. ExchangeIfGreater\bin\Debug\_01.ExchangeIfGreater.exe
+G:\Programing Language\Software University\05. Conditional Statements\01. ExchangeIfGreater\bin\Debug\_01.ExchangeIfGreater.pdb
+G:\Programing Language\Software University\05. Conditional Statements\01. ExchangeIfGreater\obj\Debug\01. ExchangeIfGreater.csprojResolveAssemblyReference.cache
+G:\Programing Language\Software University\05. Conditional Statements\01. ExchangeIfGreater\obj\Debug\_01.ExchangeIfGreater.exe
+G:\Programing Language\Software University\05. Conditional Statements\01. ExchangeIfGreater\obj\Debug\_01.ExchangeIfGreater.pdb

@@ -1,0 +1,12 @@
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\Problem01_Customer\Problem01_Customer\bin\Debug\Problem01_Customer.exe.config
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\Problem01_Customer\Problem01_Customer\obj\Debug\Problem01_Customer.csprojResolveAssemblyReference.cache
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\Problem01_Customer\Problem01_Customer\bin\Debug\Problem01_Customer.exe
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\Problem01_Customer\Problem01_Customer\bin\Debug\Problem01_Customer.pdb
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\Problem01_Customer\Problem01_Customer\obj\Debug\Problem01_Customer.exe
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\Problem01_Customer\Problem01_Customer\obj\Debug\Problem01_Customer.pdb
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\10. CommonTypeSystem\Problem01_Customer\bin\Debug\Problem01_Customer.exe.config
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\10. CommonTypeSystem\Problem01_Customer\obj\Debug\Problem01_Customer.exe
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\10. CommonTypeSystem\Problem01_Customer\obj\Debug\Problem01_Customer.pdb
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\10. CommonTypeSystem\Problem01_Customer\bin\Debug\Problem01_Customer.exe
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\10. CommonTypeSystem\Problem01_Customer\bin\Debug\Problem01_Customer.pdb
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\10. CommonTypeSystem\Problem01_Customer\obj\Debug\Problem01_Customer.csprojResolveAssemblyReference.cache

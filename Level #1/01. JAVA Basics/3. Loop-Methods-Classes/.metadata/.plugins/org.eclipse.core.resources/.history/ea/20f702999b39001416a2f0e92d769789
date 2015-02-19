@@ -1,0 +1,42 @@
+import java.io.IOException;
+import java.text.DateFormat;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
+import java.util.Date;
+import java.util.Scanner;
+import java.util.concurrent.TimeUnit;
+
+public class _09_ListOfProducts {
+
+	public static void main(String[] args) throws IOException {
+		
+		Scanner reader = new Scanner(System.in);
+		 
+        DateFormat formatter = new SimpleDateFormat("dd-MM-yyyy");
+        try {
+            Date beginDate = formatter.parse(reader.nextLine());
+            Calendar beginCalendar = Calendar.getInstance();
+            beginCalendar.setTime(beginDate);
+ 
+            Date endDate = formatter.parse(reader.nextLine());
+            Calendar endCalendar = Calendar.getInstance();
+            endCalendar.setTime(endDate);
+ 
+            long days = daysBetweenDates(beginCalendar, endCalendar);
+            System.out.println(days);
+            reader.close();
+        } catch (ParseException e) {
+            System.out.println(e.getMessage());
+        }
+    
+	}
+	
+	public static long daysBetweenDates(Calendar startDate, Calendar endDate) {
+        long end = endDate.getTimeInMillis();
+        long start = startDate.getTimeInMillis();
+        long daysBetween = TimeUnit.MILLISECONDS.toDays(Math.abs(end - start));
+        return daysBetween;
+    }
+
+}

@@ -1,0 +1,8 @@
+G:\Programing Language\Software University\Intro-Programming-Homework\07. PrintFirstAndLastName\bin\Debug\_07.PrintFirstAndLastName.exe.config
+G:\Programing Language\Software University\Intro-Programming-Homework\07. PrintFirstAndLastName\bin\Debug\_07.PrintFirstAndLastName.exe
+G:\Programing Language\Software University\Intro-Programming-Homework\07. PrintFirstAndLastName\bin\Debug\_07.PrintFirstAndLastName.pdb
+G:\Programing Language\Software University\Intro-Programming-Homework\07. PrintFirstAndLastName\obj\Debug\_07.PrintFirstAndLastName.exe
+G:\Programing Language\Software University\Intro-Programming-Homework\07. PrintFirstAndLastName\obj\Debug\_07.PrintFirstAndLastName.pdb
+G:\Programing Language\Software University\01. Intro-Programming-Homework\07. PrintFirstAndLastName\bin\Debug\_07.PrintFirstAndLastName.exe.config
+G:\Programing Language\Software University\01. Intro-Programming-Homework\07. PrintFirstAndLastName\obj\Debug\_07.PrintFirstAndLastName.exe
+G:\Programing Language\Software University\01. Intro-Programming-Homework\07. PrintFirstAndLastName\obj\Debug\_07.PrintFirstAndLastName.pdb

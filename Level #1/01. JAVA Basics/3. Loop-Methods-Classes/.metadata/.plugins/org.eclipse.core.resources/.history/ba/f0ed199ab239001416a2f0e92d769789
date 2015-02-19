@@ -1,0 +1,49 @@
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Collection;
+import java.util.Collections;
+
+public class _09_ListOfProducts {
+
+	public static void main(String[] args) throws IOException {
+		
+		String input = "input9.txt";
+		String output = "output9.txt";
+		
+		BufferedReader fr = null;
+		BufferedWriter fw = null;
+		
+		try {
+			ArrayList<Product> products = new ArrayList<Product>();
+			fr = new BufferedReader(new FileReader(input));
+			while (true) {
+				String line = fr.readLine();
+				if (line == null) {
+					break;
+				}
+				String[] inputProduct = line.split(" ");
+				Product product = new Product(inputProduct[0], Double.parseDouble(inputProduct[1]));
+				products.add(product);
+				
+			}
+			fr.close();
+			Collections.sort(products);
+			
+			fw = new BufferedWriter(new FileWriter(output));
+			
+			for (Product product : products) {
+				fw.write(product.toString());
+				fw.newLine();
+			}
+			
+			fw.close();
+			
+		} catch (Exception e) {
+			System.out.println("Error");
+		}
+	}
+}

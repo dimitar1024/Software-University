@@ -1,0 +1,27 @@
+import java.util.*;
+
+
+public class _09_CombineListsOfLetters {
+
+	public static void main(String[] args) {
+		Scanner in = new Scanner(System.in);
+		String firstStr = in.nextLine();
+		String secondStr = in.nextLine();
+		char[] first = firstStr.toCharArray();
+		char[] second = secondStr.toCharArray();
+		StringBuilder word = new StringBuilder();
+		word.append(first);
+		
+		for (int i = 0; i < second.length; i++) {
+			for (int j = 0; j < first.length; j++) {
+				if ((first[j]==second[i])) {
+					word.append(second[i]);
+				}
+			}
+		}
+		
+		System.out.println(word);
+
+	}
+
+}

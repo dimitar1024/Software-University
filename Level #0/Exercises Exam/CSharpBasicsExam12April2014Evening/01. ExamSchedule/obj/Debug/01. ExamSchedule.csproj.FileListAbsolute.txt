@@ -1,0 +1,6 @@
+G:\Programing Language\C# Basics Sample Exam\07. Exam\CSharpBasicsExam12April2014Evening\01. ExamSchedule\bin\Debug\_01.ExamSchedule.exe.config
+G:\Programing Language\C# Basics Sample Exam\07. Exam\CSharpBasicsExam12April2014Evening\01. ExamSchedule\bin\Debug\_01.ExamSchedule.exe
+G:\Programing Language\C# Basics Sample Exam\07. Exam\CSharpBasicsExam12April2014Evening\01. ExamSchedule\bin\Debug\_01.ExamSchedule.pdb
+G:\Programing Language\C# Basics Sample Exam\07. Exam\CSharpBasicsExam12April2014Evening\01. ExamSchedule\obj\Debug\01. ExamSchedule.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Basics Sample Exam\07. Exam\CSharpBasicsExam12April2014Evening\01. ExamSchedule\obj\Debug\_01.ExamSchedule.exe
+G:\Programing Language\C# Basics Sample Exam\07. Exam\CSharpBasicsExam12April2014Evening\01. ExamSchedule\obj\Debug\_01.ExamSchedule.pdb

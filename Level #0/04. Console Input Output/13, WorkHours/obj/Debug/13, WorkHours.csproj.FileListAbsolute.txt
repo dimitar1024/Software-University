@@ -1,0 +1,6 @@
+G:\Programing Language\Software University\04. Console Input Output\13, WorkHours\bin\Debug\13, WorkHours.exe.config
+G:\Programing Language\Software University\04. Console Input Output\13, WorkHours\bin\Debug\13, WorkHours.exe
+G:\Programing Language\Software University\04. Console Input Output\13, WorkHours\bin\Debug\13, WorkHours.pdb
+G:\Programing Language\Software University\04. Console Input Output\13, WorkHours\obj\Debug\13, WorkHours.csprojResolveAssemblyReference.cache
+G:\Programing Language\Software University\04. Console Input Output\13, WorkHours\obj\Debug\13, WorkHours.exe
+G:\Programing Language\Software University\04. Console Input Output\13, WorkHours\obj\Debug\13, WorkHours.pdb

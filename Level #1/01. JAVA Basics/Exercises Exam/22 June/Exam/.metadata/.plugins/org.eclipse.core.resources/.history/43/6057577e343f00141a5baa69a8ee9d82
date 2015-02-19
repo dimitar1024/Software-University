@@ -1,0 +1,56 @@
+import java.util.Scanner;
+
+
+public class _04_StraightFlush {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+		String input = sc.nextLine();
+		String[] cards = input.split(" ");
+		int[] face = new int[cards.length];
+		int[] suit = new int[cards.length];
+		
+		for (int i = 0; i < cards.length; i++) {
+			String[] faceAndsuit = cards[i].split("");
+			System.out.print(cards[i] + " ");
+			System.out.print(faceAndsuit[0] + " ");
+			System.out.println(faceAndsuit[1]);
+			face[i] = getFace(faceAndsuit[0]);
+			suit[i] = getSuit(faceAndsuit[1]);
+			
+			//System.out.print(cards[i] + " ");
+			//System.out.print(face[i] + " ");
+			//System.out.println(suit[i]);
+		}
+		
+
+	}
+	
+	public static int getFace(String face){
+		if (face.startsWith("2")) return 0;
+		if (face.startsWith("3")) return 1;
+		if (face.startsWith("4")) return 2;
+		if (face.startsWith("5")) return 3;
+		if (face.startsWith("6")) return 4;
+		if (face.startsWith("7")) return 5;
+		if (face.startsWith("8")) return 6;
+		if (face.startsWith("9")) return 7;
+		if (face.startsWith("10")) return 8;
+		if (face.startsWith("J")) return 9;
+		if (face.startsWith("Q")) return 10;
+		if (face.startsWith("K")) return 11;
+		if (face.startsWith("A")) return 12;
+		throw new IllegalArgumentException("Invalid face: " + face);
+	}
+	
+	public static int getSuit(String suit){
+		if (suit.startsWith("S")) return 0;
+		if (suit.startsWith("H")) return 1;
+		if (suit.startsWith("D")) return 2;
+		if (suit.startsWith("C")) return 3;
+		
+		throw new IllegalArgumentException("Invalid suit: " + suit);
+	}
+
+}

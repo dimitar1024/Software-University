@@ -1,0 +1,28 @@
+import java.util.Scanner;
+
+public class _03_ExamScore {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		sc.nextLine();
+		sc.nextLine();
+		sc.nextLine();
+
+		while (true) {
+			String input = sc.nextLine();
+			if (input.indexOf("-") == 1) {
+				break;
+			}
+			String[] data = input.split("[ |]+");
+
+			String name = "" + data[1] + " " + data[2];
+			int score = Integer.parseInt(data[3]);
+			float endScore = Float.parseFloat(data[4]);
+
+			System.out.println(name);
+			System.out.println(score);
+			System.out.println(endScore);
+		}
+	}
+
+}

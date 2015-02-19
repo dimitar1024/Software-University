@@ -1,0 +1,153 @@
+﻿
+body, h1, h2, h3, h4, h5, h6, p,span,div,input,feildset { margin: 0; padding:0;
+    font-family: Calibri;
+}
+
+    body div#content {
+        width: 550px;
+        height: 440px;
+        background-color: #3b5997;
+    }
+
+#content h1 {
+    font-size: 100px;
+    text-align: center;
+    color: #ffffff;
+}
+
+#content form input#sub {
+    display: inline;
+    float: left;
+    width: 200px;
+    height: 35px;
+    color: #446097;
+    margin-left: -525px;
+    margin-top: 200px;
+    border: solid 1px #ddd;
+    border-radius: 5px;
+}
+    #content form input#sub:hover {
+        background-color: #ff0000;
+    }
+
+#content form input#reg {
+    width: 315px;
+    height: 35px;
+    margin-top: 10px;
+    color: #446097;
+    font-size: 24px;
+    border: solid 1px #ddd;
+    border-radius: 5px;
+}
+    #content form input#reg:hover {
+        background-color: #ff0000;
+    }
+
+#content h2, #content h4 {
+    text-align: center;
+    color: #fff;
+}
+
+#content div#none div{
+    display: inline-block;
+    float: left;
+    width:200px;
+    margin: 10px;
+    padding: -10px;
+}
+
+    
+    #content div#none div legend, #content div#none div span {
+        font-size: 12px;
+        color: #fff;
+    }
+
+    #content div#none div input {
+        margin: 0px;
+        margin-right: 1px;
+        width: 83px;
+        height: 20px;
+        font-size: 10px;
+    }
+
+    #content div#none div input#date{
+        width: 130px;
+    }
+
+        #content div#none div input#female, #content div#none div input#male, #content div#none div input#other {
+            width: 40px;
+            margin: -10px;
+            margin-top: 5px;
+        } 
+
+    #content div#none div label {
+        color: #fff;
+        font-size: 10px;
+        vertical-align:text-top;
+        
+    }
+
+    #content div#req div{
+        display: inline-block;
+        float: left;
+        width: 315px;
+        margin-top: 10px;
+    }
+    #content div#req div legend{
+        font-size: 12px;
+        color: #fff;
+    }
+
+    #content div#req div div.country {
+        margin-top: -5px;
+    }
+    #content div#req div div.country, #content div#req div div.address, #content div#req div div.door {
+        width: 280px;
+    }
+        #content div#req div input {
+            width: 90px;
+            margin-right: 5px;
+        }
+
+            #content div#req div input.data {
+                width: 45px;
+            }
+
+    #content div#req div div.door {
+        height: 97px;
+        margin-top: 0px;
+    }
+
+        #content div#req div div.door textarea {
+            width: 280px;
+            height: 30px;
+            font-size: 10px;
+        }
+
+    #content div#req div span {
+        font-size: 12px;
+        color: #fff;
+        padding-top: -10px;
+    }
+    #content div#req div input#color {
+        height: 22px;
+    }
+
+    #content div#req div input#water {
+        width: 83px;
+        height: 18px;
+        font-size: 10px;
+        margin-left: -5px;
+        vertical-align: top;
+    }
+
+    #content div#req div select#size {
+        width: 95px;
+        height: 20px;
+        font-size: 9px;
+        vertical-align: top;
+    }
+
+
+
+

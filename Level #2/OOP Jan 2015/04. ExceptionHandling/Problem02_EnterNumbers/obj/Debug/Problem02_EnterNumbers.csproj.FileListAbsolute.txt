@@ -1,0 +1,6 @@
+c:\users\dimitar1024\documents\visual studio 2013\Projects\03. ExceptionHandling\Problem02_EnterNumbers\bin\Debug\Problem02_EnterNumbers.exe.config
+c:\users\dimitar1024\documents\visual studio 2013\Projects\03. ExceptionHandling\Problem02_EnterNumbers\bin\Debug\Problem02_EnterNumbers.exe
+c:\users\dimitar1024\documents\visual studio 2013\Projects\03. ExceptionHandling\Problem02_EnterNumbers\bin\Debug\Problem02_EnterNumbers.pdb
+c:\users\dimitar1024\documents\visual studio 2013\Projects\03. ExceptionHandling\Problem02_EnterNumbers\obj\Debug\Problem02_EnterNumbers.csprojResolveAssemblyReference.cache
+c:\users\dimitar1024\documents\visual studio 2013\Projects\03. ExceptionHandling\Problem02_EnterNumbers\obj\Debug\Problem02_EnterNumbers.exe
+c:\users\dimitar1024\documents\visual studio 2013\Projects\03. ExceptionHandling\Problem02_EnterNumbers\obj\Debug\Problem02_EnterNumbers.pdb

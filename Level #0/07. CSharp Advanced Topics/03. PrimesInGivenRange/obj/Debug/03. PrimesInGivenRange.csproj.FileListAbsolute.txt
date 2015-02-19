@@ -1,0 +1,6 @@
+G:\Programing Language\Software University\07. CSharp Advanced Topics\07.  CSharpAdvancedTopics\03. PrimesInGivenRange\bin\Debug\_03.PrimesInGivenRange.exe.config
+G:\Programing Language\Software University\07. CSharp Advanced Topics\07.  CSharpAdvancedTopics\03. PrimesInGivenRange\bin\Debug\_03.PrimesInGivenRange.exe
+G:\Programing Language\Software University\07. CSharp Advanced Topics\07.  CSharpAdvancedTopics\03. PrimesInGivenRange\bin\Debug\_03.PrimesInGivenRange.pdb
+G:\Programing Language\Software University\07. CSharp Advanced Topics\07.  CSharpAdvancedTopics\03. PrimesInGivenRange\obj\Debug\03. PrimesInGivenRange.csprojResolveAssemblyReference.cache
+G:\Programing Language\Software University\07. CSharp Advanced Topics\07.  CSharpAdvancedTopics\03. PrimesInGivenRange\obj\Debug\_03.PrimesInGivenRange.exe
+G:\Programing Language\Software University\07. CSharp Advanced Topics\07.  CSharpAdvancedTopics\03. PrimesInGivenRange\obj\Debug\_03.PrimesInGivenRange.pdb

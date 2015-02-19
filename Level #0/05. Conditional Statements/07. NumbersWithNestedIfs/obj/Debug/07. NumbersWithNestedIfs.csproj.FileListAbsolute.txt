@@ -1,0 +1,6 @@
+G:\Programing Language\Software University\05. Conditional Statements\07. NumbersWithNestedIfs\bin\Debug\_07.NumbersWithNestedIfs.exe.config
+G:\Programing Language\Software University\05. Conditional Statements\07. NumbersWithNestedIfs\bin\Debug\_07.NumbersWithNestedIfs.exe
+G:\Programing Language\Software University\05. Conditional Statements\07. NumbersWithNestedIfs\bin\Debug\_07.NumbersWithNestedIfs.pdb
+G:\Programing Language\Software University\05. Conditional Statements\07. NumbersWithNestedIfs\obj\Debug\07. NumbersWithNestedIfs.csprojResolveAssemblyReference.cache
+G:\Programing Language\Software University\05. Conditional Statements\07. NumbersWithNestedIfs\obj\Debug\_07.NumbersWithNestedIfs.exe
+G:\Programing Language\Software University\05. Conditional Statements\07. NumbersWithNestedIfs\obj\Debug\_07.NumbersWithNestedIfs.pdb

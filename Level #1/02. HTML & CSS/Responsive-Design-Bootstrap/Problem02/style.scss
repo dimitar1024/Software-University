@@ -1,0 +1,278 @@
+body, span, div, article, section, nav, footer, header, p, a, h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    padding: 0;
+    font-family: Calibri;
+}
+
+body {
+    background-image: url('images/background-flowers.jpg');
+
+    div#wrapper {
+        width: 960px;
+        margin: 0 auto;
+
+        header {
+            height: 175px;
+            border: 1px solid #000000;
+            background-color: rgba(254,227,229,0.7);
+
+            h1 {
+                font-size: 52px;
+                font-weight: bold;
+
+                a {
+                    text-decoration: none;
+                    color: #000000;
+
+                    img {
+                        float: left;
+                        width: 250px;
+                        margin: 20px;
+                    }
+
+                    span {
+                        float: right;
+                        margin-right: 20px;
+                    }
+                }
+            }
+
+            nav {
+
+                ul {
+                    list-style-type: none;
+                    float: right;
+                    margin: 20px;
+
+                    li {
+                        display: inline-block;
+                        width: 150px;
+                        border: 2px solid black;
+                        height: 40px;
+                        background-color: #eb2a7b;
+                        text-align: center;
+
+                        a {
+                            text-decoration: none;
+                            color: #fff;
+                            padding: 20px;
+                            font-size: 24px;
+                        }
+                    }
+                }
+            }
+        }
+
+        aside.left {
+            float: left;
+            width: 150px;
+            border: 1px solid black;
+            background-color: rgba(254,227,229,0.7);
+            padding-right: 10px;
+            margin: 10px;
+            margin-left: 0px;
+            margin-top: 20px;
+
+            ul {
+                list-style-type: none;
+                margin-left: -30px;
+
+                li {
+
+                    a {
+                        text-decoration: none;
+                        color: #000;
+                    }
+                }
+            }
+        }
+
+        section {
+            float: left;
+            width: 613px;
+            border: 1px solid black;
+            background-color: rgba(254,227,229,0.7);
+            margin-top: 20px;
+
+            article {
+                header {
+                    border: none;
+                    height: 50px;
+                    background: none;
+
+                    h1 {
+                        font-size: 42px;
+                        margin: 10px;
+                    }
+                }
+
+                div {
+                    margin: 20px;
+
+                    img {
+                        width: 140px;
+                        height: 100px;
+                    }
+                }
+            }
+        }
+
+        aside.right {
+            float: right;
+            width: 150px;
+            border: 1px solid black;
+            background-color: rgba(254,227,229,0.7);
+            padding-right: 10px;
+            margin: 10px;
+            margin-right: 0px;
+            margin-top: 20px;
+
+            ul {
+                list-style-type: none;
+                margin-left: -30px;
+
+                li {
+
+                    a {
+                        text-decoration: none;
+                        color: #000;
+                    }
+                }
+            }
+        }
+
+        footer {
+            clear: both;
+            width: 940px;
+            height: 40px;
+            border: 1px solid #000000;
+            background-color: rgba(254,227,229,0.7);
+            text-align: center;
+            padding: 10px;
+        }
+    }
+}
+
+@media only screen and (max-width: 960px) {
+    body {
+        div#wrapper {
+            width: 100%;
+
+            section {
+                width: 60%;
+            }
+
+            footer {
+                width: 100%;
+                text-align: center;
+            }
+        }
+    }
+}
+
+@media only screen and (max-width: 780px) {
+    body {
+        div#wrapper {
+            width: 100%;
+
+            header {
+                nav {
+                    ul {
+                        width: 100%;
+                        margin: 0 auto;
+                    }
+                }
+            }
+
+            aside.left {
+                float: none;
+                width: 100%;
+                margin-top: 610px;
+                position: absolute;
+            }
+
+            aside.right {
+                float: none;
+                width: 100%;
+                position: absolute;
+                margin-top: 840px;
+                margin-left: -10px;
+            }
+
+            section {
+                float: left;
+                width: 100%;
+                position: absolute;
+                margin-top: 80px;
+            }
+
+            footer {
+                width: 100%;
+                text-align: center;
+            }
+        }
+    }
+}
+
+@media only screen and (max-width: 640px) {
+    body {
+        div#wrapper {
+            width: 100%;
+
+            header {
+                text-align: center;
+                nav {
+                    text-align: center;
+                    ul {
+                        width: 100%;
+                        margin: 0 auto;
+                        li{
+                            display: block;
+                             width: 90%;
+                             margin: 0px auto;
+                             text-align: center;
+                        }
+                    }
+                }
+            }
+
+            aside.left {
+                clear: both;
+                float: none;
+                width: 100%;
+                position: static;
+                margin: 0;
+                margin-bottom: 10px;
+            }
+
+            aside.right {
+                clear: both;
+                float: none;
+                width: 100%;
+                position: static;
+                margin: 0;
+                margin-bottom: 10px;
+            }
+
+            section {
+                clear: both;
+                width: 100%;
+                position: static;
+                margin: 0;
+                margin-bottom: 10px;
+                article{
+                div{
+                    margin: 10px 35px;
+                }}
+            }
+
+            footer {
+                width: 100%;
+                text-align: center;
+                position: static;
+                margin: 0;
+                margin-bottom: 10px;
+            }
+        }
+    }
+}

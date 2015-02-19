@@ -1,0 +1,6 @@
+G:\Programing Language\C# Basics Sample Exam\08. Exam\CSharpBasicsExam14April2014Morning\01. FruitMarket\bin\Debug\_01.FruitMarket.exe.config
+G:\Programing Language\C# Basics Sample Exam\08. Exam\CSharpBasicsExam14April2014Morning\01. FruitMarket\bin\Debug\_01.FruitMarket.exe
+G:\Programing Language\C# Basics Sample Exam\08. Exam\CSharpBasicsExam14April2014Morning\01. FruitMarket\bin\Debug\_01.FruitMarket.pdb
+G:\Programing Language\C# Basics Sample Exam\08. Exam\CSharpBasicsExam14April2014Morning\01. FruitMarket\obj\Debug\01. FruitMarket.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Basics Sample Exam\08. Exam\CSharpBasicsExam14April2014Morning\01. FruitMarket\obj\Debug\_01.FruitMarket.exe
+G:\Programing Language\C# Basics Sample Exam\08. Exam\CSharpBasicsExam14April2014Morning\01. FruitMarket\obj\Debug\_01.FruitMarket.pdb

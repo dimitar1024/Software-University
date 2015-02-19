@@ -1,0 +1,1 @@
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\02. StaticMembersandNamespaces\Problem06_Namespaces\bin\Debug\Problem06_Namespaces.exe.config

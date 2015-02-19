@@ -1,0 +1,14 @@
+C:\Users\dimitar1024\Desktop\OOP-Homeworks-master\OOP-Other-Types-HW\WordDocumentGeneratorApp\bin\Debug\WordDocumentGeneratorApp.exe.config
+C:\Users\dimitar1024\Desktop\OOP-Homeworks-master\OOP-Other-Types-HW\WordDocumentGeneratorApp\bin\Debug\WordDocumentGeneratorApp.exe
+C:\Users\dimitar1024\Desktop\OOP-Homeworks-master\OOP-Other-Types-HW\WordDocumentGeneratorApp\bin\Debug\WordDocumentGeneratorApp.pdb
+C:\Users\dimitar1024\Desktop\OOP-Homeworks-master\OOP-Other-Types-HW\WordDocumentGeneratorApp\bin\Debug\DocX.dll
+C:\Users\dimitar1024\Desktop\OOP-Homeworks-master\OOP-Other-Types-HW\WordDocumentGeneratorApp\obj\Debug\WordDocumentGeneratorApp.csprojResolveAssemblyReference.cache
+C:\Users\dimitar1024\Desktop\OOP-Homeworks-master\OOP-Other-Types-HW\WordDocumentGeneratorApp\obj\Debug\WordDocumentGeneratorApp.exe
+C:\Users\dimitar1024\Desktop\OOP-Homeworks-master\OOP-Other-Types-HW\WordDocumentGeneratorApp\obj\Debug\WordDocumentGeneratorApp.pdb
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\07. EnumStructuresGenericClassesAttr\Problem05_WordDocumentGenerator\bin\Debug\WordDocumentGeneratorApp.exe.config
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\07. EnumStructuresGenericClassesAttr\Problem05_WordDocumentGenerator\obj\Debug\WordDocumentGeneratorApp.exe
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\07. EnumStructuresGenericClassesAttr\Problem05_WordDocumentGenerator\obj\Debug\WordDocumentGeneratorApp.pdb
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\07. EnumStructuresGenericClassesAttr\Problem05_WordDocumentGenerator\bin\Debug\WordDocumentGeneratorApp.exe
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\07. EnumStructuresGenericClassesAttr\Problem05_WordDocumentGenerator\bin\Debug\WordDocumentGeneratorApp.pdb
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\07. EnumStructuresGenericClassesAttr\Problem05_WordDocumentGenerator\bin\Debug\DocX.dll
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\07. EnumStructuresGenericClassesAttr\Problem05_WordDocumentGenerator\obj\Debug\WordDocumentGeneratorApp.csprojResolveAssemblyReference.cache

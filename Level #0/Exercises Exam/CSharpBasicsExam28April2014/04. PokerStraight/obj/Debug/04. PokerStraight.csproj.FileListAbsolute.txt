@@ -1,0 +1,6 @@
+G:\Programing Language\C# Basics Sample Exam\01. Exam\CSharpBasicsExam28April2014\CSharpBasicsExam28April2014\04. PokerStraight\bin\Debug\_04.PokerStraight.exe.config
+G:\Programing Language\C# Basics Sample Exam\01. Exam\CSharpBasicsExam28April2014\CSharpBasicsExam28April2014\04. PokerStraight\bin\Debug\_04.PokerStraight.exe
+G:\Programing Language\C# Basics Sample Exam\01. Exam\CSharpBasicsExam28April2014\CSharpBasicsExam28April2014\04. PokerStraight\bin\Debug\_04.PokerStraight.pdb
+G:\Programing Language\C# Basics Sample Exam\01. Exam\CSharpBasicsExam28April2014\CSharpBasicsExam28April2014\04. PokerStraight\obj\Debug\04. PokerStraight.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Basics Sample Exam\01. Exam\CSharpBasicsExam28April2014\CSharpBasicsExam28April2014\04. PokerStraight\obj\Debug\_04.PokerStraight.exe
+G:\Programing Language\C# Basics Sample Exam\01. Exam\CSharpBasicsExam28April2014\CSharpBasicsExam28April2014\04. PokerStraight\obj\Debug\_04.PokerStraight.pdb

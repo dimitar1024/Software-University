@@ -1,0 +1,6 @@
+G:\Programing Language\Software University\05. Conditional Statements\13. Triangle\bin\Debug\_13.Triangle.exe.config
+G:\Programing Language\Software University\05. Conditional Statements\13. Triangle\bin\Debug\_13.Triangle.exe
+G:\Programing Language\Software University\05. Conditional Statements\13. Triangle\bin\Debug\_13.Triangle.pdb
+G:\Programing Language\Software University\05. Conditional Statements\13. Triangle\obj\Debug\13. Triangle.csprojResolveAssemblyReference.cache
+G:\Programing Language\Software University\05. Conditional Statements\13. Triangle\obj\Debug\_13.Triangle.exe
+G:\Programing Language\Software University\05. Conditional Statements\13. Triangle\obj\Debug\_13.Triangle.pdb

@@ -1,0 +1,6 @@
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\01. DefiningClasses\Problem02_Laptop Shop\bin\Debug\Problem02_Laptop Shop.exe.config
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\01. DefiningClasses\Problem02_Laptop Shop\bin\Debug\Problem02_Laptop Shop.exe
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\01. DefiningClasses\Problem02_Laptop Shop\bin\Debug\Problem02_Laptop Shop.pdb
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\01. DefiningClasses\Problem02_Laptop Shop\obj\Debug\Problem02_Laptop Shop.csprojResolveAssemblyReference.cache
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\01. DefiningClasses\Problem02_Laptop Shop\obj\Debug\Problem02_Laptop Shop.exe
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\01. DefiningClasses\Problem02_Laptop Shop\obj\Debug\Problem02_Laptop Shop.pdb

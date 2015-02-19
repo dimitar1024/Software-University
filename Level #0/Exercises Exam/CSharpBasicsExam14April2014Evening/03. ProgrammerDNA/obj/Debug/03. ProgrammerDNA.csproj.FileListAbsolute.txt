@@ -1,0 +1,6 @@
+G:\Programing Language\C# Basics Sample Exam\09. Exam\CSharpBasicsExam14April2014Evening\03. ProgrammerDNA\bin\Debug\_03.ProgrammerDNA.exe.config
+G:\Programing Language\C# Basics Sample Exam\09. Exam\CSharpBasicsExam14April2014Evening\03. ProgrammerDNA\bin\Debug\_03.ProgrammerDNA.exe
+G:\Programing Language\C# Basics Sample Exam\09. Exam\CSharpBasicsExam14April2014Evening\03. ProgrammerDNA\bin\Debug\_03.ProgrammerDNA.pdb
+G:\Programing Language\C# Basics Sample Exam\09. Exam\CSharpBasicsExam14April2014Evening\03. ProgrammerDNA\obj\Debug\03. ProgrammerDNA.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Basics Sample Exam\09. Exam\CSharpBasicsExam14April2014Evening\03. ProgrammerDNA\obj\Debug\_03.ProgrammerDNA.exe
+G:\Programing Language\C# Basics Sample Exam\09. Exam\CSharpBasicsExam14April2014Evening\03. ProgrammerDNA\obj\Debug\_03.ProgrammerDNA.pdb

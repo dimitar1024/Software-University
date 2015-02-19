@@ -1,0 +1,6 @@
+G:\Programing Language\Software University\06. Loops\13. BinaryToDecimalNumber\bin\Debug\_13.BinaryToDecimalNumber.exe.config
+G:\Programing Language\Software University\06. Loops\13. BinaryToDecimalNumber\bin\Debug\_13.BinaryToDecimalNumber.exe
+G:\Programing Language\Software University\06. Loops\13. BinaryToDecimalNumber\bin\Debug\_13.BinaryToDecimalNumber.pdb
+G:\Programing Language\Software University\06. Loops\13. BinaryToDecimalNumber\obj\Debug\13. BinaryToDecimalNumber.csprojResolveAssemblyReference.cache
+G:\Programing Language\Software University\06. Loops\13. BinaryToDecimalNumber\obj\Debug\_13.BinaryToDecimalNumber.exe
+G:\Programing Language\Software University\06. Loops\13. BinaryToDecimalNumber\obj\Debug\_13.BinaryToDecimalNumber.pdb

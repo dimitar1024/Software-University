@@ -1,0 +1,5 @@
+G:\Programing Language\Software University\04. Console Input Output\15. NewHouse\bin\Debug\_15.NewHouse.exe.config
+G:\Programing Language\Software University\04. Console Input Output\15. NewHouse\bin\Debug\_15.NewHouse.exe
+G:\Programing Language\Software University\04. Console Input Output\15. NewHouse\bin\Debug\_15.NewHouse.pdb
+G:\Programing Language\Software University\04. Console Input Output\15. NewHouse\obj\Debug\_15.NewHouse.exe
+G:\Programing Language\Software University\04. Console Input Output\15. NewHouse\obj\Debug\_15.NewHouse.pdb

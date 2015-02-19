@@ -1,0 +1,5 @@
+G:\Programing Language\Software University\03. Operators and Expressions\18. OddEvenSum\bin\Debug\_18.OddEvenSum.exe.config
+G:\Programing Language\Software University\03. Operators and Expressions\18. OddEvenSum\bin\Debug\_18.OddEvenSum.exe
+G:\Programing Language\Software University\03. Operators and Expressions\18. OddEvenSum\bin\Debug\_18.OddEvenSum.pdb
+G:\Programing Language\Software University\03. Operators and Expressions\18. OddEvenSum\obj\Debug\_18.OddEvenSum.exe
+G:\Programing Language\Software University\03. Operators and Expressions\18. OddEvenSum\obj\Debug\_18.OddEvenSum.pdb

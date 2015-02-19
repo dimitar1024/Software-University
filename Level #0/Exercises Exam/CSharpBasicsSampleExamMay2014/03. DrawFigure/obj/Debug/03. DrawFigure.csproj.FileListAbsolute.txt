@@ -1,0 +1,11 @@
+G:\Programing Language\C# Basics Sample Exam\C# Basics Sample Exam May 2014\CSharpBasicsSampleExamMay2014\03. DrawFigure\bin\Debug\_03.DrawFigure.exe.config
+G:\Programing Language\C# Basics Sample Exam\C# Basics Sample Exam May 2014\CSharpBasicsSampleExamMay2014\03. DrawFigure\bin\Debug\_03.DrawFigure.exe
+G:\Programing Language\C# Basics Sample Exam\C# Basics Sample Exam May 2014\CSharpBasicsSampleExamMay2014\03. DrawFigure\bin\Debug\_03.DrawFigure.pdb
+G:\Programing Language\C# Basics Sample Exam\C# Basics Sample Exam May 2014\CSharpBasicsSampleExamMay2014\03. DrawFigure\obj\Debug\_03.DrawFigure.exe
+G:\Programing Language\C# Basics Sample Exam\C# Basics Sample Exam May 2014\CSharpBasicsSampleExamMay2014\03. DrawFigure\obj\Debug\_03.DrawFigure.pdb
+G:\Programing Language\C# Basics Sample Exam\00. Exam\CSharpBasicsSampleExamMay2014\03. DrawFigure\bin\Debug\_03.DrawFigure.exe.config
+G:\Programing Language\C# Basics Sample Exam\00. Exam\CSharpBasicsSampleExamMay2014\03. DrawFigure\obj\Debug\_03.DrawFigure.exe
+G:\Programing Language\C# Basics Sample Exam\00. Exam\CSharpBasicsSampleExamMay2014\03. DrawFigure\obj\Debug\_03.DrawFigure.pdb
+G:\Programing Language\C# Basics Sample Exam\00. Exam\CSharpBasicsSampleExamMay2014\03. DrawFigure\bin\Debug\_03.DrawFigure.exe
+G:\Programing Language\C# Basics Sample Exam\00. Exam\CSharpBasicsSampleExamMay2014\03. DrawFigure\bin\Debug\_03.DrawFigure.pdb
+G:\Programing Language\C# Basics Sample Exam\00. Exam\CSharpBasicsSampleExamMay2014\03. DrawFigure\obj\Debug\03. DrawFigure.csprojResolveAssemblyReference.cache

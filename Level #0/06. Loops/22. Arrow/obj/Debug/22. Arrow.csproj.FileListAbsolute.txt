@@ -1,0 +1,6 @@
+G:\Programing Language\Software University\06. Loops\22. Arrow\bin\Debug\_22.Arrow.exe.config
+G:\Programing Language\Software University\06. Loops\22. Arrow\bin\Debug\_22.Arrow.exe
+G:\Programing Language\Software University\06. Loops\22. Arrow\bin\Debug\_22.Arrow.pdb
+G:\Programing Language\Software University\06. Loops\22. Arrow\obj\Debug\22. Arrow.csprojResolveAssemblyReference.cache
+G:\Programing Language\Software University\06. Loops\22. Arrow\obj\Debug\_22.Arrow.exe
+G:\Programing Language\Software University\06. Loops\22. Arrow\obj\Debug\_22.Arrow.pdb

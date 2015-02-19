@@ -1,0 +1,65 @@
+﻿body, h1, h2, h3, h4, h5, h6, p,span,div,input { margin: 0; padding:0;
+    font-family: Calibri;
+}
+
+#wrapper div{
+    display: inline-block;
+    float: left;
+    border: solid 1px black;
+}
+
+    #wrapper div#content {
+        width: 440px;
+        height: 380px;
+    }
+
+        #wrapper div#content h2 {
+            margin: 10px;
+            color: #243e57;
+        }
+
+        #wrapper div#content div {
+            width: 125px;
+            height: 150px;
+            border: solid 1px #e6f4fc;
+            border-radius: 1em;
+            border-top-right-radius: 1em;
+            border-bottom-left-radius: 1em;
+            margin: 5px;
+        }
+
+            #wrapper div#content div h5 {
+                text-align: center;
+                color: #184571;
+            }
+
+            #wrapper div#content div p {
+                margin-left: 10px;
+                font-size: 12px;
+            }
+
+            #wrapper div#content div img {
+                z-index: 2;
+                margin: 5px 10px;
+            }
+
+            #wrapper div#content div div.price {
+                float: right;
+                width: 75px;
+                height: 28px;
+                background-color: #2c425a;
+                margin: 0px;
+
+                
+            }
+
+            #wrapper div#content div img.new {
+                z-index: 1;
+                margin-left: -40px;
+                margin-top: -70px;
+            }
+    
+    #wrapper div#aside {
+        width: 140px;
+        height: 380px;
+    }    

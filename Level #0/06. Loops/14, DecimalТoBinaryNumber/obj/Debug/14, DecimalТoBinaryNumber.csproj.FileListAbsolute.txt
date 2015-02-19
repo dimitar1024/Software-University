@@ -1,0 +1,6 @@
+G:\Programing Language\Software University\06. Loops\14, DecimalТoBinaryNumber\bin\Debug\14, DecimalТoBinaryNumber.exe.config
+G:\Programing Language\Software University\06. Loops\14, DecimalТoBinaryNumber\bin\Debug\14, DecimalТoBinaryNumber.exe
+G:\Programing Language\Software University\06. Loops\14, DecimalТoBinaryNumber\bin\Debug\14, DecimalТoBinaryNumber.pdb
+G:\Programing Language\Software University\06. Loops\14, DecimalТoBinaryNumber\obj\Debug\14, DecimalТoBinaryNumber.csprojResolveAssemblyReference.cache
+G:\Programing Language\Software University\06. Loops\14, DecimalТoBinaryNumber\obj\Debug\14, DecimalТoBinaryNumber.exe
+G:\Programing Language\Software University\06. Loops\14, DecimalТoBinaryNumber\obj\Debug\14, DecimalТoBinaryNumber.pdb

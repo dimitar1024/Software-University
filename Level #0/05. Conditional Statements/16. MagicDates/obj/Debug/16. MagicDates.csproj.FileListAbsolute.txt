@@ -1,0 +1,6 @@
+G:\Programing Language\Software University\05. Conditional Statements\16. MagicDates\bin\Debug\_16.MagicDates.exe.config
+G:\Programing Language\Software University\05. Conditional Statements\16. MagicDates\bin\Debug\_16.MagicDates.exe
+G:\Programing Language\Software University\05. Conditional Statements\16. MagicDates\bin\Debug\_16.MagicDates.pdb
+G:\Programing Language\Software University\05. Conditional Statements\16. MagicDates\obj\Debug\16. MagicDates.csprojResolveAssemblyReference.cache
+G:\Programing Language\Software University\05. Conditional Statements\16. MagicDates\obj\Debug\_16.MagicDates.exe
+G:\Programing Language\Software University\05. Conditional Statements\16. MagicDates\obj\Debug\_16.MagicDates.pdb

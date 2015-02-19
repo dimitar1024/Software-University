@@ -1,0 +1,5 @@
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\02. StaticMembersandNamespaces\Problem02_DistanceCalculator\bin\Debug\Problem02_DistanceCalculator.exe.config
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\02. StaticMembersandNamespaces\Problem02_DistanceCalculator\bin\Debug\Problem02_DistanceCalculator.exe
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\02. StaticMembersandNamespaces\Problem02_DistanceCalculator\bin\Debug\Problem02_DistanceCalculator.pdb
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\02. StaticMembersandNamespaces\Problem02_DistanceCalculator\obj\Debug\Problem02_DistanceCalculator.exe
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\02. StaticMembersandNamespaces\Problem02_DistanceCalculator\obj\Debug\Problem02_DistanceCalculator.pdb

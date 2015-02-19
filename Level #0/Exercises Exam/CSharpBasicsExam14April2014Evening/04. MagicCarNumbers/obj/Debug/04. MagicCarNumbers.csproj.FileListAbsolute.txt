@@ -1,0 +1,6 @@
+G:\Programing Language\C# Basics Sample Exam\09. Exam\CSharpBasicsExam14April2014Evening\04. MagicCarNumbers\bin\Debug\_04.MagicCarNumbers.exe.config
+G:\Programing Language\C# Basics Sample Exam\09. Exam\CSharpBasicsExam14April2014Evening\04. MagicCarNumbers\bin\Debug\_04.MagicCarNumbers.exe
+G:\Programing Language\C# Basics Sample Exam\09. Exam\CSharpBasicsExam14April2014Evening\04. MagicCarNumbers\bin\Debug\_04.MagicCarNumbers.pdb
+G:\Programing Language\C# Basics Sample Exam\09. Exam\CSharpBasicsExam14April2014Evening\04. MagicCarNumbers\obj\Debug\04. MagicCarNumbers.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Basics Sample Exam\09. Exam\CSharpBasicsExam14April2014Evening\04. MagicCarNumbers\obj\Debug\_04.MagicCarNumbers.exe
+G:\Programing Language\C# Basics Sample Exam\09. Exam\CSharpBasicsExam14April2014Evening\04. MagicCarNumbers\obj\Debug\_04.MagicCarNumbers.pdb

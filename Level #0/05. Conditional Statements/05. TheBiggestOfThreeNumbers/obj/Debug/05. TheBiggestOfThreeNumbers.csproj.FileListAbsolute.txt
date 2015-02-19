@@ -1,0 +1,6 @@
+G:\Programing Language\Software University\05. Conditional Statements\05. TheBiggestOfThreeNumbers\bin\Debug\_05.TheBiggestOfThreeNumbers.exe.config
+G:\Programing Language\Software University\05. Conditional Statements\05. TheBiggestOfThreeNumbers\bin\Debug\_05.TheBiggestOfThreeNumbers.exe
+G:\Programing Language\Software University\05. Conditional Statements\05. TheBiggestOfThreeNumbers\bin\Debug\_05.TheBiggestOfThreeNumbers.pdb
+G:\Programing Language\Software University\05. Conditional Statements\05. TheBiggestOfThreeNumbers\obj\Debug\05. TheBiggestOfThreeNumbers.csprojResolveAssemblyReference.cache
+G:\Programing Language\Software University\05. Conditional Statements\05. TheBiggestOfThreeNumbers\obj\Debug\_05.TheBiggestOfThreeNumbers.exe
+G:\Programing Language\Software University\05. Conditional Statements\05. TheBiggestOfThreeNumbers\obj\Debug\_05.TheBiggestOfThreeNumbers.pdb

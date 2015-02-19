@@ -1,0 +1,36 @@
+import java.util.LinkedHashMap;
+import java.util.Map.Entry;
+import java.util.Scanner;
+import java.util.TreeMap;
+
+
+public class _12_CardsFrequencies {
+
+	public static void main(String[] args) {
+		Scanner in = new Scanner(System.in);
+		
+		String input = in.nextLine().toUpperCase();
+		String[] cards = input.split("\\W+");
+		
+		LinkedHashMap<String, Integer> cardCounter = new LinkedHashMap<String, Integer>();
+		for (String card : cards) {
+			Integer counter = cardCounter.get(card);
+			if (counter == null) {
+				counter = 0;
+			}
+			cardCounter.put(card, counter+1);
+		}
+		
+		for (Entry<String, Integer> pair : cardCounter.entrySet()) {
+			String card = pair.getKey();
+			Integer value = pair.getValue();
+			
+			float frequency = (float)value/ (cards.length);
+			
+			System.out.printf("%s -> %.2f%%%n",card,frequency*100);
+		}
+		
+		in.close();
+	}
+
+}

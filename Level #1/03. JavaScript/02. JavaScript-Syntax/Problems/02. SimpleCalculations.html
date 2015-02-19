@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Simple Calculations</title>
+    
+</head>
+<body>
+    
+    <input type="text" id="fr-textbox" placeholder="Enter number" />
+	
+    <a href="#" onclick="Event()">Reload</a>
+	<hr/>
+	<p id="demo"></p>
+    <p id="demo1"></p>
+    <script>
+        function Event() {
+            var input = document.getElementById("fr-textbox").value;
+            var number = parseFloat(input);
+            var floor = Math.floor(number);
+            var round = Math.round(number);
+            document.getElementById("demo").innerHTML = floor;
+            document.getElementById("demo1").innerHTML = round;
+			
+			
+        }
+           
+    </script>
+</body>
+</html>

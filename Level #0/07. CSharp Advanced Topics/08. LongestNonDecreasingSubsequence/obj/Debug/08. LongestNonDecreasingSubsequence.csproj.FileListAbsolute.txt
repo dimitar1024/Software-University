@@ -1,0 +1,2 @@
+G:\Programing Language\Software University\07. CSharp Advanced Topics\07.  CSharpAdvancedTopics\08. LongestNonDecreasingSubsequence\bin\Debug\_08.LongestNonDecreasingSubsequence.exe.config
+D:\Programing Language\#0 lavel C# July 2014\07. CSharp Advanced Topics\07.  CSharpAdvancedTopics\08. LongestNonDecreasingSubsequence\bin\Debug\_08.LongestNonDecreasingSubsequence.exe.config

@@ -1,0 +1,8 @@
+G:\Programing Language\Software University\Intro-Programming-Homework\06. PrintNumbers\bin\Debug\_06.PrintNumbers.exe.config
+G:\Programing Language\Software University\Intro-Programming-Homework\06. PrintNumbers\bin\Debug\_06.PrintNumbers.exe
+G:\Programing Language\Software University\Intro-Programming-Homework\06. PrintNumbers\bin\Debug\_06.PrintNumbers.pdb
+G:\Programing Language\Software University\Intro-Programming-Homework\06. PrintNumbers\obj\Debug\_06.PrintNumbers.exe
+G:\Programing Language\Software University\Intro-Programming-Homework\06. PrintNumbers\obj\Debug\_06.PrintNumbers.pdb
+G:\Programing Language\Software University\01. Intro-Programming-Homework\06. PrintNumbers\bin\Debug\_06.PrintNumbers.exe.config
+G:\Programing Language\Software University\01. Intro-Programming-Homework\06. PrintNumbers\obj\Debug\_06.PrintNumbers.exe
+G:\Programing Language\Software University\01. Intro-Programming-Homework\06. PrintNumbers\obj\Debug\_06.PrintNumbers.pdb

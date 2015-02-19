@@ -1,0 +1,130 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="style.css" rel="stylesheet" />
+</head>
+<body>
+    <section>
+        <div id="bar">
+                <img src="img/calc.png" />
+                <span>Calculator</span>
+                <div class="close" onclick="alert('You can not close the program because it is running in a browser!')"><img src="img/close.png" /></div>
+                <div><img src="img/maximize.png" /> </div>
+                <div><img src="img/minimize.png" /></div>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="#">File</a>
+                        <ul>
+                        	<li><input type="radio" id="standard" name="name"/><label for="standard">Standard </label><span class="shortcut"> Alt+1 </span></li>
+                        	<li><input type="radio" id="sientific" name="name" /><label for="sientific">Sientific </label><span class="shortcut"> Alt+2 </span></li>
+                        	<li><input type="radio" id="programmer" name="name" /><label for="programmer">Programmer </label><span class="shortcut"> Alt+3 </span></li>
+                        	<li><input type="radio" id="statistics" name="name" /><label for="statistics">Statistics </label><span class="shortcut"> Alt+4 </span></li>
+                        	<li><span>History </span><span class="shortcut"> Ctrl+H </span></li>
+                        	<li><span>Digit grouping</span></li>
+                        	<li><input type="radio" id="basic" name="name1" /><label for="basic">Basic </label><span class="shortcut"> Ctrl+F4 </span></li>
+                        	<li><input type="radio" id="unit" name="name1" /><label for="unit">Unit conversion </label><span class="shortcut"> Ctrl+U </span></li>
+                        	<li><input type="radio" id="date" name="name1" /><label for="date">Date conversion </label><span class="shortcut"> Ctrl+E </span></li>
+                        	<li><span>Worksheets </span><span class="shortcut"> ► </span></li>
+                        </ul>
+                    </li>
+                    <li><a href="#">Edit</a>
+                        <ul>
+                            <li><span>Copy </span><span class="shortcut"> Ctrl+C </span></li>
+                            <li><span>Paste </span><span class="shortcut"> Ctrl+V </span></li>
+                        </ul>
+                    </li>
+                    <li><a href="#">Help</a>
+                        <ul>
+                            <li><span>Veiw Help </span><span class="shortcut"> F1 </span></li>
+                            <li><span>About calculator</span></li>
+                        </ul>
+                    </li>
+                </ul>
+            </nav>
+
+            <article>
+                <div id="display"><span>0</span></div>
+                <div id="bitcode">
+                    <span>0000 &nbsp;0000 &nbsp;0000 &nbsp;0000 &nbsp;0000 &nbsp;0000 &nbsp;0000 &nbsp;0000</span><br />
+                    <div><span class="bits63">63</span><span class="bits47">47</span><span class="bits32">32</span><br /></div>
+                    <div><span>0000 &nbsp;0000 &nbsp;0000 &nbsp;0000 &nbsp;0000 &nbsp;0000 &nbsp;0000 &nbsp;0000</span><br /></div>
+                    <div><span class="bits31">31</span><span class="bits15">15</span><span class="bits0">0</span></div>
+                        </div>
+                <div id="block">
+                    <div id="hex">
+                        <input type="radio" name="hex" id="hex1" value=" " />
+                        <label for="hex1">Hex</label><br />
+                        <input type="radio" name="hex" id="dec" value=" " />
+                        <label for="dec">Dec</label><br />
+                        <input type="radio" name="hex" id="oct" value=" " />
+                        <label for="oct">Oct</label><br />
+                        <input type="radio" name="hex" id="bin" value=" " />
+                        <label for="bin">Bin</label><br />
+
+                    </div>
+                    <div id="word">
+                        <input type="radio" name="word" id="qword" value=" " />
+                        <label for="qword">Qword</label><br />
+                        <input type="radio" name="word" id="dword" value=" " />
+                        <label for="dword">Dword</label><br />
+                        <input type="radio" name="word" id="word1" value=" " />
+                        <label for="word1">Word</label><br />
+                        <input type="radio" name="word" id="byte" value=" " />
+                        <label for="byte">Byte</label><br />
+                    </div>
+                </div>
+
+                <div id="buttons">
+                    <div></div>
+                    <div class="functions"><span>Mod</span></div>
+                    <div><span>A</span></div>
+                    <div><span>MC</span></div>
+                    <div><span>MR</span></div>
+                    <div><span>MS</span></div>
+                    <div><span>M+</span></div>
+                    <div><span>M-</span></div>
+                    <div class="functions"><span>(</span></div>
+                    <div class="functions"><span>)</span></div>
+                    <div><span>B</span></div>
+                    <div class="functions"><span>&larr;</span></div>
+                    <div class="functions"><span>CE</span></div>
+                    <div class="functions"><span>C</span></div>
+                    <div class="functions"><span>&plusmn;</span></div>
+                    <div><span>&radic;</span></div>
+                    <div class="functions"><span>RoL</span></div>
+                    <div class="functions "><span>RoR</span></div>
+                    <div><span>C</span></div>
+                    <div class="digit"><span>7</span></div>
+                    <div class="digit"><span>8</span></div>
+                    <div class="digit"><span>9</span></div>
+                    <div class="functions"><span>/</span></div>
+                    <div><span>%</span></div>
+                    <div class="functions"><span>Or</span></div>
+                    <div class="functions"><span>Xor</span></div>
+                    <div><span>D</span></div>
+                    <div class="digit"><span>4</span></div>
+                    <div class="digit"><span>5</span></div>
+                    <div class="digit"><span>6</span></div>
+                    <div class="functions"><span>*</span></div>
+                    <div><span>1/x</span></div>
+                    <div class="functions"><span>Lsh</span></div>
+                    <div class="functions"><span>Rsh</span></div>
+                    <div><span>E</span></div>
+                    <div class="digit"><span>1</span></div>
+                    <div class="digit"><span>2</span></div>
+                    <div class="digit"><span>3</span></div>
+                    <div class="functions"><span>-</span></div>
+                    <div class="eval functions"><span>=</span></div>
+                    <div class="last functions"><span>Not</span></div>
+                    <div class="last functions"><span>And</span></div>
+                    <div class="last"><span>F</span></div>
+                    <div class="zero last digit"><span>0</span></div>
+                    <div class="last"><span>.</span></div>
+                    <div class="last functions"><span>+</span></div>
+                </div>
+            </article>
+    </section>
+</body>
+</html>

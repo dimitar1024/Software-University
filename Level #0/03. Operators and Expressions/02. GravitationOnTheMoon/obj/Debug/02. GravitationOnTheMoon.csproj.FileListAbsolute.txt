@@ -1,0 +1,5 @@
+G:\Programing Language\Software University\03. Operators and Expressions\02. GravitationOnTheMoon\bin\Debug\_02.GravitationOnTheMoon.exe.config
+G:\Programing Language\Software University\03. Operators and Expressions\02. GravitationOnTheMoon\bin\Debug\_02.GravitationOnTheMoon.exe
+G:\Programing Language\Software University\03. Operators and Expressions\02. GravitationOnTheMoon\bin\Debug\_02.GravitationOnTheMoon.pdb
+G:\Programing Language\Software University\03. Operators and Expressions\02. GravitationOnTheMoon\obj\Debug\_02.GravitationOnTheMoon.exe
+G:\Programing Language\Software University\03. Operators and Expressions\02. GravitationOnTheMoon\obj\Debug\_02.GravitationOnTheMoon.pdb

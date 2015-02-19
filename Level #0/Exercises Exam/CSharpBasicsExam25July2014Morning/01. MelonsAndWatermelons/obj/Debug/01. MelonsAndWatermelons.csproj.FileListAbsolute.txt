@@ -1,0 +1,6 @@
+G:\Programing Language\C# Basics Sample Exam\10. Exam\CSharpBasicsExam25July2014Morning\01. MelonsAndWatermelons\bin\Debug\_01.MelonsAndWatermelons.exe.config
+G:\Programing Language\C# Basics Sample Exam\10. Exam\CSharpBasicsExam25July2014Morning\01. MelonsAndWatermelons\bin\Debug\_01.MelonsAndWatermelons.exe
+G:\Programing Language\C# Basics Sample Exam\10. Exam\CSharpBasicsExam25July2014Morning\01. MelonsAndWatermelons\bin\Debug\_01.MelonsAndWatermelons.pdb
+G:\Programing Language\C# Basics Sample Exam\10. Exam\CSharpBasicsExam25July2014Morning\01. MelonsAndWatermelons\obj\Debug\01. MelonsAndWatermelons.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Basics Sample Exam\10. Exam\CSharpBasicsExam25July2014Morning\01. MelonsAndWatermelons\obj\Debug\_01.MelonsAndWatermelons.exe
+G:\Programing Language\C# Basics Sample Exam\10. Exam\CSharpBasicsExam25July2014Morning\01. MelonsAndWatermelons\obj\Debug\_01.MelonsAndWatermelons.pdb

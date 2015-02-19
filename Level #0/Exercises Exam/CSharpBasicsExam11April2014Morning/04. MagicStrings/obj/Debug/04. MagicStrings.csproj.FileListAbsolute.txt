@@ -1,0 +1,9 @@
+G:\Programing Language\C# Basics Sample Exam\06. Exam\CSharpBasicsExam11April2014Morning\04. MagicStrings\bin\Debug\_04.MagicStrings.exe.config
+G:\Programing Language\C# Basics Sample Exam\06. Exam\CSharpBasicsExam11April2014Morning\04. MagicStrings\bin\Debug\_04.MagicStrings.exe
+G:\Programing Language\C# Basics Sample Exam\06. Exam\CSharpBasicsExam11April2014Morning\04. MagicStrings\bin\Debug\_04.MagicStrings.pdb
+G:\Programing Language\C# Basics Sample Exam\06. Exam\CSharpBasicsExam11April2014Morning\04. MagicStrings\obj\Debug\_04.MagicStrings.exe
+G:\Programing Language\C# Basics Sample Exam\06. Exam\CSharpBasicsExam11April2014Morning\04. MagicStrings\obj\Debug\_04.MagicStrings.pdb
+G:\Programing Language\C# Basics Sample Exam\06. Exam\CSharpBasicsExam11April2014Morning\04. MagicStrings\obj\Debug\04. MagicStrings.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Basics Sample Exam\04. Exam\CSharpBasicsExam11April2014Morning\04. MagicStrings\bin\Debug\_04.MagicStrings.exe.config
+G:\Programing Language\C# Basics Sample Exam\04. Exam\CSharpBasicsExam11April2014Morning\04. MagicStrings\obj\Debug\_04.MagicStrings.exe
+G:\Programing Language\C# Basics Sample Exam\04. Exam\CSharpBasicsExam11April2014Morning\04. MagicStrings\obj\Debug\_04.MagicStrings.pdb

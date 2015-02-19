@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>The Lifetime Supply Calculator</title>
+
+</head>
+<body>
+    <textarea id="fr-textbox" placeholder="Enter number"></textarea>
+
+
+    <a href="#" onclick="Event()">Reload</a>
+    <hr />
+    <p id="demo"></p>
+    <script>
+        function Event() {
+            var input = document.getElementById("fr-textbox").value;
+
+            var data = input.split(/([a-zA-Z0-9.]+)/);
+            var person = {};
+            person["age"] =  parseInt(data[1]);
+            person["maxAge"] = parseInt(data[3]);
+            person["food"] = data[5];
+            person["foodPerDay"] = parseFloat(data[7]);
+            
+            
+           
+
+            var eat = calcSupply(person.age, person.maxAge, person.food, person.foodPerDay);
+            document.getElementById("demo").innerHTML = eat;
+        };
+
+        function calcSupply(age, maxAge, food, foodPerDay) {
+            var dayOfYear = 365;
+            var ageLife = maxAge - age;
+            var eatFood = ageLife * dayOfYear * foodPerDay;
+            return eatFood + " kg of " + food + " would be enough until I am " + maxAge + " years old.";
+        }
+
+
+    </script>
+</body>
+</html>

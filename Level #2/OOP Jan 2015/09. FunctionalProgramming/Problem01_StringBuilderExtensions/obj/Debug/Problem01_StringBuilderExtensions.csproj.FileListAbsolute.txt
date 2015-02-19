@@ -1,0 +1,6 @@
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\09. FunctionalProgramming\Problem01_StringBuilderExtensions\bin\Debug\Problem01_StringBuilderExtensions.exe.config
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\09. FunctionalProgramming\Problem01_StringBuilderExtensions\bin\Debug\Problem01_StringBuilderExtensions.exe
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\09. FunctionalProgramming\Problem01_StringBuilderExtensions\bin\Debug\Problem01_StringBuilderExtensions.pdb
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\09. FunctionalProgramming\Problem01_StringBuilderExtensions\obj\Debug\Problem01_StringBuilderExtensions.csprojResolveAssemblyReference.cache
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\09. FunctionalProgramming\Problem01_StringBuilderExtensions\obj\Debug\Problem01_StringBuilderExtensions.exe
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\09. FunctionalProgramming\Problem01_StringBuilderExtensions\obj\Debug\Problem01_StringBuilderExtensions.pdb

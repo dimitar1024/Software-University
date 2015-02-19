@@ -1,0 +1,6 @@
+G:\Programing Language\C# Basics Sample Exam\06. Exam\CSharpBasicsExam12April2014Morning\3. House\bin\Debug\_3.House.exe.config
+G:\Programing Language\C# Basics Sample Exam\06. Exam\CSharpBasicsExam12April2014Morning\3. House\bin\Debug\_3.House.exe
+G:\Programing Language\C# Basics Sample Exam\06. Exam\CSharpBasicsExam12April2014Morning\3. House\bin\Debug\_3.House.pdb
+G:\Programing Language\C# Basics Sample Exam\06. Exam\CSharpBasicsExam12April2014Morning\3. House\obj\Debug\3. House.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Basics Sample Exam\06. Exam\CSharpBasicsExam12April2014Morning\3. House\obj\Debug\_3.House.exe
+G:\Programing Language\C# Basics Sample Exam\06. Exam\CSharpBasicsExam12April2014Morning\3. House\obj\Debug\_3.House.pdb

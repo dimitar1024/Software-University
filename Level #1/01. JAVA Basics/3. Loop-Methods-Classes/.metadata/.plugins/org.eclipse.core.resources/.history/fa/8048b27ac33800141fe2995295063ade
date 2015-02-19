@@ -1,0 +1,22 @@
+import java.util.*;
+import java.io.*;
+import java.nio.charset.Charset;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
+
+public class _09_ListOfProducts {
+
+	public static void main(String[] args) throws IOException {
+		Path file = Paths.get("names.txt");
+		Scanner inFile = new Scanner(file);
+		String line = null;
+		while ((line = inFile.nextLine())!=null) {
+			
+			System.out.println(line);
+		}
+		
+		inFile.close();
+	}
+
+}

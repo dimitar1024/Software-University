@@ -1,0 +1,33 @@
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.io.IOException;
+
+
+
+
+public class _08_SumNumbersFromATextFile {
+
+	public static void main(String[] args) throws IOException {
+		String fileName = "sum.txt";
+		
+		try {
+			int sum =0;
+			BufferedReader br = new BufferedReader(new FileReader(fileName));
+			while (true) {
+				String line = br.readLine();
+				if (line == null) {
+					break;
+				}
+				int number = Integer.parseInt(line);
+				sum += number;
+				
+			}
+			br.close();
+			System.out.println(sum);
+			
+		} catch (IOException e) {
+			System.out.println("Error");
+		}
+	}
+
+}

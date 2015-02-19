@@ -1,0 +1,66 @@
+﻿body { background-image: url(img/formBackground.jpg);
+       font-family: Calibri;
+}
+
+    body p {
+        color: #fff;
+    }
+
+    body div {
+        width: 340px;
+        background-color: rgba(178, 199, 238, 0.8);
+        margin: 5px;
+        padding: 10px;
+        border: solid 1px #c1d2e7;
+        border-radius: 5px;
+        position: relative;
+    }
+
+        body div input {
+            float: right;
+            height: 20px;
+            width: 180px;
+            margin-right: 50px;
+            border-radius: 3px;
+        }
+
+        body div textarea {
+            float: right;
+            height: 80px;
+            width: 180px;
+            margin-right: 50px;
+            border-radius: 3px;
+            position: relative;
+        }
+
+        body div.text  {
+            height: 90px;
+        }
+
+        body div input[type="radio"] {
+            display: inline-block;
+            width: 10px;
+            float: none;
+            margin-left: 10px;
+            margin-right: 10px;
+        }
+
+        body div input label {
+            margin-left: 0px;
+        }
+
+            body div input label img {
+                margin-left: -50px;
+                width: 25px;
+                height: 15px;
+            }
+
+    body input[type="submit"] {
+        width: 85px;
+        height: 25px;
+        color: #fff;
+        background-color: #04152f;
+        border: solid 1px #04152f;
+        border-radius: 10px;
+        margin: 10px 140px;
+    }

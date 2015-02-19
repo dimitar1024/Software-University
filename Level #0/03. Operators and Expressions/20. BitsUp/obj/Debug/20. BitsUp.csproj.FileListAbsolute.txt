@@ -1,0 +1,6 @@
+G:\Programing Language\Software University\03. Operators and Expressions\20. BitsUp\bin\Debug\_20.BitsUp.exe.config
+G:\Programing Language\Software University\03. Operators and Expressions\20. BitsUp\bin\Debug\_20.BitsUp.exe
+G:\Programing Language\Software University\03. Operators and Expressions\20. BitsUp\bin\Debug\_20.BitsUp.pdb
+G:\Programing Language\Software University\03. Operators and Expressions\20. BitsUp\obj\Debug\20. BitsUp.csprojResolveAssemblyReference.cache
+G:\Programing Language\Software University\03. Operators and Expressions\20. BitsUp\obj\Debug\_20.BitsUp.exe
+G:\Programing Language\Software University\03. Operators and Expressions\20. BitsUp\obj\Debug\_20.BitsUp.pdb

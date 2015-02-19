@@ -1,0 +1,6 @@
+G:\Programing Language\C# Basics Sample Exam\07. Exam\CSharpBasicsExam12April2014Evening\02. OddEvenElements\bin\Debug\_02.OddEvenElements.exe.config
+G:\Programing Language\C# Basics Sample Exam\07. Exam\CSharpBasicsExam12April2014Evening\02. OddEvenElements\bin\Debug\_02.OddEvenElements.exe
+G:\Programing Language\C# Basics Sample Exam\07. Exam\CSharpBasicsExam12April2014Evening\02. OddEvenElements\bin\Debug\_02.OddEvenElements.pdb
+G:\Programing Language\C# Basics Sample Exam\07. Exam\CSharpBasicsExam12April2014Evening\02. OddEvenElements\obj\Debug\_02.OddEvenElements.exe
+G:\Programing Language\C# Basics Sample Exam\07. Exam\CSharpBasicsExam12April2014Evening\02. OddEvenElements\obj\Debug\_02.OddEvenElements.pdb
+G:\Programing Language\C# Basics Sample Exam\07. Exam\CSharpBasicsExam12April2014Evening\02. OddEvenElements\obj\Debug\02. OddEvenElements.csprojResolveAssemblyReference.cache

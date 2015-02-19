@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Calculate Expression</title>
+    <style>
+        input[type=text] {
+            width: 280px;
+            height: 30px;
+            background-color: #234465;
+            color: #f9852f;
+        }
+        div {
+            width: 285px;
+            height: 30px;
+            background-color: #234465;
+            color: #f9852f;
+            font-size: 18px;
+            vertical-align: middle;
+        }
+
+        button {
+            background: none;
+            width: 150px;
+            height: 30px;
+            border: 1px solid black;
+            color: black;
+            padding: 20px;
+            margin: 20px 60px;
+            font-size: 20px;
+            line-height: 0;
+        }
+    </style>
+</head>
+<body>
+    
+    <input type="text" id="fr-textbox" placeholder="Enter expression" /><br />
+	<button onclick="Event()">Eval Result</button>
+    <div id="demo"></div>
+    <script>
+        function Event() {
+            var input = document.getElementById("fr-textbox").value;
+            
+            var result = eval(input);
+            document.getElementById("demo").innerHTML = result;
+        }
+           
+    </script>
+</body>
+</html>

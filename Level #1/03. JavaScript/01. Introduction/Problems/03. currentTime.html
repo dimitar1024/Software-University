@@ -1,0 +1,21 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <p id="demo"></p>
+    <a href="#" onclick="Event()">Reload</a>
+    <script>
+        function Event() {
+            var d = new Date();
+            var hours = d.getHours();
+            var mins = d.getMinutes();
+            var toString = (hours + " : " + mins);
+
+            document.getElementById("demo").innerHTML = toString;
+        }
+           
+    </script>
+</body>
+</html>

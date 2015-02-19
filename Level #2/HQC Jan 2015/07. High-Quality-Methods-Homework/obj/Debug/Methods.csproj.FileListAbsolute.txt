@@ -1,0 +1,5 @@
+C:\Users\dimitar1024\Desktop\07. High-Quality-Methods-Homework\obj\Debug\Methods.csprojResolveAssemblyReference.cache
+C:\Users\dimitar1024\Desktop\07. High-Quality-Methods-Homework\bin\Debug\Methods.exe
+C:\Users\dimitar1024\Desktop\07. High-Quality-Methods-Homework\bin\Debug\Methods.pdb
+C:\Users\dimitar1024\Desktop\07. High-Quality-Methods-Homework\obj\Debug\Methods.exe
+C:\Users\dimitar1024\Desktop\07. High-Quality-Methods-Homework\obj\Debug\Methods.pdb

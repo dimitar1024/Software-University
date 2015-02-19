@@ -1,0 +1,5 @@
+G:\Programing Language\Software University\06. Loops\12. RandomizeTheNumbers1N\bin\Debug\_12.RandomizeTheNumbers1N.exe.config
+G:\Programing Language\Software University\06. Loops\12. RandomizeTheNumbers1N\bin\Debug\_12.RandomizeTheNumbers1N.exe
+G:\Programing Language\Software University\06. Loops\12. RandomizeTheNumbers1N\bin\Debug\_12.RandomizeTheNumbers1N.pdb
+G:\Programing Language\Software University\06. Loops\12. RandomizeTheNumbers1N\obj\Debug\_12.RandomizeTheNumbers1N.exe
+G:\Programing Language\Software University\06. Loops\12. RandomizeTheNumbers1N\obj\Debug\_12.RandomizeTheNumbers1N.pdb

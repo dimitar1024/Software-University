@@ -1,0 +1,6 @@
+G:\Programing Language\Software University\03. Operators and Expressions\08. PrimeNumberCheck\bin\Debug\_08.PrimeNumberCheck.exe.config
+G:\Programing Language\Software University\03. Operators and Expressions\08. PrimeNumberCheck\bin\Debug\_08.PrimeNumberCheck.exe
+G:\Programing Language\Software University\03. Operators and Expressions\08. PrimeNumberCheck\bin\Debug\_08.PrimeNumberCheck.pdb
+G:\Programing Language\Software University\03. Operators and Expressions\08. PrimeNumberCheck\obj\Debug\08. PrimeNumberCheck.csprojResolveAssemblyReference.cache
+G:\Programing Language\Software University\03. Operators and Expressions\08. PrimeNumberCheck\obj\Debug\_08.PrimeNumberCheck.exe
+G:\Programing Language\Software University\03. Operators and Expressions\08. PrimeNumberCheck\obj\Debug\_08.PrimeNumberCheck.pdb

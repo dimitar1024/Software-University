@@ -1,0 +1,6 @@
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\14. PrintTheASCIITable\bin\Debug\_14.PrintTheASCIITable.exe.config
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\14. PrintTheASCIITable\bin\Debug\_14.PrintTheASCIITable.exe
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\14. PrintTheASCIITable\bin\Debug\_14.PrintTheASCIITable.pdb
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\14. PrintTheASCIITable\obj\Debug\14. PrintTheASCIITable.csprojResolveAssemblyReference.cache
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\14. PrintTheASCIITable\obj\Debug\_14.PrintTheASCIITable.exe
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\14. PrintTheASCIITable\obj\Debug\_14.PrintTheASCIITable.pdb

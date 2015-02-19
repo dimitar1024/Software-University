@@ -1,0 +1,6 @@
+G:\Programing Language\Software University\06. Loops\05, Calculate 11X2X2NXN\bin\Debug\05, Calculate 11X2X2NXN.exe.config
+G:\Programing Language\Software University\06. Loops\05, Calculate 11X2X2NXN\bin\Debug\05, Calculate 11X2X2NXN.exe
+G:\Programing Language\Software University\06. Loops\05, Calculate 11X2X2NXN\bin\Debug\05, Calculate 11X2X2NXN.pdb
+G:\Programing Language\Software University\06. Loops\05, Calculate 11X2X2NXN\obj\Debug\05, Calculate 11X2X2NXN.csprojResolveAssemblyReference.cache
+G:\Programing Language\Software University\06. Loops\05, Calculate 11X2X2NXN\obj\Debug\05, Calculate 11X2X2NXN.exe
+G:\Programing Language\Software University\06. Loops\05, Calculate 11X2X2NXN\obj\Debug\05, Calculate 11X2X2NXN.pdb

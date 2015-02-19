@@ -1,0 +1,8 @@
+G:\Programing Language\Software University\Intro-Programming-Homework\08. SquareRoot\bin\Debug\_08.SquareRoot.exe.config
+G:\Programing Language\Software University\Intro-Programming-Homework\08. SquareRoot\bin\Debug\_08.SquareRoot.exe
+G:\Programing Language\Software University\Intro-Programming-Homework\08. SquareRoot\bin\Debug\_08.SquareRoot.pdb
+G:\Programing Language\Software University\Intro-Programming-Homework\08. SquareRoot\obj\Debug\_08.SquareRoot.exe
+G:\Programing Language\Software University\Intro-Programming-Homework\08. SquareRoot\obj\Debug\_08.SquareRoot.pdb
+G:\Programing Language\Software University\01. Intro-Programming-Homework\08. SquareRoot\bin\Debug\_08.SquareRoot.exe.config
+G:\Programing Language\Software University\01. Intro-Programming-Homework\08. SquareRoot\obj\Debug\_08.SquareRoot.exe
+G:\Programing Language\Software University\01. Intro-Programming-Homework\08. SquareRoot\obj\Debug\_08.SquareRoot.pdb

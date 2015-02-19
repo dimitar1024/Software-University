@@ -1,0 +1,5 @@
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\09. FunctionalProgramming\Problem02_CustomLINQExtensionMethods\bin\Debug\Problem02_CustomLINQExtensionMethods.exe.config
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\09. FunctionalProgramming\Problem02_CustomLINQExtensionMethods\bin\Debug\Problem02_CustomLINQExtensionMethods.exe
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\09. FunctionalProgramming\Problem02_CustomLINQExtensionMethods\bin\Debug\Problem02_CustomLINQExtensionMethods.pdb
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\09. FunctionalProgramming\Problem02_CustomLINQExtensionMethods\obj\Debug\Problem02_CustomLINQExtensionMethods.exe
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\09. FunctionalProgramming\Problem02_CustomLINQExtensionMethods\obj\Debug\Problem02_CustomLINQExtensionMethods.pdb

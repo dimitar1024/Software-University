@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Check if Number is Even</title>
+    
+</head>
+<body>
+    
+    <input type="text" id="fr-textbox" placeholder="Enter number" />
+	
+    <a href="#" onclick="Event()">Reload</a>
+	<hr/>
+	<p id="demo"></p>
+    <script>
+        function Event() {
+            var input = document.getElementById("fr-textbox").value;
+            var number = input | 0;
+            var isEven = true;
+
+            if (number % 2 == 0) {
+                isEven = true;
+            }
+            else {
+                isEven = false;
+            }
+            document.getElementById("demo").innerHTML = isEven;
+			
+			
+        }
+           
+    </script>
+</body>
+</html>

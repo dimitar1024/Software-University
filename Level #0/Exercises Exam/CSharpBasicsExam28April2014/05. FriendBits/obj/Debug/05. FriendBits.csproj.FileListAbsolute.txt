@@ -1,0 +1,6 @@
+G:\Programing Language\C# Basics Sample Exam\01. Exam\CSharpBasicsExam28April2014\CSharpBasicsExam28April2014\05. FriendBits\bin\Debug\_05.FriendBits.exe.config
+G:\Programing Language\C# Basics Sample Exam\01. Exam\CSharpBasicsExam28April2014\CSharpBasicsExam28April2014\05. FriendBits\bin\Debug\_05.FriendBits.exe
+G:\Programing Language\C# Basics Sample Exam\01. Exam\CSharpBasicsExam28April2014\CSharpBasicsExam28April2014\05. FriendBits\bin\Debug\_05.FriendBits.pdb
+G:\Programing Language\C# Basics Sample Exam\01. Exam\CSharpBasicsExam28April2014\CSharpBasicsExam28April2014\05. FriendBits\obj\Debug\05. FriendBits.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Basics Sample Exam\01. Exam\CSharpBasicsExam28April2014\CSharpBasicsExam28April2014\05. FriendBits\obj\Debug\_05.FriendBits.exe
+G:\Programing Language\C# Basics Sample Exam\01. Exam\CSharpBasicsExam28April2014\CSharpBasicsExam28April2014\05. FriendBits\obj\Debug\_05.FriendBits.pdb

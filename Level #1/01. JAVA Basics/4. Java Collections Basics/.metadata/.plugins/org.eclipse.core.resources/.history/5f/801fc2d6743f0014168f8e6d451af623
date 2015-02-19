@@ -1,0 +1,73 @@
+/*import java.util.Scanner;
+
+public class _15_SumCards {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		String input = sc.nextLine();
+		String[] cards = input.split(" ");
+		int sum = 0;
+
+		for (String card : cards) {
+			int val = getCard(card);
+
+		}
+	}
+
+	public static int getCard(String card) {
+		if (card.startsWith("2")) {
+			int val = 2;
+			return val;
+		}
+		if (card.startsWith("3")) {
+			int val = 3;
+			return val;
+		}
+		if (card.startsWith("4")) {
+			int val = 4;
+			return val;
+		}
+		if (card.startsWith("5")) {
+			int val = 5;
+			return val;
+		}
+		if (card.startsWith("6")) {
+			int val = 6;
+			return val;
+		}
+		if (card.startsWith("7")) {
+			int val = 7;
+			return val;
+		}
+		if (card.startsWith("8")) {
+			int val = 8;
+			return val;
+		}
+		if (card.startsWith("9")) {
+			int val = 9;
+			return val;
+		}
+		if (card.startsWith("10")) {
+			int val = 10;
+			return val;
+		}
+		if (card.startsWith("J")) {
+			int val = 12;
+			return val;
+		}
+		if (card.startsWith("Q")) {
+			int val = 13;
+			return val;
+		}
+		if (card.startsWith("K")) {
+			int val = 14;
+			return val;
+		}
+		if (card.startsWith("A")) {
+			int val = 15;
+			return val;
+		}
+	}
+
+}
+*/

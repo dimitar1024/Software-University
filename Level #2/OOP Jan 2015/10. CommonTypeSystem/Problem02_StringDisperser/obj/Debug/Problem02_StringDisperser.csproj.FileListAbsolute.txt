@@ -1,0 +1,9 @@
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\Problem01_Customer\Problem02_StringDisperser\bin\Debug\Problem02_StringDisperser.exe.config
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\Problem01_Customer\Problem02_StringDisperser\bin\Debug\Problem02_StringDisperser.exe
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\Problem01_Customer\Problem02_StringDisperser\bin\Debug\Problem02_StringDisperser.pdb
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\Problem01_Customer\Problem02_StringDisperser\obj\Debug\Problem02_StringDisperser.csprojResolveAssemblyReference.cache
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\Problem01_Customer\Problem02_StringDisperser\obj\Debug\Problem02_StringDisperser.exe
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\Problem01_Customer\Problem02_StringDisperser\obj\Debug\Problem02_StringDisperser.pdb
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\10. CommonTypeSystem\Problem02_StringDisperser\bin\Debug\Problem02_StringDisperser.exe.config
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\10. CommonTypeSystem\Problem02_StringDisperser\obj\Debug\Problem02_StringDisperser.exe
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\10. CommonTypeSystem\Problem02_StringDisperser\obj\Debug\Problem02_StringDisperser.pdb

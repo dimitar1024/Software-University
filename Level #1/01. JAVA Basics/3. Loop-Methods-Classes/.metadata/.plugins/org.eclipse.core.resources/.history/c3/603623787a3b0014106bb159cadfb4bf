@@ -1,0 +1,111 @@
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.LineNumberReader;
+import java.math.BigDecimal;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Locale;
+import java.util.Map;
+import java.util.Map.Entry;
+import java.util.Scanner;
+import java.util.TreeMap;
+import java.util.TreeSet;
+
+public class _10_OrderOfProducts {
+
+	public static void main(String[] args) throws IOException {
+		Locale.setDefault(Locale.ROOT);
+		Scanner fileReader = null;
+		String productsFile = "Products.txt";
+		String orderFile = "Orders.txt";
+		String outputFile = "Output10.txt";
+		
+		LineNumberReader lnr = new LineNumberReader(new FileReader(new File("Products.txt")));
+		lnr.skip(Long.MAX_VALUE);
+		int sizeProdFile = lnr.getLineNumber();
+		lnr.close();
+		
+		LineNumberReader lnr = new LineNumberReader(new FileReader(new File("Orders.txt")));
+		lnr.skip(Long.MAX_VALUE);
+		int sizeOrderFile = lnr.getLineNumber();
+		lnr.close();
+		
+		
+		
+		try {
+			fileReader = new Scanner(new File(productsFile));
+			System.out.println("The file " + productsFile + " is opened.");
+			TreeMap<String,Double> products = new TreeMap<>();
+			HashMap<String,Double> orders= new HashMap<>();
+			System.out.println(sizeProdFile);
+			while (fileReader.hasNextLine()) {
+				for (int i = 0; i <= sizeProdFile; i++) {
+					String line = fileReader.nextLine();
+					String[] inputDataToArr = line.split(" ");
+					String name = inputDataToArr[0];
+					double price = Double.parseDouble(inputDataToArr[1]);
+					Double oldPrice = products.get(name);
+					if (oldPrice == null) {
+						oldPrice = 0d;
+					}
+					products.put(name, price);
+				}
+			}
+			fileReader.close();
+			
+			fileReader = new Scanner(new File(orderFile));
+			System.out.println("The file " + orderFile + " is opened.");
+			while (fileReader.hasNextLine()) {
+				for (int i = 0; i <= sizeOrderFile; i++) {
+					String line = fileReader.nextLine();
+					String[] inputDataToArr = line.split(" ");
+					String name = inputDataToArr[1];
+					double col = Double.parseDouble(inputDataToArr[0]);
+					Double oldcol = orders.get(name);
+					if (oldcol == null) {
+						oldcol = 0.d;
+					}
+					orders.put(name, col);
+				}
+			}
+			fileReader.close();
+			//BigDecimal sum = new BigDecimal(0);
+			double sum = 0;
+			
+			for (Entry<String, Double> prods : products.entrySet()) {
+				String name = prods.getKey();
+				double price = prods.getValue();
+				
+				for (Entry<String, Double> ord : orders.entrySet()) {
+					String nameOrd = ord.getKey();
+					double col = ord.getValue();
+					
+					if (name.equals(nameOrd)) {
+						sum = sum + (col * price);
+					}
+				}
+			}
+			
+			
+			BufferedWriter fw = null;
+			System.out.println("Writing file...");
+			fw = new BufferedWriter(new FileWriter(outputFile));
+			fw.write("" + sum);
+			fw.newLine();
+			fw.close();
+			System.out.println("The file" + outputFile + "is created!");
+			
+		} catch (Exception e) {
+			// TODO: handle exception
+		}
+		
+
+	}
+}
+
+
+

@@ -1,0 +1,38 @@
+﻿body { padding: 0; margin:0;
+    font-family: Calibri;
+}
+
+section {
+    background-color: #000000;
+    width: 500px;
+    height: 230px;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+    section h1 {
+        color: #f2c106;
+        text-align: center;
+        font-size: 30px;
+        padding-top: 10px;
+    }
+
+    section ul {
+        float: right;
+        margin-top: 0px;
+        margin-right: 20px;
+        font-size: 22px;
+        list-style-type: none;
+        font-style: italic;
+    }
+
+        section ul li a {
+        color: #ffffff;
+        text-decoration: none;
+        }
+
+iframe {
+    float: left;
+    margin-left: 20px;
+    border: 1px solid #f2c106;
+}

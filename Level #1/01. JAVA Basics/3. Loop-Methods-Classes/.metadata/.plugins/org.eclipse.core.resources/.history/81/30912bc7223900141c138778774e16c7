@@ -1,0 +1,24 @@
+
+public class _04_AngleUnitConverterDegreesRadians {
+
+	public static void main(String[] args) {
+		double deg = 200d;
+		DegreesToRadians(deg);
+
+		double rad = 3d;
+		
+		RadiansToDegrees(rad);
+	}
+	
+	public static void DegreesToRadians (double deg){
+		double rad = (deg*Math.PI)/180;
+		System.out.println(rad);
+	}
+	
+	public static void RadiansToDegrees (double rad) {
+		double deg = (rad*180)/Math.PI;
+		
+		System.out.println(deg);
+	}
+
+}

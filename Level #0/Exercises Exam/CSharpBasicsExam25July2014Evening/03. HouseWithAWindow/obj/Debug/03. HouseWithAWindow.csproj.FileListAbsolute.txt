@@ -1,0 +1,6 @@
+G:\Programing Language\C# Basics Sample Exam\11. Exam\CSharpBasicsExam25July2014Evening\03. HouseWithAWindow\bin\Debug\_03.HouseWithAWindow.exe.config
+G:\Programing Language\C# Basics Sample Exam\11. Exam\CSharpBasicsExam25July2014Evening\03. HouseWithAWindow\obj\Debug\03. HouseWithAWindow.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Basics Sample Exam\11. Exam\CSharpBasicsExam25July2014Evening\03. HouseWithAWindow\bin\Debug\_03.HouseWithAWindow.exe
+G:\Programing Language\C# Basics Sample Exam\11. Exam\CSharpBasicsExam25July2014Evening\03. HouseWithAWindow\bin\Debug\_03.HouseWithAWindow.pdb
+G:\Programing Language\C# Basics Sample Exam\11. Exam\CSharpBasicsExam25July2014Evening\03. HouseWithAWindow\obj\Debug\_03.HouseWithAWindow.exe
+G:\Programing Language\C# Basics Sample Exam\11. Exam\CSharpBasicsExam25July2014Evening\03. HouseWithAWindow\obj\Debug\_03.HouseWithAWindow.pdb

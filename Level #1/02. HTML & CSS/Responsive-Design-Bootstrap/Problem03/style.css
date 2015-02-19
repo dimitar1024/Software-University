@@ -1,0 +1,114 @@
+﻿body, span, div, article, section, nav, footer, header, p, a, h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    padding: 0;
+    font-family: Calibri;
+}
+
+@font-face {
+    font-family: 'glyphicons-halflings-regular';
+    src: url('fonts/glyphicons-halflings-regular.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'glyphicons-halflings-regular';
+    src: url('fonts/glyphicons-halflings-regular.ttf') format('truetype');
+}
+
+header {
+    height: 50px;
+    background-color: #008000;
+}
+
+    header h2 {
+        width: 300px;
+        float: left;
+        margin-left: 400px;
+        padding: 10px;
+    }
+
+
+        header nav ul {
+            list-style-type: none;
+        }
+
+            header nav ul li {
+                display: inline-block;
+                height: 50px;
+            }
+
+                header nav ul li:hover {
+                    background-color: #90ee90;
+                }
+
+                    header nav ul li:hover a {
+                        text-decoration: none;
+                    }
+
+                header nav ul li a {
+                    color: #000000;
+                    font-size: 18px;
+                    padding: 20px;
+                    text-decoration: none;
+                }
+
+
+.row {
+    margin-top: 20px;
+}
+
+div.col-md-8 header {
+    background-color: #eeeeee;
+    padding: 10px;
+    height: 300px;
+    border-radius: 15px;
+}
+
+    div.col-md-8 header h1 {
+        margin: 40px;
+        font-size: 72px;
+    }
+
+    div.col-md-8 header p {
+        margin: 0px 40px;
+        font-size: 18px;
+    }
+
+div.col-md-4 ul {
+    list-style-type: none;
+    margin-left: -20px;
+}
+
+    div.col-md-4 ul li {
+        height: 50px;
+        width: 250px;
+        border: 1px solid black;
+        text-align: left;
+        font-size: 18px;
+        padding: 10px;
+    }
+
+        div.col-md-4 ul li a {
+            color: #000000;
+        }
+
+
+
+.clicked {
+    background-color: #90ee90;
+}
+
+.col-md-2 {
+    width: 260px;
+}
+
+    .col-md-2 h2 {
+        margin-bottom: 10px;
+
+    }
+
+    .col-md-2 button {
+        margin-top: 20px;
+        background-color: #ffffff;
+        border: 1px solid #808080;
+    }
+

@@ -1,0 +1,5 @@
+G:\Programing Language\Software University\03. Operators and Expressions\06. FourDigitNumber\bin\Debug\_06.FourDigitNumber.exe.config
+G:\Programing Language\Software University\03. Operators and Expressions\06. FourDigitNumber\bin\Debug\_06.FourDigitNumber.exe
+G:\Programing Language\Software University\03. Operators and Expressions\06. FourDigitNumber\bin\Debug\_06.FourDigitNumber.pdb
+G:\Programing Language\Software University\03. Operators and Expressions\06. FourDigitNumber\obj\Debug\_06.FourDigitNumber.exe
+G:\Programing Language\Software University\03. Operators and Expressions\06. FourDigitNumber\obj\Debug\_06.FourDigitNumber.pdb

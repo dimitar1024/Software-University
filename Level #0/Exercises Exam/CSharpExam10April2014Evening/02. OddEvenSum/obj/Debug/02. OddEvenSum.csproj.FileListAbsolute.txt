@@ -1,0 +1,1 @@
+G:\Programing Language\C# Basics Sample Exam\05. Exam\C# Basics Exam 10 April 2014 Evening\CSharpExam10April2014Evening\02. OddEvenSum\bin\Debug\_02.OddEvenSum.exe.config

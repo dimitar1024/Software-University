@@ -1,0 +1,6 @@
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\02. StaticMembersandNamespaces\Problem03_Paths\bin\Debug\Problem03_Paths.exe.config
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\02. StaticMembersandNamespaces\Problem03_Paths\bin\Debug\Problem03_Paths.exe
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\02. StaticMembersandNamespaces\Problem03_Paths\bin\Debug\Problem03_Paths.pdb
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\02. StaticMembersandNamespaces\Problem03_Paths\obj\Debug\Problem03_Paths.csprojResolveAssemblyReference.cache
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\02. StaticMembersandNamespaces\Problem03_Paths\obj\Debug\Problem03_Paths.exe
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\02. StaticMembersandNamespaces\Problem03_Paths\obj\Debug\Problem03_Paths.pdb

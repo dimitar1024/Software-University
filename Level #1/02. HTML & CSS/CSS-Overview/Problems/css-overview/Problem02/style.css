@@ -1,0 +1,151 @@
+﻿body {
+    background-image: url('img/colorful_dots_on_black.jpg');
+    font-family: Calibri;
+    
+}
+
+    body > header {
+        background: #ff0000; /* Old browsers */
+        background: -moz-linear-gradient(left,  #ff0000 0%, #ff3030 33%, #00ff0c 33%, #19ff00 66%, #2200ff 66%, #0004ff 100%); /* FF3.6+ */
+        background: -webkit-gradient(linear, left top, right top, color-stop(0%,#ff0000), color-stop(33%,#ff3030), color-stop(33%,#00ff0c), color-stop(66%,#19ff00), color-stop(66%,#2200ff), color-stop(100%,#0004ff)); /* Chrome,Safari4+ */
+        background: -webkit-linear-gradient(left,  #ff0000 0%,#ff3030 33%,#00ff0c 33%,#19ff00 66%,#2200ff 66%,#0004ff 100%); /* Chrome10+,Safari5.1+ */
+        background: -o-linear-gradient(left,  #ff0000 0%,#ff3030 33%,#00ff0c 33%,#19ff00 66%,#2200ff 66%,#0004ff 100%); /* Opera 11.10+ */
+        background: -ms-linear-gradient(left,  #ff0000 0%,#ff3030 33%,#00ff0c 33%,#19ff00 66%,#2200ff 66%,#0004ff 100%); /* IE10+ */
+        background: linear-gradient(to right,  #ff0000 0%,#ff3030 33%,#00ff0c 33%,#19ff00 66%,#2200ff 66%,#0004ff 100%); /* W3C */
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff0000', endColorstr='#0004ff',GradientType=1 ); /* IE6-9 */
+        color: yellow;
+        height: 50px;
+        font-size: 36px;
+        font-weight: bold;
+        text-align: center;
+        margin-top: -10px;
+        margin-bottom: 20px;
+    }
+
+nav {
+    width: 260px;
+    height: 290px;
+    background-color: rgba(230,230,230,0.8);
+    border-radius: 20px;
+    position: absolute;
+    margin-top: 8px;
+    margin-left: 20px;
+   
+}
+
+    nav header {
+        font-size: 24px;
+        text-decoration: underline;
+        margin: 25px;
+    }
+
+    nav ul {
+        margin: -20px;
+        margin-left: -20px;
+    }
+
+    nav li img {
+        margin-right: 10px;
+        vertical-align: middle;
+    }
+
+    nav li {
+        list-style-type: none;
+        width: 200px;
+        padding: 5px;
+    }
+
+        nav li:hover {
+            background-color: red;
+            border-radius: 10px;
+        }  
+
+        nav li:active {
+            background-color: yellow;
+            border-radius: 10px;
+        }  
+
+    nav li a {
+        text-decoration: none;
+        color: black;
+        font-size: 20px;
+    }
+
+article {
+    float: right;
+    width: 1000px;
+    background-color: #e6e6e6;
+    border-radius: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+    article header {
+        background-color: #ff0000;
+        margin: 10px;
+        padding: 5px;
+        border-radius: 5px;
+        font-size: 32px;
+    }
+
+    article div{
+        margin: 15px;
+    }
+
+        article div:first-line {
+            font-style: italic;
+        }
+    article span {
+        display: block;
+        margin: 15px;
+    }
+
+    article span:lang(la) {
+        font-style: italic;
+        color: blue;
+    }
+
+    article footer {
+        margin: 15px;
+        
+    }
+
+        article footer a {
+            color: #808080;
+            font-style: italic;
+        }
+
+        article div:first-letter {
+            font-size: 60px;
+            font-style: italic;
+        }
+
+#webColors {
+    background-color: red;
+    color: white;
+}
+
+#webSafeColors {
+    background-color: orange;
+    color: black;
+}
+
+#RGB {
+    background-color: yellow;
+    color: black;
+}
+
+#RGBA {
+    background-color: green;
+    color: white;
+}
+
+#\#HSLHSV {
+    background-color: blue;
+    color: white;
+}
+
+#\#lorem {
+    background-color: purple;
+    color: white;
+}

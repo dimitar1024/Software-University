@@ -1,0 +1,5 @@
+G:\Programing Language\Software University\03. Operators and Expressions\03. DivideBySevenAndFive\bin\Debug\_03.DivideBySevenAndFive.exe.config
+G:\Programing Language\Software University\03. Operators and Expressions\03. DivideBySevenAndFive\bin\Debug\_03.DivideBySevenAndFive.exe
+G:\Programing Language\Software University\03. Operators and Expressions\03. DivideBySevenAndFive\bin\Debug\_03.DivideBySevenAndFive.pdb
+G:\Programing Language\Software University\03. Operators and Expressions\03. DivideBySevenAndFive\obj\Debug\_03.DivideBySevenAndFive.exe
+G:\Programing Language\Software University\03. Operators and Expressions\03. DivideBySevenAndFive\obj\Debug\_03.DivideBySevenAndFive.pdb

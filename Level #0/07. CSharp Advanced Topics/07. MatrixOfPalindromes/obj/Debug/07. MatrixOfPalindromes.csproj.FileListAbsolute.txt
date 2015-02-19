@@ -1,0 +1,11 @@
+G:\Programing Language\Software University\07. CSharp Advanced Topics\07.  CSharpAdvancedTopics\07. MatrixOfPalindromes\bin\Debug\_07.MatrixOfPalindromes.exe.config
+G:\Programing Language\Software University\07. CSharp Advanced Topics\07.  CSharpAdvancedTopics\07. MatrixOfPalindromes\bin\Debug\_07.MatrixOfPalindromes.exe
+G:\Programing Language\Software University\07. CSharp Advanced Topics\07.  CSharpAdvancedTopics\07. MatrixOfPalindromes\bin\Debug\_07.MatrixOfPalindromes.pdb
+G:\Programing Language\Software University\07. CSharp Advanced Topics\07.  CSharpAdvancedTopics\07. MatrixOfPalindromes\obj\Debug\_07.MatrixOfPalindromes.exe
+G:\Programing Language\Software University\07. CSharp Advanced Topics\07.  CSharpAdvancedTopics\07. MatrixOfPalindromes\obj\Debug\_07.MatrixOfPalindromes.pdb
+D:\Programing Language\#0 lavel C# July 2014\07. CSharp Advanced Topics\07.  CSharpAdvancedTopics\07. MatrixOfPalindromes\bin\Debug\_07.MatrixOfPalindromes.exe.config
+D:\Programing Language\#0 lavel C# July 2014\07. CSharp Advanced Topics\07.  CSharpAdvancedTopics\07. MatrixOfPalindromes\obj\Debug\_07.MatrixOfPalindromes.exe
+D:\Programing Language\#0 lavel C# July 2014\07. CSharp Advanced Topics\07.  CSharpAdvancedTopics\07. MatrixOfPalindromes\obj\Debug\_07.MatrixOfPalindromes.pdb
+D:\Programing Language\#0 lavel C# July 2014\07. CSharp Advanced Topics\07.  CSharpAdvancedTopics\07. MatrixOfPalindromes\bin\Debug\_07.MatrixOfPalindromes.exe
+D:\Programing Language\#0 lavel C# July 2014\07. CSharp Advanced Topics\07.  CSharpAdvancedTopics\07. MatrixOfPalindromes\bin\Debug\_07.MatrixOfPalindromes.pdb
+D:\Programing Language\#0 lavel C# July 2014\07. CSharp Advanced Topics\07.  CSharpAdvancedTopics\07. MatrixOfPalindromes\obj\Debug\07. MatrixOfPalindromes.csprojResolveAssemblyReference.cache

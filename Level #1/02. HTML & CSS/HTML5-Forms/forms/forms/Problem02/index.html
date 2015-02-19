@@ -1,0 +1,81 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title></title>
+        <link href="style.css" rel="stylesheet" type="text/css" />
+    </head>
+
+    <body>
+        <div id="form">
+            <h1>FLIGHT ORDER</h1>
+            <form action="/" method="post">
+                <div class="from">
+                    <span>From</span><br />
+                    <select class="option">
+                        <option value="empty" selected="selected">enter a city</option>
+                        <option value="s">Sofia</option>
+                        <option value="pv">Plovdiv</option>
+                        <option value="v">Varna</option>
+                        <option value="br">Burgas</option>
+                        <option value="sz">Stara Zagora</option>
+                        <option value="nz">Nova Zagora</option>
+                        <option value="y">Yambol</option>
+                        <option value="kk">Kazanlak</option>
+                        <option value="x">Haskovo</option>
+                        <option value="r">Ruse</option>
+                        <option value="ph">Pleven</option>
+                        <option value="n">Blagoevgrad</option>
+                        <option value="cn">Sliven</option>
+                        <option value="pk">Pernik</option>
+                    </select><br />
+                    <br />
+                    <span>Departure date:</span>
+                    <input type="text" name="date" placeholder="09.06.2014" class="data" />
+
+                    <span>Return date:</span>
+                    <input type="text" name="date" placeholder="09.06.2014" class="data" />
+
+                    <span class="list">12+</span> <span class="list">2-12</span> <span class="list space">0-2</span><br />
+                    <input type="number" name="big" value="0" class="age" />
+                    <input type="text" name="middle" placeholder="0" class="age" />
+                    <input type="text" name="small" placeholder="0" class="age" />
+
+
+                </div>
+                <div class="to">
+                    <span>To</span><br />
+                    <select class="option">
+                        <option value="empty" selected="selected">enter a city</option>
+                        <option value="s">Sofia</option>
+                        <option value="pv">Plovdiv</option>
+                        <option value="v">Varna</option>
+                        <option value="br">Burgas</option>
+                        <option value="sz">Stara Zagora</option>
+                        <option value="nz">Nova Zagora</option>
+                        <option value="y">Yambol</option>
+                        <option value="kk">Kazanlak</option>
+                        <option value="x">Haskovo</option>
+                        <option value="r">Ruse</option>
+                        <option value="ph">Pleven</option>
+                        <option value="n">Blagoevgrad</option>
+                        <option value="cn">Sliven</option>
+                        <option value="pk">Pernik</option>
+                    </select><br />
+                    <input type="checkbox" name="direct" id="cb" /><label for="cb">Prefer direct</label><br />
+                    <span>Time interval</span><br />
+                    <input type="text" name="start" placeholder="00:20" class="time" />
+                    <input type="text" name="end" placeholder="05:00" class="time" /><br />
+                    <span>Time interval</span><br />
+                    <input type="text" name="start" placeholder="16:00" class="time" />
+                    <input type="text" name="end" placeholder="22:00" class="time" /><br />
+                    <span>Choose class</span><br />
+                    <select class="option">
+                        <option value="eco">Economy</option>
+                        <option value="biz">Bisness</option>
+                    </select>
+                    <button>Search</button>
+                </div>
+            </form>
+        </div>
+    </body>
+</html>

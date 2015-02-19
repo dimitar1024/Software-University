@@ -1,0 +1,50 @@
+import java.util.Map;
+import java.util.Scanner;
+import java.util.TreeMap;
+
+import javax.swing.text.html.HTMLDocument.Iterator;
+
+
+public class _04_Orders {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		int n = sc.nextInt();
+		sc.nextLine();
+		TreeMap<String, TreeMap<String, Integer>> orders = new TreeMap<>();
+		for (int i = 0; i < n; i++) {
+			String input = sc.nextLine();
+			String[] ord = input.split(" ");
+			
+			String name = ord[0];
+			int count = Integer.parseInt(ord[1]);
+			String product = ord[2];
+			
+			if (!orders.containsKey(product)) {
+				TreeMap<String, Integer> users = new TreeMap<>();
+				users.put(name, count);
+				orders.put(product, users);
+				
+			}
+			else {
+				TreeMap<String, Integer> users = orders.get(product);
+				if (!users.containsKey(name)) {
+					users.put(name, count);
+				}
+				else {
+					int collection = users.get(name);
+					collection = collection + count;
+					users.put(name, collection);
+				}
+				orders.put(product, users);
+			}
+		}
+		
+		System.out.println(orders);
+		
+		
+		
+		
+	}
+
+}

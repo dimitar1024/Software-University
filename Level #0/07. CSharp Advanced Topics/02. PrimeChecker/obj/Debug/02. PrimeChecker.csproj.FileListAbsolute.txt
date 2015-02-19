@@ -1,0 +1,5 @@
+G:\Programing Language\Software University\07. CSharp Advanced Topics\07.  CSharpAdvancedTopics\02. PrimeChecker\bin\Debug\_02.PrimeChecker.exe.config
+G:\Programing Language\Software University\07. CSharp Advanced Topics\07.  CSharpAdvancedTopics\02. PrimeChecker\bin\Debug\_02.PrimeChecker.exe
+G:\Programing Language\Software University\07. CSharp Advanced Topics\07.  CSharpAdvancedTopics\02. PrimeChecker\bin\Debug\_02.PrimeChecker.pdb
+G:\Programing Language\Software University\07. CSharp Advanced Topics\07.  CSharpAdvancedTopics\02. PrimeChecker\obj\Debug\_02.PrimeChecker.exe
+G:\Programing Language\Software University\07. CSharp Advanced Topics\07.  CSharpAdvancedTopics\02. PrimeChecker\obj\Debug\_02.PrimeChecker.pdb

@@ -1,0 +1,6 @@
+c:\users\dimitar1024\documents\visual studio 2013\Projects\03. ExceptionHandling\Problem01_SquareRoot\bin\Debug\Problem01_SquareRoot.exe.config
+c:\users\dimitar1024\documents\visual studio 2013\Projects\03. ExceptionHandling\Problem01_SquareRoot\bin\Debug\Problem01_SquareRoot.exe
+c:\users\dimitar1024\documents\visual studio 2013\Projects\03. ExceptionHandling\Problem01_SquareRoot\bin\Debug\Problem01_SquareRoot.pdb
+c:\users\dimitar1024\documents\visual studio 2013\Projects\03. ExceptionHandling\Problem01_SquareRoot\obj\Debug\Problem01_SquareRoot.csprojResolveAssemblyReference.cache
+c:\users\dimitar1024\documents\visual studio 2013\Projects\03. ExceptionHandling\Problem01_SquareRoot\obj\Debug\Problem01_SquareRoot.exe
+c:\users\dimitar1024\documents\visual studio 2013\Projects\03. ExceptionHandling\Problem01_SquareRoot\obj\Debug\Problem01_SquareRoot.pdb

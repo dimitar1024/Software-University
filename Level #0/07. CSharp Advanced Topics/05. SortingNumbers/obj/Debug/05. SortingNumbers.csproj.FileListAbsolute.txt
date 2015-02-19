@@ -1,0 +1,6 @@
+G:\Programing Language\Software University\07. CSharp Advanced Topics\07.  CSharpAdvancedTopics\05. SortingNumbers\bin\Debug\_05.SortingNumbers.exe.config
+G:\Programing Language\Software University\07. CSharp Advanced Topics\07.  CSharpAdvancedTopics\05. SortingNumbers\obj\Debug\05. SortingNumbers.csprojResolveAssemblyReference.cache
+G:\Programing Language\Software University\07. CSharp Advanced Topics\07.  CSharpAdvancedTopics\05. SortingNumbers\bin\Debug\_05.SortingNumbers.exe
+G:\Programing Language\Software University\07. CSharp Advanced Topics\07.  CSharpAdvancedTopics\05. SortingNumbers\bin\Debug\_05.SortingNumbers.pdb
+G:\Programing Language\Software University\07. CSharp Advanced Topics\07.  CSharpAdvancedTopics\05. SortingNumbers\obj\Debug\_05.SortingNumbers.exe
+G:\Programing Language\Software University\07. CSharp Advanced Topics\07.  CSharpAdvancedTopics\05. SortingNumbers\obj\Debug\_05.SortingNumbers.pdb

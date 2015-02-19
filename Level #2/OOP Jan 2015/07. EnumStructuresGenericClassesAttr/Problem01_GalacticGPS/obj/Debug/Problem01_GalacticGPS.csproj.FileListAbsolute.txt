@@ -1,0 +1,6 @@
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\07. EnumStructuresGenericClassesAttr\Problem01_GalacticGPS\bin\Debug\Problem01_GalacticGPS.exe.config
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\07. EnumStructuresGenericClassesAttr\Problem01_GalacticGPS\bin\Debug\Problem01_GalacticGPS.exe
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\07. EnumStructuresGenericClassesAttr\Problem01_GalacticGPS\bin\Debug\Problem01_GalacticGPS.pdb
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\07. EnumStructuresGenericClassesAttr\Problem01_GalacticGPS\obj\Debug\Problem01_GalacticGPS.csprojResolveAssemblyReference.cache
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\07. EnumStructuresGenericClassesAttr\Problem01_GalacticGPS\obj\Debug\Problem01_GalacticGPS.exe
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\07. EnumStructuresGenericClassesAttr\Problem01_GalacticGPS\obj\Debug\Problem01_GalacticGPS.pdb

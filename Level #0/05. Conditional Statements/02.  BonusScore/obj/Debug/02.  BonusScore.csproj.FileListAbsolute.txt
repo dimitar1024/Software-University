@@ -1,0 +1,5 @@
+G:\Programing Language\Software University\05. Conditional Statements\02.  BonusScore\bin\Debug\_02.BonusScore.exe.config
+G:\Programing Language\Software University\05. Conditional Statements\02.  BonusScore\bin\Debug\_02.BonusScore.exe
+G:\Programing Language\Software University\05. Conditional Statements\02.  BonusScore\bin\Debug\_02.BonusScore.pdb
+G:\Programing Language\Software University\05. Conditional Statements\02.  BonusScore\obj\Debug\_02.BonusScore.exe
+G:\Programing Language\Software University\05. Conditional Statements\02.  BonusScore\obj\Debug\_02.BonusScore.pdb

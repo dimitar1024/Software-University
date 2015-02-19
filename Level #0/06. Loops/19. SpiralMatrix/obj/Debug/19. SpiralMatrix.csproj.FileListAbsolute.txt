@@ -1,0 +1,12 @@
+G:\Programing Language\Software University\06. Loops\19. SpiralMatrix\bin\Debug\_19.SpiralMatrix.exe.config
+G:\Programing Language\Software University\06. Loops\19. SpiralMatrix\bin\Debug\_19.SpiralMatrix.exe
+G:\Programing Language\Software University\06. Loops\19. SpiralMatrix\bin\Debug\_19.SpiralMatrix.pdb
+G:\Programing Language\Software University\06. Loops\19. SpiralMatrix\obj\Debug\19. SpiralMatrix.csprojResolveAssemblyReference.cache
+G:\Programing Language\Software University\06. Loops\19. SpiralMatrix\obj\Debug\_19.SpiralMatrix.exe
+G:\Programing Language\Software University\06. Loops\19. SpiralMatrix\obj\Debug\_19.SpiralMatrix.pdb
+D:\Programing Language\Software University\06. Loops\19. SpiralMatrix\bin\Debug\_19.SpiralMatrix.exe.config
+D:\Programing Language\Software University\06. Loops\19. SpiralMatrix\obj\Debug\_19.SpiralMatrix.exe
+D:\Programing Language\Software University\06. Loops\19. SpiralMatrix\obj\Debug\_19.SpiralMatrix.pdb
+D:\Programing Language\Software University\06. Loops\19. SpiralMatrix\bin\Debug\_19.SpiralMatrix.exe
+D:\Programing Language\Software University\06. Loops\19. SpiralMatrix\bin\Debug\_19.SpiralMatrix.pdb
+D:\Programing Language\Software University\06. Loops\19. SpiralMatrix\obj\Debug\19. SpiralMatrix.csprojResolveAssemblyReference.cache

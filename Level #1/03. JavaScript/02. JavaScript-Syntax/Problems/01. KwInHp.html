@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Kw to HP</title>
+    <style>
+        input[type=text] {
+            width: 160px;
+        }
+    </style>
+</head>
+<body>
+    
+    <input type="text" id="fr-textbox" placeholder="Enter kw power on your car" />
+	
+    <a href="#" onclick="Event()">Reload</a>
+	<hr/>
+	<p id="demo"></p>
+    <script>
+        function Event() {
+            var input = document.getElementById("fr-textbox").value;
+            var kw = input * 1; 
+            var hp = kw * 1.34102;
+            hp = hp.toFixed(2);
+            document.getElementById("demo").innerHTML = hp + " hp";
+			
+			
+        }
+           
+    </script>
+</body>
+</html>

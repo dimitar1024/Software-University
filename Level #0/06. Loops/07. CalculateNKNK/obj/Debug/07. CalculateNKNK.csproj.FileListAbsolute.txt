@@ -1,0 +1,6 @@
+G:\Programing Language\Software University\06. Loops\07. CalculateNKNK\bin\Debug\_07.CalculateNKNK.exe.config
+G:\Programing Language\Software University\06. Loops\07. CalculateNKNK\bin\Debug\_07.CalculateNKNK.exe
+G:\Programing Language\Software University\06. Loops\07. CalculateNKNK\bin\Debug\_07.CalculateNKNK.pdb
+G:\Programing Language\Software University\06. Loops\07. CalculateNKNK\obj\Debug\_07.CalculateNKNK.exe
+G:\Programing Language\Software University\06. Loops\07. CalculateNKNK\obj\Debug\_07.CalculateNKNK.pdb
+G:\Programing Language\Software University\06. Loops\07. CalculateNKNK\obj\Debug\07. CalculateNKNK.csprojResolveAssemblyReference.cache

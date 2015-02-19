@@ -1,0 +1,28 @@
+import java.util.Scanner;
+
+
+public class _09_CombineListsOfLetters {
+
+	public static void main(String[] args) {
+		Scanner in = new Scanner(System.in);
+		String firstStr = in.nextLine();
+		String[] firstLatter = firstStr.split("");
+		String secondStr = in.nextLine();
+		String[] secondLatter = secondStr.split("");
+		StringBuilder endWord = new StringBuilder();
+		endWord.append(firstLatter);
+		
+		for (int i = 0; i < firstLatter.length; i++) {
+			for (int j = 0; j < secondLatter.length; j++) {
+				if (!firstLatter[i].equals(secondLatter[j])) {
+					endWord.append(secondLatter[i]);
+				}
+			}
+		}
+		
+		String end = endWord.toString();
+		System.out.println(end);
+
+	}
+
+}

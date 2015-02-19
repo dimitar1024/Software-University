@@ -1,0 +1,36 @@
+﻿div#wapper {
+    text-align: center;
+    padding: 50px;
+}
+
+canvas {
+    border: 1px solid black;
+    background-image: url('../img/rocks-bg.jpg');
+}
+
+button {
+    text-align: center;
+    width: 200px;
+    height: 50px;
+    background-color: #ff006e;
+    color: #ffffff;
+    border: none;
+    border-radius: 10px;
+    font-size: 30px;
+    margin: 20px;
+}
+
+    button:hover {
+        background-color: #ff0000;
+    }
+
+a {
+    background-color: #ff006e;
+    color: #ffffff;
+    border: none;
+    border-radius: 10px;
+    font-size: 30px;
+    padding: 8px 20px;
+    text-decoration: none;
+    font-weight: bold;
+}

@@ -1,0 +1,6 @@
+G:\Programing Language\Software University\03. Operators and Expressions\14. ModifyABitAtGivenPosition\bin\Debug\_14.ModifyABitAtGivenPosition.exe.config
+G:\Programing Language\Software University\03. Operators and Expressions\14. ModifyABitAtGivenPosition\obj\Debug\14. ModifyABitAtGivenPosition.csprojResolveAssemblyReference.cache
+G:\Programing Language\Software University\03. Operators and Expressions\14. ModifyABitAtGivenPosition\bin\Debug\_14.ModifyABitAtGivenPosition.exe
+G:\Programing Language\Software University\03. Operators and Expressions\14. ModifyABitAtGivenPosition\bin\Debug\_14.ModifyABitAtGivenPosition.pdb
+G:\Programing Language\Software University\03. Operators and Expressions\14. ModifyABitAtGivenPosition\obj\Debug\_14.ModifyABitAtGivenPosition.exe
+G:\Programing Language\Software University\03. Operators and Expressions\14. ModifyABitAtGivenPosition\obj\Debug\_14.ModifyABitAtGivenPosition.pdb

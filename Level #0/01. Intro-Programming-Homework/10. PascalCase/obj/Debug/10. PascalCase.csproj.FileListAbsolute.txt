@@ -1,0 +1,9 @@
+G:\Programing Language\Software University\Intro-Programming-Homework\10. PascalCase\bin\Debug\_10.PascalCase.exe.config
+G:\Programing Language\Software University\Intro-Programming-Homework\10. PascalCase\bin\Debug\_10.PascalCase.exe
+G:\Programing Language\Software University\Intro-Programming-Homework\10. PascalCase\bin\Debug\_10.PascalCase.pdb
+G:\Programing Language\Software University\Intro-Programming-Homework\10. PascalCase\obj\Debug\10. PascalCase.csprojResolveAssemblyReference.cache
+G:\Programing Language\Software University\Intro-Programming-Homework\10. PascalCase\obj\Debug\_10.PascalCase.exe
+G:\Programing Language\Software University\Intro-Programming-Homework\10. PascalCase\obj\Debug\_10.PascalCase.pdb
+G:\Programing Language\Software University\01. Intro-Programming-Homework\10. PascalCase\bin\Debug\_10.PascalCase.exe.config
+G:\Programing Language\Software University\01. Intro-Programming-Homework\10. PascalCase\obj\Debug\_10.PascalCase.exe
+G:\Programing Language\Software University\01. Intro-Programming-Homework\10. PascalCase\obj\Debug\_10.PascalCase.pdb

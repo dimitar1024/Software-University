@@ -1,0 +1,6 @@
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\01. DefiningClasses\Problem01_Persons\bin\Debug\Problem01_Persons.exe.config
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\01. DefiningClasses\Problem01_Persons\bin\Debug\Problem01_Persons.exe
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\01. DefiningClasses\Problem01_Persons\bin\Debug\Problem01_Persons.pdb
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\01. DefiningClasses\Problem01_Persons\obj\Debug\Problem01_Persons.csprojResolveAssemblyReference.cache
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\01. DefiningClasses\Problem01_Persons\obj\Debug\Problem01_Persons.exe
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\01. DefiningClasses\Problem01_Persons\obj\Debug\Problem01_Persons.pdb

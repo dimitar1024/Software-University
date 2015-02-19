@@ -1,0 +1,56 @@
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.util.Map;
+import java.util.TreeMap;
+
+public class _09_ListOfProducts {
+	
+
+	public static void main(String[] args) throws IOException {
+		
+		String input = "input9.txt";
+		String output = "output9.txt";
+		
+		BufferedReader fr = null;
+		
+		try {
+			Map<Double, String> sort = null;
+			fr = new BufferedReader(new FileReader(input));
+			while (true) {
+				String line = fr.readLine();
+				if (line == null) {
+					break;
+				}
+				sort = createWordsCounts(line);
+			}
+			fr.close();
+			printSortArray(sort,output);
+			
+		} catch (Exception e) {
+			System.out.println("Error");
+		}
+	}
+	
+	private static Map<Double, String> createWordsCounts(String line){
+		Map<Double, String> sort = new TreeMap<Double, String>();
+		String[] inputProduct = line.split(" ");
+		double price = Double.parseDouble(inputProduct[1]);
+		String name = inputProduct[0].toString();
+		sort.put(price,name);
+		
+		return sort;
+	}
+	
+	private static void printSortArray(Map<Double, String> sort, String output) throws IOException {
+
+		BufferedWriter fw = null;
+		fw = new BufferedWriter(new FileWriter(output));
+		for (Map.Entry<Double, String> sorting: sort.entrySet()) {
+		fw.write(sorting.getKey() + " " + sorting.getValue());
+		}
+		fw.close();
+	}
+}

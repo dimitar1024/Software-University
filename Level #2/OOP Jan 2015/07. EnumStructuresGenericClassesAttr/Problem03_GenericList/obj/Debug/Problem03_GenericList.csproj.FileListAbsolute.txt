@@ -1,0 +1,6 @@
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\07. EnumStructuresGenericClassesAttr\Problem03_GenericList\bin\Debug\Problem03_GenericList.exe.config
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\07. EnumStructuresGenericClassesAttr\Problem03_GenericList\bin\Debug\Problem03_GenericList.exe
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\07. EnumStructuresGenericClassesAttr\Problem03_GenericList\bin\Debug\Problem03_GenericList.pdb
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\07. EnumStructuresGenericClassesAttr\Problem03_GenericList\obj\Debug\Problem03_GenericList.csprojResolveAssemblyReference.cache
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\07. EnumStructuresGenericClassesAttr\Problem03_GenericList\obj\Debug\Problem03_GenericList.exe
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\07. EnumStructuresGenericClassesAttr\Problem03_GenericList\obj\Debug\Problem03_GenericList.pdb

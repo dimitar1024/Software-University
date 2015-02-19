@@ -1,0 +1,8 @@
+C:\Users\dimitar1024\Desktop\izpit\05. Problem\bin\Debug\_05.Problem.exe.config
+C:\Users\dimitar1024\Desktop\izpit\05. Problem\bin\Debug\_05.Problem.exe
+C:\Users\dimitar1024\Desktop\izpit\05. Problem\bin\Debug\_05.Problem.pdb
+C:\Users\dimitar1024\Desktop\izpit\05. Problem\obj\Debug\_05.Problem.exe
+C:\Users\dimitar1024\Desktop\izpit\05. Problem\obj\Debug\_05.Problem.pdb
+D:\Programing Language\izpit\05. Problem\bin\Debug\_05.Problem.exe.config
+D:\Programing Language\izpit\05. Problem\obj\Debug\_05.Problem.exe
+D:\Programing Language\izpit\05. Problem\obj\Debug\_05.Problem.pdb

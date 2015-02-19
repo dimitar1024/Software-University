@@ -1,0 +1,6 @@
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\10. EmployeeData\bin\Debug\_10.EmployeeData.exe.config
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\10. EmployeeData\bin\Debug\_10.EmployeeData.exe
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\10. EmployeeData\bin\Debug\_10.EmployeeData.pdb
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\10. EmployeeData\obj\Debug\_10.EmployeeData.exe
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\10. EmployeeData\obj\Debug\_10.EmployeeData.pdb
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\10. EmployeeData\obj\Debug\10. EmployeeData.csprojResolveAssemblyReference.cache

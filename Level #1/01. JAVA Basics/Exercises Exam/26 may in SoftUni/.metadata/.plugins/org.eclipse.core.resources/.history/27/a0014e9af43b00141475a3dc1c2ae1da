@@ -1,0 +1,16 @@
+import java.util.*;
+
+
+public class _03_Largest3Rectangles {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		String input = sc.nextLine();
+		String[] numbers = input.split("\\D+");
+		for (String str : numbers) {
+			System.out.println(str);
+		}
+
+	}
+
+}

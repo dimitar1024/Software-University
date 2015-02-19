@@ -1,0 +1,6 @@
+G:\Programing Language\Software University\03. Operators and Expressions\01. OddOrEvenIntegers\bin\Debug\_01.OddOrEvenIntegers.exe.config
+G:\Programing Language\Software University\03. Operators and Expressions\01. OddOrEvenIntegers\bin\Debug\_01.OddOrEvenIntegers.exe
+G:\Programing Language\Software University\03. Operators and Expressions\01. OddOrEvenIntegers\bin\Debug\_01.OddOrEvenIntegers.pdb
+G:\Programing Language\Software University\03. Operators and Expressions\01. OddOrEvenIntegers\obj\Debug\01. OddOrEvenIntegers.csprojResolveAssemblyReference.cache
+G:\Programing Language\Software University\03. Operators and Expressions\01. OddOrEvenIntegers\obj\Debug\_01.OddOrEvenIntegers.exe
+G:\Programing Language\Software University\03. Operators and Expressions\01. OddOrEvenIntegers\obj\Debug\_01.OddOrEvenIntegers.pdb

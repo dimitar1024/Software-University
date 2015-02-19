@@ -1,0 +1,37 @@
+﻿body { 
+}
+    table, tr, th, td {
+        border: solid 1px black;
+        font-family: Calibri;
+        text-align: center;
+    }
+       
+        td button {
+            height: 85px;
+            width: 85px;
+            color: blue;
+            font-weight:500;
+        }
+        
+        td.xor button {
+            height: 40px;
+            font-size: 10px;
+        }
+
+        td.softuni button{
+            width: 370px;
+            font-size: 24px;
+            font-weight: bold;
+        }
+        td.twosize button{
+            width: 175px;
+        }
+        td.beer button{
+            width: 280px;
+            text-align: right;
+            font-size: 20px;
+        }
+
+        table.nastedtable, table.nastedtable tr, table.nastedtable td {
+            border: none;
+        }

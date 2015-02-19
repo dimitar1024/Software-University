@@ -1,0 +1,9 @@
+G:\Programing Language\C# Basics Sample Exam\05. Exam\C# Basics Exam 10 April 2014 Evening\CSharpExam10April2014Evening\05. BitsUp\bin\Debug\_05.BitsUp.exe.config
+G:\Programing Language\C# Basics Sample Exam\05. Exam\C# Basics Exam 10 April 2014 Evening\CSharpExam10April2014Evening\05. BitsUp\bin\Debug\_05.BitsUp.exe
+G:\Programing Language\C# Basics Sample Exam\05. Exam\C# Basics Exam 10 April 2014 Evening\CSharpExam10April2014Evening\05. BitsUp\bin\Debug\_05.BitsUp.pdb
+G:\Programing Language\C# Basics Sample Exam\05. Exam\C# Basics Exam 10 April 2014 Evening\CSharpExam10April2014Evening\05. BitsUp\obj\Debug\05. BitsUp.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Basics Sample Exam\05. Exam\C# Basics Exam 10 April 2014 Evening\CSharpExam10April2014Evening\05. BitsUp\obj\Debug\_05.BitsUp.exe
+G:\Programing Language\C# Basics Sample Exam\05. Exam\C# Basics Exam 10 April 2014 Evening\CSharpExam10April2014Evening\05. BitsUp\obj\Debug\_05.BitsUp.pdb
+G:\Programing Language\C# Basics Sample Exam\03. Exam\C# Basics Exam 10 April 2014 Evening\CSharpExam10April2014Evening\05. BitsUp\bin\Debug\_05.BitsUp.exe.config
+G:\Programing Language\C# Basics Sample Exam\03. Exam\C# Basics Exam 10 April 2014 Evening\CSharpExam10April2014Evening\05. BitsUp\obj\Debug\_05.BitsUp.exe
+G:\Programing Language\C# Basics Sample Exam\03. Exam\C# Basics Exam 10 April 2014 Evening\CSharpExam10April2014Evening\05. BitsUp\obj\Debug\_05.BitsUp.pdb

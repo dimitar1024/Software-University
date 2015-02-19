@@ -1,0 +1,6 @@
+G:\Programing Language\Software University\03. Operators and Expressions\19. TheExplorer\bin\Debug\_19.TheExplorer.exe.config
+G:\Programing Language\Software University\03. Operators and Expressions\19. TheExplorer\bin\Debug\_19.TheExplorer.exe
+G:\Programing Language\Software University\03. Operators and Expressions\19. TheExplorer\bin\Debug\_19.TheExplorer.pdb
+G:\Programing Language\Software University\03. Operators and Expressions\19. TheExplorer\obj\Debug\19. TheExplorer.csprojResolveAssemblyReference.cache
+G:\Programing Language\Software University\03. Operators and Expressions\19. TheExplorer\obj\Debug\_19.TheExplorer.exe
+G:\Programing Language\Software University\03. Operators and Expressions\19. TheExplorer\obj\Debug\_19.TheExplorer.pdb

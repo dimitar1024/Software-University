@@ -1,0 +1,131 @@
+﻿body { font-family: Calibri;
+       background-color: #EEEEEE;
+}
+
+body, p {
+    margin: 0;
+    padding: 0;
+}
+
+#content {
+    
+}
+
+    #content h3 {
+        color: #234465;
+        padding: 15px;
+        font-weight: 400;
+    }
+
+    
+
+    #content div {
+        display: inline-block;
+        width: 350px;
+        height: 415px;
+        background-color: #ffffff;
+        margin: 15px;
+        box-shadow: 1px 1px 2px #808080;
+    }
+
+        #content div a {
+            text-decoration: none;
+        }
+
+        #content div h5 {
+            font-size: 16px;
+            padding-left: 40px;
+            padding-right: 40px;
+            color: #2A6496;
+        }
+
+        #content div p {
+            color: #999999;
+        }
+
+        #content div p.date {
+            float: right;
+            margin-right: 40px;
+            margin-top: -40px;
+        }
+
+        #content div p.publish {
+            float: left;
+            margin-left: 40px;
+            margin-top: -10px;
+            font-size: 16px;
+        }
+
+        #content div p.info {
+            float: left;
+            margin-left: 40px;
+            margin-top: 20px;
+            font-size: 15px;
+        }
+
+        #content div p.tags {
+            float: left;
+            margin-left: 40px;
+            margin-top: 10px;
+            font-size: 13px;
+        }
+
+            #content div p.tags span {
+                font-weight: bolder;
+                color: #000000;
+            }
+
+        #content div hr {
+            width: 270px;
+            margin-top: 60px;
+            margin-left: 40px;
+        }
+
+        #content div img {
+            text-align: center;
+            vertical-align: middle;
+            margin-left: 40px;
+            margin-top: 20px;
+            width: 270px;
+        }
+
+        #content:first-child {
+            margin-left: 90px;
+        }
+
+    #content ul {
+        list-style-type: none;
+        margin-top: 50px;
+        margin-left: -25px;
+    }
+
+        #content ul li {
+            float: left;
+            border: 1px solid #517490;
+            margin: 1px;
+        }
+
+            #content ul li a {
+                display: block;
+                text-decoration: none;
+                background-color: #4fa0d7;
+                color: #ffffff;
+                padding: 10px 15px;
+            }
+
+#content ul li.selected {
+    border: 1px solid #ff9b00;
+}
+
+    #content ul li.selected a {
+        background-color: #ff9b00;
+    
+    }
+
+
+    #content hr.end {
+         visibility: hidden;
+         margin: 30px;
+    }
+
+

@@ -1,0 +1,123 @@
+﻿
+body {
+    
+    padding: 0; margin: 0;
+    font-family: Calibri;
+}
+
+div#content {
+        height: 80px;
+        background-color: #234465;
+        color: white;
+    }
+
+    div#content img#logo {
+        position: absolute;
+        margin: 10px 100px;
+    }
+
+    #content div#user-info {
+        display: inline-block;
+        float: right;
+        margin-right: 50px;
+        
+    }
+    #content div#user-info a{
+        color: #ffffff;
+        text-decoration: none;
+        padding: 5px;
+    }
+
+
+
+        #content div#user-info input {
+            width: 220px;
+            height: 20px;
+            margin-top: 10px;
+        }
+
+        span {
+            font-size: 10px;
+        }
+
+    #content div#user-info img{
+        vertical-align: middle;
+        margin-right: 20px;
+    }
+        
+
+        #content div#user-info input[type="image"] {
+            width: 17px;
+            height: 17px;
+            margin-top: 15px;
+            margin-left: -22px;
+            position: absolute;
+        }
+
+    #menu  {
+        float: right;
+        display: block;
+        color: white;
+        margin-top: 45px;
+        margin-right: -340px;
+        margin-left: 0px;
+        position: relative;
+        
+    }
+
+       #menu li {
+            list-style-type: none;
+            float: left;
+        }
+
+       #menu li a{
+            color: white;
+            text-decoration: none;
+            padding: 5px;
+        }
+
+        #menu li a:hover {
+            background-color: #428BCA;
+            border-radius: 5px;
+        }
+
+        #menu li.head a {
+            color: #428BCA;
+            font-weight: bold;
+        }
+
+        #menu li ul {
+            display: block;
+            width: 310px;
+            position: absolute;
+            margin-left: -35px;
+        }
+
+            #menu li ul li {
+                display: none;
+                float: none;
+                height: 30px;
+                padding: 5px 7px;
+                background-color: #234465;
+                border-bottom: solid 1px #428BCA;
+                
+            }
+       
+            #menu li:hover ul li {
+                display: block;
+            }
+
+            #menu li ul li:hover {
+                background-color: #FF9C00;
+            }
+                #menu li ul li:hover a{
+                    border: none;
+                    background: none;
+                }
+
+    color: #428BCA;
+    font-weight: bold;
+}
+            
+
+            

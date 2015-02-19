@@ -1,0 +1,28 @@
+﻿body { background-color: black;
+        font-family: Calibri;
+}
+
+ul { color: #FFCC00;
+     list-style-type: square;
+}
+
+img { float: right;
+      width: 200px;
+}
+
+h1 { color: #FFCC00;
+}
+
+ul li h2 { color: white;
+}
+
+ul div { width: 500px;
+         color: white;
+         background-color: #706f6f;
+         border: solid 1px white;
+         font-family: Consolas;
+         padding-left: 5px;
+         margin-left: 20px;
+}
+ul li h2 span { color: #FFCC00;
+}

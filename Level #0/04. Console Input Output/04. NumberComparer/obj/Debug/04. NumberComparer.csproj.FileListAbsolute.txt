@@ -1,0 +1,5 @@
+G:\Programing Language\Software University\04. Console Input Output\04. NumberComparer\bin\Debug\_04.NumberComparer.exe.config
+G:\Programing Language\Software University\04. Console Input Output\04. NumberComparer\bin\Debug\_04.NumberComparer.exe
+G:\Programing Language\Software University\04. Console Input Output\04. NumberComparer\bin\Debug\_04.NumberComparer.pdb
+G:\Programing Language\Software University\04. Console Input Output\04. NumberComparer\obj\Debug\_04.NumberComparer.exe
+G:\Programing Language\Software University\04. Console Input Output\04. NumberComparer\obj\Debug\_04.NumberComparer.pdb

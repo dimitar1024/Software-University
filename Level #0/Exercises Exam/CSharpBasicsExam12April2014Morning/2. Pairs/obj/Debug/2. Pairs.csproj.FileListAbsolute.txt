@@ -1,0 +1,6 @@
+G:\Programing Language\C# Basics Sample Exam\06. Exam\CSharpBasicsExam12April2014Morning\2. Pairs\bin\Debug\_2.Pairs.exe.config
+G:\Programing Language\C# Basics Sample Exam\06. Exam\CSharpBasicsExam12April2014Morning\2. Pairs\bin\Debug\_2.Pairs.exe
+G:\Programing Language\C# Basics Sample Exam\06. Exam\CSharpBasicsExam12April2014Morning\2. Pairs\bin\Debug\_2.Pairs.pdb
+G:\Programing Language\C# Basics Sample Exam\06. Exam\CSharpBasicsExam12April2014Morning\2. Pairs\obj\Debug\2. Pairs.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Basics Sample Exam\06. Exam\CSharpBasicsExam12April2014Morning\2. Pairs\obj\Debug\_2.Pairs.exe
+G:\Programing Language\C# Basics Sample Exam\06. Exam\CSharpBasicsExam12April2014Morning\2. Pairs\obj\Debug\_2.Pairs.pdb

@@ -1,0 +1,9 @@
+G:\Programing Language\C# Basics Sample Exam\04. Exam\C# Basics Exam 10 April 2014 Morning\CSharpExam10April2014Morning\04. NineDigitMagicNumbers\bin\Debug\_04.NineDigitMagicNumbers.exe.config
+G:\Programing Language\C# Basics Sample Exam\04. Exam\C# Basics Exam 10 April 2014 Morning\CSharpExam10April2014Morning\04. NineDigitMagicNumbers\bin\Debug\_04.NineDigitMagicNumbers.exe
+G:\Programing Language\C# Basics Sample Exam\04. Exam\C# Basics Exam 10 April 2014 Morning\CSharpExam10April2014Morning\04. NineDigitMagicNumbers\bin\Debug\_04.NineDigitMagicNumbers.pdb
+G:\Programing Language\C# Basics Sample Exam\04. Exam\C# Basics Exam 10 April 2014 Morning\CSharpExam10April2014Morning\04. NineDigitMagicNumbers\obj\Debug\04. NineDigitMagicNumbers.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Basics Sample Exam\04. Exam\C# Basics Exam 10 April 2014 Morning\CSharpExam10April2014Morning\04. NineDigitMagicNumbers\obj\Debug\_04.NineDigitMagicNumbers.exe
+G:\Programing Language\C# Basics Sample Exam\04. Exam\C# Basics Exam 10 April 2014 Morning\CSharpExam10April2014Morning\04. NineDigitMagicNumbers\obj\Debug\_04.NineDigitMagicNumbers.pdb
+G:\Programing Language\C# Basics Sample Exam\02. Exam\C# Basics Exam 10 April 2014 Morning\04. NineDigitMagicNumbers\bin\Debug\_04.NineDigitMagicNumbers.exe.config
+G:\Programing Language\C# Basics Sample Exam\02. Exam\C# Basics Exam 10 April 2014 Morning\04. NineDigitMagicNumbers\obj\Debug\_04.NineDigitMagicNumbers.exe
+G:\Programing Language\C# Basics Sample Exam\02. Exam\C# Basics Exam 10 April 2014 Morning\04. NineDigitMagicNumbers\obj\Debug\_04.NineDigitMagicNumbers.pdb

@@ -1,0 +1,6 @@
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\13. Comparing Floats\bin\Debug\_13.Comparing_Floats.exe.config
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\13. Comparing Floats\bin\Debug\_13.Comparing_Floats.exe
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\13. Comparing Floats\bin\Debug\_13.Comparing_Floats.pdb
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\13. Comparing Floats\obj\Debug\_13.Comparing_Floats.exe
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\13. Comparing Floats\obj\Debug\_13.Comparing_Floats.pdb
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\13. Comparing Floats\obj\Debug\13. Comparing Floats.csprojResolveAssemblyReference.cache

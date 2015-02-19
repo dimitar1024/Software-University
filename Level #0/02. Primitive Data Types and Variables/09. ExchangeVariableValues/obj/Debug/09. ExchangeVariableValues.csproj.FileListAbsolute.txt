@@ -1,0 +1,5 @@
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\09. ExchangeVariableValues\bin\Debug\_09.ExchangeVariableValues.exe.config
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\09. ExchangeVariableValues\bin\Debug\_09.ExchangeVariableValues.exe
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\09. ExchangeVariableValues\bin\Debug\_09.ExchangeVariableValues.pdb
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\09. ExchangeVariableValues\obj\Debug\_09.ExchangeVariableValues.exe
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\09. ExchangeVariableValues\obj\Debug\_09.ExchangeVariableValues.pdb

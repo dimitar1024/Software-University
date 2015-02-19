@@ -1,0 +1,6 @@
+G:\Programing Language\C# Basics Sample Exam\08. Exam\CSharpBasicsExam14April2014Morning\03. WineGlass\bin\Debug\_03.WineGlass.exe.config
+G:\Programing Language\C# Basics Sample Exam\08. Exam\CSharpBasicsExam14April2014Morning\03. WineGlass\obj\Debug\03. WineGlass.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Basics Sample Exam\08. Exam\CSharpBasicsExam14April2014Morning\03. WineGlass\bin\Debug\_03.WineGlass.exe
+G:\Programing Language\C# Basics Sample Exam\08. Exam\CSharpBasicsExam14April2014Morning\03. WineGlass\bin\Debug\_03.WineGlass.pdb
+G:\Programing Language\C# Basics Sample Exam\08. Exam\CSharpBasicsExam14April2014Morning\03. WineGlass\obj\Debug\_03.WineGlass.exe
+G:\Programing Language\C# Basics Sample Exam\08. Exam\CSharpBasicsExam14April2014Morning\03. WineGlass\obj\Debug\_03.WineGlass.pdb

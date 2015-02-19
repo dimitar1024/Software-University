@@ -1,0 +1,19 @@
+import java.util.Scanner;
+
+
+public class _09_CombineListsOfLetters {
+
+	public static void main(String[] args) {
+		Scanner in = new Scanner(System.in);
+		String firstStr = in.nextLine();
+		String[] firstLatter = firstStr.split("");
+		String secondStr = in.nextLine();
+		String[] secondLatter = secondStr.split("");
+		
+		for (String string : secondLatter) {
+			System.out.println(string);
+		}
+
+	}
+
+}

@@ -1,0 +1,31 @@
+import java.util.*;
+import java.util.Map.Entry;
+
+
+public class _03_LargestSequenceOfEqualStrings {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		String input = sc.nextLine();
+		String[] words = input.split(" ");
+		sc.close();
+		
+		TreeMap<String, Integer> maxSequence = new TreeMap<>(); 
+		
+		for (String word : words) {
+			Integer count = maxSequence.get(word);
+			if (count == null) {
+				count = 0;
+			}
+			maxSequence.put(word, count + 1);
+		}
+		 NavigableMap<String, Integer> descMap = maxSequence.descendingMap();
+		 Set<String> keySet = descMap.keySet();
+		 
+		 System.out.println(keySet);
+		 String value = descMap.lastKey();
+		
+		 System.out.println(value);
+	}
+	
+}

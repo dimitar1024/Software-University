@@ -1,0 +1,6 @@
+G:\Programing Language\C# Basics Sample Exam\01. Exam\CSharpBasicsExam28April2014\CSharpBasicsExam28April2014\01. Fit Box in Box\bin\Debug\_01.Fit_Box_in_Box.exe.config
+G:\Programing Language\C# Basics Sample Exam\01. Exam\CSharpBasicsExam28April2014\CSharpBasicsExam28April2014\01. Fit Box in Box\bin\Debug\_01.Fit_Box_in_Box.exe
+G:\Programing Language\C# Basics Sample Exam\01. Exam\CSharpBasicsExam28April2014\CSharpBasicsExam28April2014\01. Fit Box in Box\bin\Debug\_01.Fit_Box_in_Box.pdb
+G:\Programing Language\C# Basics Sample Exam\01. Exam\CSharpBasicsExam28April2014\CSharpBasicsExam28April2014\01. Fit Box in Box\obj\Debug\01. Fit Box in Box.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Basics Sample Exam\01. Exam\CSharpBasicsExam28April2014\CSharpBasicsExam28April2014\01. Fit Box in Box\obj\Debug\_01.Fit_Box_in_Box.exe
+G:\Programing Language\C# Basics Sample Exam\01. Exam\CSharpBasicsExam28April2014\CSharpBasicsExam28April2014\01. Fit Box in Box\obj\Debug\_01.Fit_Box_in_Box.pdb

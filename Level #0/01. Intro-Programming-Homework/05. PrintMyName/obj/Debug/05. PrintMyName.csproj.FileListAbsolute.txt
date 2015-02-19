@@ -1,0 +1,10 @@
+G:\Programing Language\Software University\Intro-Programming-Homework\05. PrintMyName\bin\Debug\_05.PrintMyName.exe.config
+G:\Programing Language\Software University\Intro-Programming-Homework\05. PrintMyName\bin\Debug\_05.PrintMyName.exe
+G:\Programing Language\Software University\Intro-Programming-Homework\05. PrintMyName\bin\Debug\_05.PrintMyName.pdb
+G:\Programing Language\Software University\Intro-Programming-Homework\05. PrintMyName\obj\Debug\_05.PrintMyName.exe
+G:\Programing Language\Software University\Intro-Programming-Homework\05. PrintMyName\obj\Debug\_05.PrintMyName.pdb
+G:\Programing Language\Software University\01. Intro-Programming-Homework\05. PrintMyName\bin\Debug\_05.PrintMyName.exe.config
+G:\Programing Language\Software University\01. Intro-Programming-Homework\05. PrintMyName\obj\Debug\_05.PrintMyName.exe
+G:\Programing Language\Software University\01. Intro-Programming-Homework\05. PrintMyName\obj\Debug\_05.PrintMyName.pdb
+G:\Programing Language\Software University\01. Intro-Programming-Homework\05. PrintMyName\bin\Debug\_05.PrintMyName.exe
+G:\Programing Language\Software University\01. Intro-Programming-Homework\05. PrintMyName\bin\Debug\_05.PrintMyName.pdb

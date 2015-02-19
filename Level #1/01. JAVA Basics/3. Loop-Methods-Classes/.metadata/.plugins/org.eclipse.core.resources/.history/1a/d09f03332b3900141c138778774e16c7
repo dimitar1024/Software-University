@@ -1,0 +1,20 @@
+import java.sql.Date;
+import java.text.SimpleDateFormat;
+import java.util.Scanner;
+
+
+public class _07_DaysBetweenTwoDates {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		String date1 = sc.nextLine();
+		String date2 = sc.nextLine();
+		
+		SimpleDateFormat dt = new SimpleDateFormat("dd-mm-yyyy");
+		
+		Date start = dt.parse(date1);
+		
+		Date end = dt.parse(date2);
+	}
+
+}

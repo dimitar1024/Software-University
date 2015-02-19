@@ -1,0 +1,9 @@
+G:\Programing Language\Software University\04. Console Input Output\01. SumOfThreeNumbers\bin\Debug\_01.SumOfThreeNumbers.exe.config
+G:\Programing Language\Software University\04. Console Input Output\01. SumOfThreeNumbers\bin\Debug\_01.SumOfThreeNumbers.exe
+G:\Programing Language\Software University\04. Console Input Output\01. SumOfThreeNumbers\bin\Debug\_01.SumOfThreeNumbers.pdb
+G:\Programing Language\Software University\04. Console Input Output\01. SumOfThreeNumbers\obj\Debug\01. SumOfThreeNumbers.csprojResolveAssemblyReference.cache
+G:\Programing Language\Software University\04. Console Input Output\01. SumOfThreeNumbers\obj\Debug\_01.SumOfThreeNumbers.exe
+G:\Programing Language\Software University\04. Console Input Output\01. SumOfThreeNumbers\obj\Debug\_01.SumOfThreeNumbers.pdb
+D:\Programing Language\#0 lavel C# July 2014\04. Console Input Output\01. SumOfThreeNumbers\bin\Debug\_01.SumOfThreeNumbers.exe.config
+D:\Programing Language\#0 lavel C# July 2014\04. Console Input Output\01. SumOfThreeNumbers\obj\Debug\_01.SumOfThreeNumbers.exe
+D:\Programing Language\#0 lavel C# July 2014\04. Console Input Output\01. SumOfThreeNumbers\obj\Debug\_01.SumOfThreeNumbers.pdb

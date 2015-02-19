@@ -1,0 +1,6 @@
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\06. EncapsulationAndPolymorphism\Problem01_Shapes\bin\Debug\Problem01_Shapes.exe.config
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\06. EncapsulationAndPolymorphism\Problem01_Shapes\obj\Debug\Problem01_Shapes.csprojResolveAssemblyReference.cache
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\06. EncapsulationAndPolymorphism\Problem01_Shapes\bin\Debug\Problem01_Shapes.exe
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\06. EncapsulationAndPolymorphism\Problem01_Shapes\bin\Debug\Problem01_Shapes.pdb
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\06. EncapsulationAndPolymorphism\Problem01_Shapes\obj\Debug\Problem01_Shapes.exe
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\06. EncapsulationAndPolymorphism\Problem01_Shapes\obj\Debug\Problem01_Shapes.pdb

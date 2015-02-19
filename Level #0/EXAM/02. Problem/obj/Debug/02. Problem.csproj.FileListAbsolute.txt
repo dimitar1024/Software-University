@@ -1,0 +1,12 @@
+C:\Users\dimitar1024\Desktop\izpit\02. Problem\bin\Debug\_02.Problem.exe.config
+C:\Users\dimitar1024\Desktop\izpit\02. Problem\bin\Debug\_02.Problem.exe
+C:\Users\dimitar1024\Desktop\izpit\02. Problem\bin\Debug\_02.Problem.pdb
+C:\Users\dimitar1024\Desktop\izpit\02. Problem\obj\Debug\02. Problem.csprojResolveAssemblyReference.cache
+C:\Users\dimitar1024\Desktop\izpit\02. Problem\obj\Debug\_02.Problem.exe
+C:\Users\dimitar1024\Desktop\izpit\02. Problem\obj\Debug\_02.Problem.pdb
+G:\Programing Language\izpit\02. Problem\bin\Debug\_02.Problem.exe.config
+G:\Programing Language\izpit\02. Problem\obj\Debug\_02.Problem.exe
+G:\Programing Language\izpit\02. Problem\obj\Debug\_02.Problem.pdb
+D:\Programing Language\izpit\02. Problem\bin\Debug\_02.Problem.exe.config
+D:\Programing Language\izpit\02. Problem\obj\Debug\_02.Problem.exe
+D:\Programing Language\izpit\02. Problem\obj\Debug\_02.Problem.pdb

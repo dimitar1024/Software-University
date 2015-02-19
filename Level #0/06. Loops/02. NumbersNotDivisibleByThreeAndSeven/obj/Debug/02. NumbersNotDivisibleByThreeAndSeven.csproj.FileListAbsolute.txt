@@ -1,0 +1,5 @@
+G:\Programing Language\Software University\06. Loops\02. NumbersNotDivisibleByThreeAndSeven\bin\Debug\_02.NumbersNotDivisibleByThreeAndSeven.exe.config
+G:\Programing Language\Software University\06. Loops\02. NumbersNotDivisibleByThreeAndSeven\bin\Debug\_02.NumbersNotDivisibleByThreeAndSeven.exe
+G:\Programing Language\Software University\06. Loops\02. NumbersNotDivisibleByThreeAndSeven\bin\Debug\_02.NumbersNotDivisibleByThreeAndSeven.pdb
+G:\Programing Language\Software University\06. Loops\02. NumbersNotDivisibleByThreeAndSeven\obj\Debug\_02.NumbersNotDivisibleByThreeAndSeven.exe
+G:\Programing Language\Software University\06. Loops\02. NumbersNotDivisibleByThreeAndSeven\obj\Debug\_02.NumbersNotDivisibleByThreeAndSeven.pdb

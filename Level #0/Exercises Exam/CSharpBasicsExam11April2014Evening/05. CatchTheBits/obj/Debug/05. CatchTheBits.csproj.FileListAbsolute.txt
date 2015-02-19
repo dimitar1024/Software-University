@@ -1,0 +1,6 @@
+G:\Programing Language\C# Basics Sample Exam\07. Exam\CSharpBasicsExam11April2014Evening\05. CatchTheBits\bin\Debug\_05.CatchTheBits.exe.config
+G:\Programing Language\C# Basics Sample Exam\07. Exam\CSharpBasicsExam11April2014Evening\05. CatchTheBits\bin\Debug\_05.CatchTheBits.exe
+G:\Programing Language\C# Basics Sample Exam\07. Exam\CSharpBasicsExam11April2014Evening\05. CatchTheBits\bin\Debug\_05.CatchTheBits.pdb
+G:\Programing Language\C# Basics Sample Exam\07. Exam\CSharpBasicsExam11April2014Evening\05. CatchTheBits\obj\Debug\05. CatchTheBits.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Basics Sample Exam\07. Exam\CSharpBasicsExam11April2014Evening\05. CatchTheBits\obj\Debug\_05.CatchTheBits.exe
+G:\Programing Language\C# Basics Sample Exam\07. Exam\CSharpBasicsExam11April2014Evening\05. CatchTheBits\obj\Debug\_05.CatchTheBits.pdb

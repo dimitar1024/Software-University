@@ -1,0 +1,5 @@
+C:\Users\dimitar1024\Desktop\C#\Mini4ki\bin\Debug\Minesweeper.exe
+C:\Users\dimitar1024\Desktop\C#\Mini4ki\bin\Debug\Minesweeper.pdb
+C:\Users\dimitar1024\Desktop\C#\Mini4ki\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\dimitar1024\Desktop\C#\Mini4ki\obj\Debug\Minesweeper.exe
+C:\Users\dimitar1024\Desktop\C#\Mini4ki\obj\Debug\Minesweeper.pdb

@@ -1,0 +1,38 @@
+import java.util.Scanner;
+
+
+public class _04_AngleUnitConverterDegreesRadians {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		String input = sc.nextLine();
+		String[] inputToStr = input.split(" ");
+		
+		double number = sc.nextDouble();
+		String extension = sc.next();
+		System.out.println(number);
+		System.out.println(ext);
+		
+		
+		if (extension == "deg") {
+			DegreesToRadians(number);
+		}
+		if (extension == "rad") {
+			RadiansToDegrees(number);
+		}
+		
+		
+	}
+	
+	public static void DegreesToRadians (double deg){
+		double rad = (deg*Math.PI)/180;
+		System.out.println(rad);
+	}
+	
+	public static void RadiansToDegrees (double rad) {
+		double deg = (rad*180)/Math.PI;
+		
+		System.out.println(deg);
+	}
+
+}

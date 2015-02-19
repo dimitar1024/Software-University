@@ -1,0 +1,6 @@
+G:\Programing Language\Software University\03. Operators and Expressions\13. CheckABitAtGivenPosition\bin\Debug\_13.CheckABitAtGivenPosition.exe.config
+G:\Programing Language\Software University\03. Operators and Expressions\13. CheckABitAtGivenPosition\bin\Debug\_13.CheckABitAtGivenPosition.exe
+G:\Programing Language\Software University\03. Operators and Expressions\13. CheckABitAtGivenPosition\bin\Debug\_13.CheckABitAtGivenPosition.pdb
+G:\Programing Language\Software University\03. Operators and Expressions\13. CheckABitAtGivenPosition\obj\Debug\13. CheckABitAtGivenPosition.csprojResolveAssemblyReference.cache
+G:\Programing Language\Software University\03. Operators and Expressions\13. CheckABitAtGivenPosition\obj\Debug\_13.CheckABitAtGivenPosition.exe
+G:\Programing Language\Software University\03. Operators and Expressions\13. CheckABitAtGivenPosition\obj\Debug\_13.CheckABitAtGivenPosition.pdb

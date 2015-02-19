@@ -1,0 +1,6 @@
+G:\Programing Language\C# Basics Sample Exam\07. Exam\CSharpBasicsExam12April2014Evening\05. BitRoller\bin\Debug\_05.BitRoller.exe.config
+G:\Programing Language\C# Basics Sample Exam\07. Exam\CSharpBasicsExam12April2014Evening\05. BitRoller\bin\Debug\_05.BitRoller.exe
+G:\Programing Language\C# Basics Sample Exam\07. Exam\CSharpBasicsExam12April2014Evening\05. BitRoller\bin\Debug\_05.BitRoller.pdb
+G:\Programing Language\C# Basics Sample Exam\07. Exam\CSharpBasicsExam12April2014Evening\05. BitRoller\obj\Debug\05. BitRoller.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Basics Sample Exam\07. Exam\CSharpBasicsExam12April2014Evening\05. BitRoller\obj\Debug\_05.BitRoller.exe
+G:\Programing Language\C# Basics Sample Exam\07. Exam\CSharpBasicsExam12April2014Evening\05. BitRoller\obj\Debug\_05.BitRoller.pdb

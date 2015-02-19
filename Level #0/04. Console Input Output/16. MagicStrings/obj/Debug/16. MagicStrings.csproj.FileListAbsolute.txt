@@ -1,0 +1,6 @@
+G:\Programing Language\Software University\04. Console Input Output\16. MagicStrings\bin\Debug\_16.MagicStrings.exe.config
+G:\Programing Language\Software University\04. Console Input Output\16. MagicStrings\obj\Debug\16. MagicStrings.csprojResolveAssemblyReference.cache
+G:\Programing Language\Software University\04. Console Input Output\16. MagicStrings\bin\Debug\_16.MagicStrings.exe
+G:\Programing Language\Software University\04. Console Input Output\16. MagicStrings\bin\Debug\_16.MagicStrings.pdb
+G:\Programing Language\Software University\04. Console Input Output\16. MagicStrings\obj\Debug\_16.MagicStrings.exe
+G:\Programing Language\Software University\04. Console Input Output\16. MagicStrings\obj\Debug\_16.MagicStrings.pdb

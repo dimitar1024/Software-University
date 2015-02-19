@@ -1,0 +1,28 @@
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.Scanner;
+
+public class _02_ThreeLargestNumbers {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+
+		int n = sc.nextInt();
+		sc.nextLine();
+		ArrayList<Double> numbers = new ArrayList<Double>();
+
+		for (int i = 0; i < n; i++) {
+			Double num = Double.parseDouble(sc.nextLine());
+			numbers.add(num);
+
+		}
+		
+		Collections.sort(numbers);
+		Collections.reverse(numbers);
+		for (int i = 0; i < 3; i++) {
+			System.out.println(numbers.get(i));
+		}
+	}
+
+}

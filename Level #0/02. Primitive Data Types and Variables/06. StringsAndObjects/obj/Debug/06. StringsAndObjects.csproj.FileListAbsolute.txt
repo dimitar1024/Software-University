@@ -1,0 +1,5 @@
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\06. StringsAndObjects\bin\Debug\_06.StringsAndObjects.exe.config
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\06. StringsAndObjects\bin\Debug\_06.StringsAndObjects.exe
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\06. StringsAndObjects\bin\Debug\_06.StringsAndObjects.pdb
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\06. StringsAndObjects\obj\Debug\_06.StringsAndObjects.exe
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\06. StringsAndObjects\obj\Debug\_06.StringsAndObjects.pdb

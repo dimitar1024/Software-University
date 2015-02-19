@@ -1,0 +1,6 @@
+G:\Programing Language\C# Basics Sample Exam\06. Exam\CSharpBasicsExam12April2014Morning\5. BitsKiller\bin\Debug\_5.BitsKiller.exe.config
+G:\Programing Language\C# Basics Sample Exam\06. Exam\CSharpBasicsExam12April2014Morning\5. BitsKiller\bin\Debug\_5.BitsKiller.exe
+G:\Programing Language\C# Basics Sample Exam\06. Exam\CSharpBasicsExam12April2014Morning\5. BitsKiller\bin\Debug\_5.BitsKiller.pdb
+G:\Programing Language\C# Basics Sample Exam\06. Exam\CSharpBasicsExam12April2014Morning\5. BitsKiller\obj\Debug\5. BitsKiller.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Basics Sample Exam\06. Exam\CSharpBasicsExam12April2014Morning\5. BitsKiller\obj\Debug\_5.BitsKiller.exe
+G:\Programing Language\C# Basics Sample Exam\06. Exam\CSharpBasicsExam12April2014Morning\5. BitsKiller\obj\Debug\_5.BitsKiller.pdb

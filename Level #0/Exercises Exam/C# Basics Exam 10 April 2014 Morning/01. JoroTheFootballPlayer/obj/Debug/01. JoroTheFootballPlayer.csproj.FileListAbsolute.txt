@@ -1,0 +1,9 @@
+G:\Programing Language\C# Basics Sample Exam\04. Exam\C# Basics Exam 10 April 2014 Morning\CSharpExam10April2014Morning\01. JoroTheFootballPlayer\bin\Debug\_01.JoroTheFootballPlayer.exe.config
+G:\Programing Language\C# Basics Sample Exam\04. Exam\C# Basics Exam 10 April 2014 Morning\CSharpExam10April2014Morning\01. JoroTheFootballPlayer\bin\Debug\_01.JoroTheFootballPlayer.exe
+G:\Programing Language\C# Basics Sample Exam\04. Exam\C# Basics Exam 10 April 2014 Morning\CSharpExam10April2014Morning\01. JoroTheFootballPlayer\bin\Debug\_01.JoroTheFootballPlayer.pdb
+G:\Programing Language\C# Basics Sample Exam\04. Exam\C# Basics Exam 10 April 2014 Morning\CSharpExam10April2014Morning\01. JoroTheFootballPlayer\obj\Debug\01. JoroTheFootballPlayer.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Basics Sample Exam\04. Exam\C# Basics Exam 10 April 2014 Morning\CSharpExam10April2014Morning\01. JoroTheFootballPlayer\obj\Debug\_01.JoroTheFootballPlayer.exe
+G:\Programing Language\C# Basics Sample Exam\04. Exam\C# Basics Exam 10 April 2014 Morning\CSharpExam10April2014Morning\01. JoroTheFootballPlayer\obj\Debug\_01.JoroTheFootballPlayer.pdb
+G:\Programing Language\C# Basics Sample Exam\02. Exam\C# Basics Exam 10 April 2014 Morning\01. JoroTheFootballPlayer\bin\Debug\_01.JoroTheFootballPlayer.exe.config
+G:\Programing Language\C# Basics Sample Exam\02. Exam\C# Basics Exam 10 April 2014 Morning\01. JoroTheFootballPlayer\obj\Debug\_01.JoroTheFootballPlayer.exe
+G:\Programing Language\C# Basics Sample Exam\02. Exam\C# Basics Exam 10 April 2014 Morning\01. JoroTheFootballPlayer\obj\Debug\_01.JoroTheFootballPlayer.pdb

@@ -1,0 +1,9 @@
+G:\Programing Language\C# Basics Sample Exam\C# Basics Sample Exam May 2014\CSharpBasicsSampleExamMay2014\04. NestedLoops\bin\Debug\_04.NestedLoops.exe.config
+G:\Programing Language\C# Basics Sample Exam\C# Basics Sample Exam May 2014\CSharpBasicsSampleExamMay2014\04. NestedLoops\bin\Debug\_04.NestedLoops.exe
+G:\Programing Language\C# Basics Sample Exam\C# Basics Sample Exam May 2014\CSharpBasicsSampleExamMay2014\04. NestedLoops\bin\Debug\_04.NestedLoops.pdb
+G:\Programing Language\C# Basics Sample Exam\C# Basics Sample Exam May 2014\CSharpBasicsSampleExamMay2014\04. NestedLoops\obj\Debug\04. NestedLoops.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Basics Sample Exam\C# Basics Sample Exam May 2014\CSharpBasicsSampleExamMay2014\04. NestedLoops\obj\Debug\_04.NestedLoops.exe
+G:\Programing Language\C# Basics Sample Exam\C# Basics Sample Exam May 2014\CSharpBasicsSampleExamMay2014\04. NestedLoops\obj\Debug\_04.NestedLoops.pdb
+G:\Programing Language\C# Basics Sample Exam\00. Exam\CSharpBasicsSampleExamMay2014\04. NestedLoops\bin\Debug\_04.NestedLoops.exe.config
+G:\Programing Language\C# Basics Sample Exam\00. Exam\CSharpBasicsSampleExamMay2014\04. NestedLoops\obj\Debug\_04.NestedLoops.exe
+G:\Programing Language\C# Basics Sample Exam\00. Exam\CSharpBasicsSampleExamMay2014\04. NestedLoops\obj\Debug\_04.NestedLoops.pdb

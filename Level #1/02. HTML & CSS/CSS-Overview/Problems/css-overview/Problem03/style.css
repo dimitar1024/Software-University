@@ -1,0 +1,91 @@
+﻿body {
+}
+
+#head {
+    width: 300px;
+    height: 300px;
+    background-color: yellow;
+    border: solid 2px black;
+    border-radius: 150px;
+}
+
+    #head div#left-eye {
+        display: inline-block;
+        width: 60px;
+        height: 60px;
+        background-color: white;
+        border: solid 2px black;
+        border-radius: 30px;
+        margin-left: 60px;
+        margin-top: 60px;
+    }
+
+    #head div#left-eye div#left-point {
+        display: inline-block;
+        width: 18px;
+        height: 18px;
+        background-color: black;
+        border: solid 2px black;
+        border-radius: 10px;
+        margin-left: 30px;
+        margin-top: 30px;
+    }
+
+    #head div#right-eye {
+        display:inline-block;
+        float: right;
+        width: 60px;
+        height: 60px;
+        background-color: white;
+        border: solid 2px black;
+        border-radius: 30px;
+        margin-right: 60px;
+        margin-top: 60px;
+    }
+
+    #head div#right-eye div#right-point {
+        display: inline-block;
+        width: 18px;
+        height: 18px;
+        background-color: black;
+        border: solid 2px black;
+        border-radius: 10px;
+        margin-left: 0px;
+        margin-top: 0px;
+    }
+
+    #head div#nose {
+        width: 48px;
+        height: 48px;
+        background-color: red;
+        border: solid 2px black;
+        border-radius: 24px;
+        margin-left: 122px;
+        margin-top: 0px;
+    }
+
+    #head div#mouth {
+        width: 150px;
+        height: 60px;
+        background-color: white;
+        border: solid 2px black;
+        border-radius: 40px;
+        margin-left: 70px;
+        margin-top: 20px;
+    }
+
+        #head div#mouth div.tooth {
+            display: inline-block;
+            width: 26px;
+            height: 28px;
+            border: solid 2px black;
+            margin-top: -2px;
+        }
+        #head div#mouth div.tooth {
+            border-bottom-left-radius: 0.5em;
+            border-bottom-right-radius: 0.5em;
+        }
+            #head div#mouth div.tooth:first-child {
+                margin-left: 45px;
+                margin-right: -4px;
+            }

@@ -1,0 +1,43 @@
+import java.util.Scanner;
+
+
+public class _03_LargestSequenceOfEqualStrings {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		String input = sc.nextLine();
+		String[] words = input.split(" ");
+
+		int index = 0;
+		int maxSequence = 0;
+		int counter = 0;
+		
+		for (int i = 0; i < words.length; i++) {
+			counter = 0;
+			int j = i;
+			
+			while (words[i].equals(words[j])) {
+				counter++;
+				j++;
+				if (j >=words.length) {
+					break;
+				}
+			}
+			
+			if (counter > maxSequence) {
+				maxSequence = counter;
+				index = i;
+			}
+		}
+		
+		for (int j = index; j < index + maxSequence; j++) {
+			if (j == index+maxSequence-1) {
+				System.out.print(words[j]);
+			}
+			else {
+				System.out.print(words[j] + ", ");
+			}
+		}
+	}
+	
+}

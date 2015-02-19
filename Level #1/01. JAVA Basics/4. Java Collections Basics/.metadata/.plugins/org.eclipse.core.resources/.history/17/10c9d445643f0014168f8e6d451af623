@@ -1,0 +1,24 @@
+import java.util.ArrayList;
+import java.util.Scanner;
+
+
+public class _05_CountAllWords {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		ArrayList<String> words= new ArrayList<>();
+		while (true) {
+			String input = sc.nextLine();
+			if (input == null) {
+				break;
+			}
+			String[] wordsOnLine = input.split("\\W+");
+			words.addAll(words);
+		}
+		sc.close();
+		
+		System.out.println(words.size());
+
+	}
+
+}

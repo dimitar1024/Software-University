@@ -1,0 +1,9 @@
+G:\Programing Language\C# Basics Sample Exam\C# Basics Sample Exam May 2014\CSharpBasicsSampleExamMay2014\02. SimpleLoops\bin\Debug\_02.SimpleLoops.exe.config
+G:\Programing Language\C# Basics Sample Exam\C# Basics Sample Exam May 2014\CSharpBasicsSampleExamMay2014\02. SimpleLoops\bin\Debug\_02.SimpleLoops.exe
+G:\Programing Language\C# Basics Sample Exam\C# Basics Sample Exam May 2014\CSharpBasicsSampleExamMay2014\02. SimpleLoops\bin\Debug\_02.SimpleLoops.pdb
+G:\Programing Language\C# Basics Sample Exam\C# Basics Sample Exam May 2014\CSharpBasicsSampleExamMay2014\02. SimpleLoops\obj\Debug\02. SimpleLoops.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Basics Sample Exam\C# Basics Sample Exam May 2014\CSharpBasicsSampleExamMay2014\02. SimpleLoops\obj\Debug\_02.SimpleLoops.exe
+G:\Programing Language\C# Basics Sample Exam\C# Basics Sample Exam May 2014\CSharpBasicsSampleExamMay2014\02. SimpleLoops\obj\Debug\_02.SimpleLoops.pdb
+G:\Programing Language\C# Basics Sample Exam\00. Exam\CSharpBasicsSampleExamMay2014\02. SimpleLoops\bin\Debug\_02.SimpleLoops.exe.config
+G:\Programing Language\C# Basics Sample Exam\00. Exam\CSharpBasicsSampleExamMay2014\02. SimpleLoops\obj\Debug\_02.SimpleLoops.exe
+G:\Programing Language\C# Basics Sample Exam\00. Exam\CSharpBasicsSampleExamMay2014\02. SimpleLoops\obj\Debug\_02.SimpleLoops.pdb

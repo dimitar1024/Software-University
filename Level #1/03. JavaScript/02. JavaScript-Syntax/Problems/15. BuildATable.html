@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Calculate Expression</title>
+    <script src="15.%20BuildATable.js"></script>
+    <style>
+        table, tr, td {
+            border: 1px solid black;
+        }
+        td {
+            width: 50px;
+        }
+    </style>
+</head>
+<body>
+    
+    <input type="text" id="fr-textbox" placeholder="Enter power" /><br />
+    <input type="text" id="sd-textbox" placeholder="Enter row" /><br />
+	<button onclick="Event()">Eval Result</button>
+
+    <div id="demo"></div>
+        <script>
+            function Event() {
+                var table = document.getElementById("demo");
+                var power = document.getElementById("fr-textbox").value;
+                var row = document.getElementById("sd-textbox").value;
+
+
+                var output = '';
+                output += '<tr><th>Num</th><th>Square</th><th>Fib</th></tr>';
+                output += '<table border="1" cellspacing="1" cellpadding="5">';
+
+                for (i = 1; i <= row; i++) {
+                    output += '<tr>';
+                    output += '<td>' + i + '</td>';
+                    output += '<td>' + Math.pow(i,power) + '</td>';
+                    output += '<td>' + i + '</td>';
+                    output += '</tr>';
+                }
+
+                output += '</table>';
+
+                document.getElementById("demo").innerHTML = output;
+            }
+
+        </script>
+</body>
+</html>

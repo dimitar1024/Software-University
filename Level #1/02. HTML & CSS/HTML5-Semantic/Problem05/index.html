@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="style.js"></script>
+</head>
+<body>
+    <canvas id="myCanvas" width="250" height="270"
+            style="border:3px dotted #ff0000;"></canvas> 
+    <script>
+        var c = document.getElementById("myCanvas");
+        var ctx = c.getContext("2d");
+        ctx.font = "30px Arial";
+        ctx.fillText("I love JavaScript", 10, 50);
+        var img = new Image();
+        img.src = 'img/js.jpg';
+        img.onload = function () {
+            ctx.drawImage(img, 55, 80);
+        }
+    </script>
+</body>
+</html>

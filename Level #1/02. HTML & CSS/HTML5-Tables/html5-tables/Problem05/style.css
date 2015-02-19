@@ -1,0 +1,35 @@
+﻿body {
+}
+table, tr, th, td {
+            border: solid 1px black;
+            font-family: Calibri;
+            text-align: center;
+        }
+        td,th {
+            height: 85px;
+            width: 85px;
+        }
+        th {
+            font-size: 52px;
+        }
+            td.xor {
+                height: 30px;
+                font-size: small;
+                font-weight: bold;
+
+            }
+            td.left{
+                text-align: left;
+            }
+            td.right {
+                text-align: right;
+            }
+            td.top {
+                vertical-align: text-top;
+            }
+            td.bottom {
+                vertical-align:bottom;
+            }
+            td.beer {
+                font-size: 26px;
+            }

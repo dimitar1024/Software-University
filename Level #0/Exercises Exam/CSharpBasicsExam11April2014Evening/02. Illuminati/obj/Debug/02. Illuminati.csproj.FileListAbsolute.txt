@@ -1,0 +1,5 @@
+G:\Programing Language\C# Basics Sample Exam\07. Exam\CSharpBasicsExam11April2014Evening\02. Illuminati\bin\Debug\_02.Illuminati.exe.config
+G:\Programing Language\C# Basics Sample Exam\07. Exam\CSharpBasicsExam11April2014Evening\02. Illuminati\bin\Debug\_02.Illuminati.exe
+G:\Programing Language\C# Basics Sample Exam\07. Exam\CSharpBasicsExam11April2014Evening\02. Illuminati\bin\Debug\_02.Illuminati.pdb
+G:\Programing Language\C# Basics Sample Exam\07. Exam\CSharpBasicsExam11April2014Evening\02. Illuminati\obj\Debug\_02.Illuminati.exe
+G:\Programing Language\C# Basics Sample Exam\07. Exam\CSharpBasicsExam11April2014Evening\02. Illuminati\obj\Debug\_02.Illuminati.pdb

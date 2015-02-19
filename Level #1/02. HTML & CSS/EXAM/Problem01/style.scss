@@ -1,0 +1,84 @@
+body, h1, h2, h3, h4, h5, span, a, p, div {
+    margin: 0;
+    padding: 0;
+}
+
+@font-face {
+    font-family: 'OpenSans-ExtraBold';
+    src: url('fonts/OpenSans-ExtraBold.ttf') format('truetype');
+}
+
+body {
+    background-color: #f0f0e8;
+    font-family: Open Sans;
+}
+
+header {
+    h1 {
+        font-family: OpenSans-ExtraBold, Helvetica, sans-serif;
+        font-size: 56px;
+        text-align: center;
+        color: #009288;
+    }
+
+    h2 {
+        text-align: center;
+        font-size: 32px;
+        color: #7f8287;
+    }
+}
+
+nav {
+    margin-top: 20px;
+    text-align: center;
+
+    a {
+        text-decoration: none;
+        color: #7f8287;
+    }
+}
+
+section {
+    text-align: center;
+    margin: 0 200px;
+
+    article {
+        float: left;
+        width: 160px;
+        height: 250px;
+        padding-left: 20px;
+        padding-right: 10px;
+        text-align: center;
+        margin: 20px;
+        color: #7f8287;
+
+        img {
+            margin-top: 10px;
+            margin-bottom: 20px;
+        }
+
+        h3 {
+            font-size: 16px;
+        }
+
+        p {
+            margin-top: 20px;
+            font-weight: 300;
+            color: #7f8287;
+
+            a {
+                font-size: 11px;
+                line-height: 1.8;
+                text-decoration: none;
+                color: black;
+                font-weight: 300;
+                color: #7f8287;
+            }
+        }
+    }
+
+    article:hover {
+        background-color: #f6f6f5;
+        border-left: 15px solid #009288;
+    }
+}

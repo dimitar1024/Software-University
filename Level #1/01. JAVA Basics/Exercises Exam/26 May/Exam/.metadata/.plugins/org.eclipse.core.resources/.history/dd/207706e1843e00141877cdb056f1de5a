@@ -1,0 +1,25 @@
+import java.util.Scanner;
+
+
+public class _01_VideoDurations {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		int hours = 0;
+		int minutes = 0;
+		
+		while (true) {
+			if (sc.nextLine().equals("End")) {
+				break;
+			}
+			String line = sc.nextLine();
+			String[] data = line.split("[ :]+");
+			System.out.println(data);
+			int currentHours = Integer.parseInt(data[0]);
+			int currentMinutes = Integer.parseInt(data[1]);
+		}
+		
+
+	}
+
+}

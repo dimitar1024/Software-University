@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <meta charset="utf-8" />
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <script src="functions.js"></script>
+</head>
+<body>
+    <form name="calc">
+        <table>
+            <tr>
+                <td colspan="4" id="display" align="right" action="compute(this)"><input type="text" name="view" action="compute(this)"/></td>
+            </tr>
+
+            <tr>
+                <td><input type="button" value="  1  " onclick="getNum(this.form, one)"></td>
+                <td><input type="button" value="  2  " onclick="getNum(this.form, two)"></td>
+                <td><input type="button" value="  3  " onclick="getNum(this.form, three)"></td>
+                <td><input type="button" value="  +  " onclick="getNum(this.form, add)"></td>
+            </tr>
+
+            <tr>
+                <td><input type="button" value="  4  " onclick="getNum(this.form, four)"></td>
+                <td><input type="button" value="  5  " onclick="getNum(this.form, five)"></td>
+                <td><input type="button" value="  6  " onclick="getNum(this.form, six)"></td>
+                <td><input type="button" value="  -  " onclick="getNum(this.form, subtract)"></td>
+            </tr>
+
+            <tr>
+                <td><input type="button" value="  7  " onclick="getNum(this.form, seven)"></td>
+                <td><input type="button" value="  8  " onclick="getNum(this.form, eight)"></td>
+                <td><input type="button" value="  9  " onclick="getNum(this.form, nine)"></td>
+                <td><input type="button" value="  *  " onclick="getNum(this.form, multiply)"></td>
+            </tr>
+
+            <tr>
+                <td><input type="reset" value="  C  " ></td>
+                <td><input type="button" value="  0  " onclick="getNum(this.form, zero)"></td>
+                <td><input type="button" value="  =  " onclick="compute(this.form)"></td>
+                <td><input type="button" value="  /  " onclick="getNum(this.form, divide)"></td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    
+    <input type="text" id="fr-textbox" placeholder="Enter number" />
+	
+    <a href="#" onclick="Event()">Reload</a>
+	<hr/>
+	<p id="demo"></p>
+    <script>
+        function Event() {
+            var input = document.getElementById("fr-textbox").value;
+            var r = input * 1; 
+			// това е кратък начин за парсване на стринг към число. В javascript има 3-4 начина това да 
+            //стане. Другите за които се сещам в момента са: string | 0 , parseInt(string)
+            var circleArea = Math.PI * r * r;
+
+            document.getElementById("demo").innerHTML = circleArea;
+			
+			
+        }
+           
+    </script>
+</body>
+</html>

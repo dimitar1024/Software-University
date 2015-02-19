@@ -1,0 +1,29 @@
+import java.sql.Date;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.util.Scanner;
+
+
+public class _07_DaysBetweenTwoDates {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		String date1 = sc.nextLine().replace('-', '.');
+		String date2 = sc.nextLine();
+		SimpleDateFormat df= new SimpleDateFormat("dd.MM.yyyy");
+		sc.close();
+		try {
+		    Date start = (Date) df.parse(date1);
+		    Date end = (Date)df.parse(date2);
+		    int day =(int)( (end.getTime() - start.getTime()) 
+	                / (1000 * 60 * 60 * 24) );
+		    
+		    System.out.println(day);
+		} catch (ParseException e) {
+		    e.printStackTrace();
+		}
+		
+		
+	}
+
+}

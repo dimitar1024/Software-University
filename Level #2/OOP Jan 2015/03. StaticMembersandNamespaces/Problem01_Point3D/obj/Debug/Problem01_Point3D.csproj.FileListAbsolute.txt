@@ -1,0 +1,6 @@
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\02. StaticMembersandNamespaces\Problem01_Point3D\bin\Debug\Problem01_Point3D.exe.config
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\02. StaticMembersandNamespaces\Problem01_Point3D\bin\Debug\Problem01_Point3D.exe
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\02. StaticMembersandNamespaces\Problem01_Point3D\bin\Debug\Problem01_Point3D.pdb
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\02. StaticMembersandNamespaces\Problem01_Point3D\obj\Debug\Problem01_Point3D.csprojResolveAssemblyReference.cache
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\02. StaticMembersandNamespaces\Problem01_Point3D\obj\Debug\Problem01_Point3D.exe
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\02. StaticMembersandNamespaces\Problem01_Point3D\obj\Debug\Problem01_Point3D.pdb

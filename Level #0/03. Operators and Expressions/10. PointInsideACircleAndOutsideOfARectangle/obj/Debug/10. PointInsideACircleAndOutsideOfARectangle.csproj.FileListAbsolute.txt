@@ -1,0 +1,6 @@
+G:\Programing Language\Software University\03. Operators and Expressions\10. PointInsideACircleAndOutsideOfARectangle\bin\Debug\_10.PointInsideACircleAndOutsideOfARectangle.exe.config
+G:\Programing Language\Software University\03. Operators and Expressions\10. PointInsideACircleAndOutsideOfARectangle\bin\Debug\_10.PointInsideACircleAndOutsideOfARectangle.exe
+G:\Programing Language\Software University\03. Operators and Expressions\10. PointInsideACircleAndOutsideOfARectangle\bin\Debug\_10.PointInsideACircleAndOutsideOfARectangle.pdb
+G:\Programing Language\Software University\03. Operators and Expressions\10. PointInsideACircleAndOutsideOfARectangle\obj\Debug\10. PointInsideACircleAndOutsideOfARectangle.csprojResolveAssemblyReference.cache
+G:\Programing Language\Software University\03. Operators and Expressions\10. PointInsideACircleAndOutsideOfARectangle\obj\Debug\_10.PointInsideACircleAndOutsideOfARectangle.exe
+G:\Programing Language\Software University\03. Operators and Expressions\10. PointInsideACircleAndOutsideOfARectangle\obj\Debug\_10.PointInsideACircleAndOutsideOfARectangle.pdb

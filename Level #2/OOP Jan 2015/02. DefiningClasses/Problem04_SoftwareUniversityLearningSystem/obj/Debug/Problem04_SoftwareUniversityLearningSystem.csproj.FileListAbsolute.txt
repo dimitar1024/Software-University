@@ -1,0 +1,6 @@
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\01. DefiningClasses\Problem04_SoftwareUniversityLearningSystem\bin\Debug\Problem04_SoftwareUniversityLearningSystem.exe.config
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\01. DefiningClasses\Problem04_SoftwareUniversityLearningSystem\bin\Debug\Problem04_SoftwareUniversityLearningSystem.exe
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\01. DefiningClasses\Problem04_SoftwareUniversityLearningSystem\bin\Debug\Problem04_SoftwareUniversityLearningSystem.pdb
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\01. DefiningClasses\Problem04_SoftwareUniversityLearningSystem\obj\Debug\Problem04_SoftwareUniversityLearningSystem.csprojResolveAssemblyReference.cache
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\01. DefiningClasses\Problem04_SoftwareUniversityLearningSystem\obj\Debug\Problem04_SoftwareUniversityLearningSystem.exe
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\01. DefiningClasses\Problem04_SoftwareUniversityLearningSystem\obj\Debug\Problem04_SoftwareUniversityLearningSystem.pdb

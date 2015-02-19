@@ -1,0 +1,43 @@
+import java.util.Scanner;
+import java.util.TreeMap;
+
+public class _03_ExamScore {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		sc.nextLine();
+		sc.nextLine();
+		sc.nextLine();
+
+		TreeMap<Integer, TreeMap<String, Float>> exam = new TreeMap<>();
+		while (true) {
+			String input = sc.nextLine();
+			if (input.indexOf("-") == 0) {
+				break;
+			}
+			String[] data = input.split("[ |]+");
+
+			String name = "" + data[1] + " " + data[2];
+			int score = Integer.parseInt(data[3]);
+			float endScore = Float.parseFloat(data[4]);
+			
+			if (!exam.containsKey(score)) {
+				TreeMap<String, Float> students = new TreeMap<>();
+				students.put(name, endScore);
+				exam.put(score, students);
+			}
+			else {
+				TreeMap<String, Float> students = new TreeMap<>();
+				if (!students.containsKey(name)) {
+					students.put(name, endScore);
+				}
+				exam.put(score, students);
+			}
+
+			
+		}
+		
+		System.out.println(exam);
+	}
+
+}

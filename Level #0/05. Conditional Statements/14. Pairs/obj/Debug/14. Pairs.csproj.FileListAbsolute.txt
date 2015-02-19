@@ -1,0 +1,6 @@
+G:\Programing Language\Software University\05. Conditional Statements\14. Pairs\bin\Debug\_14.Pairs.exe.config
+G:\Programing Language\Software University\05. Conditional Statements\14. Pairs\obj\Debug\14. Pairs.csprojResolveAssemblyReference.cache
+G:\Programing Language\Software University\05. Conditional Statements\14. Pairs\bin\Debug\_14.Pairs.exe
+G:\Programing Language\Software University\05. Conditional Statements\14. Pairs\bin\Debug\_14.Pairs.pdb
+G:\Programing Language\Software University\05. Conditional Statements\14. Pairs\obj\Debug\_14.Pairs.exe
+G:\Programing Language\Software University\05. Conditional Statements\14. Pairs\obj\Debug\_14.Pairs.pdb

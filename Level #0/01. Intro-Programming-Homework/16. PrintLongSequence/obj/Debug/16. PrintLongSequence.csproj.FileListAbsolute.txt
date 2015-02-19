@@ -1,0 +1,10 @@
+G:\Programing Language\Software University\Intro-Programming-Homework\16. PrintLongSequence\bin\Debug\_16.PrintLongSequence.exe.config
+G:\Programing Language\Software University\Intro-Programming-Homework\16. PrintLongSequence\bin\Debug\_16.PrintLongSequence.exe
+G:\Programing Language\Software University\Intro-Programming-Homework\16. PrintLongSequence\bin\Debug\_16.PrintLongSequence.pdb
+G:\Programing Language\Software University\Intro-Programming-Homework\16. PrintLongSequence\obj\Debug\_16.PrintLongSequence.exe
+G:\Programing Language\Software University\Intro-Programming-Homework\16. PrintLongSequence\obj\Debug\_16.PrintLongSequence.pdb
+G:\Programing Language\Software University\01. Intro-Programming-Homework\16. PrintLongSequence\bin\Debug\_16.PrintLongSequence.exe.config
+G:\Programing Language\Software University\01. Intro-Programming-Homework\16. PrintLongSequence\obj\Debug\_16.PrintLongSequence.exe
+G:\Programing Language\Software University\01. Intro-Programming-Homework\16. PrintLongSequence\obj\Debug\_16.PrintLongSequence.pdb
+G:\Programing Language\Software University\01. Intro-Programming-Homework\16. PrintLongSequence\bin\Debug\_16.PrintLongSequence.exe
+G:\Programing Language\Software University\01. Intro-Programming-Homework\16. PrintLongSequence\bin\Debug\_16.PrintLongSequence.pdb

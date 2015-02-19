@@ -1,0 +1,9 @@
+G:\Programing Language\Software University\Intro-Programming-Homework\14. CurrentDateAndTime\bin\Debug\_14.CurrentDateAndTime.exe.config
+G:\Programing Language\Software University\Intro-Programming-Homework\14. CurrentDateAndTime\bin\Debug\_14.CurrentDateAndTime.exe
+G:\Programing Language\Software University\Intro-Programming-Homework\14. CurrentDateAndTime\bin\Debug\_14.CurrentDateAndTime.pdb
+G:\Programing Language\Software University\Intro-Programming-Homework\14. CurrentDateAndTime\obj\Debug\14. CurrentDateAndTime.csprojResolveAssemblyReference.cache
+G:\Programing Language\Software University\Intro-Programming-Homework\14. CurrentDateAndTime\obj\Debug\_14.CurrentDateAndTime.exe
+G:\Programing Language\Software University\Intro-Programming-Homework\14. CurrentDateAndTime\obj\Debug\_14.CurrentDateAndTime.pdb
+G:\Programing Language\Software University\01. Intro-Programming-Homework\14. CurrentDateAndTime\bin\Debug\_14.CurrentDateAndTime.exe.config
+G:\Programing Language\Software University\01. Intro-Programming-Homework\14. CurrentDateAndTime\obj\Debug\_14.CurrentDateAndTime.exe
+G:\Programing Language\Software University\01. Intro-Programming-Homework\14. CurrentDateAndTime\obj\Debug\_14.CurrentDateAndTime.pdb

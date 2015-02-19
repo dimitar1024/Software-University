@@ -1,0 +1,85 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <meta charset="utf-8" />
+    <link href="style.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="content">
+        <h1>fakebook</h1>
+        <h2>Registration</h2>
+        <h4>It is safe and it will always be! </h4>
+
+        <form action="/" method="post">
+            <div id="none">
+                <div>
+                    <fieldset>
+                        <legend>None-Inportant Information</legend>
+                        <input type="text" name="fn" placeholder="First Name" /><input type="text" name="ln" placeholder="Last Name" />
+                        <input type="email" name="email" placeholder="Your Email" /><input type="tel" name="tel" placeholder="Phone Number" />
+                        <input type="password" name="pass" placeholder="Your Password" /><input type="text" name="web" placeholder="Website" />
+                        <span>Birthday</span><br />
+                        <input type="datetime" id="date" name="name" placeholder="05/09/2014 01:53 PM" /><br />
+                        <!-- Това за датата е правено най-вероятно с Angular JS. В тази билиотека има готови методи за календари,
+                        падащи менюта, слайдъри и т.н.
+                        С чист HTML5 и CSS3 не може да се направи пълната функционалност на полето за рожения ден-->
+                        <input type="radio" name="sex" id="female" value=" " /><label for="female">Female</label><input type="radio" name="sex" id="male" value=" " /><label for="male">Male</label><input type="radio" name="sex" id="other" value=" " /><label for="other">Other</label>
+
+                    </fieldset>
+                </div>
+
+
+            </div>
+
+            <div id="req">
+                <div id="info">
+                    <fieldset>
+                        <legend>Inportant Information *required</legend>
+                        <div class="country">
+                            <select>
+                                <option value="empty" selected="selected">Country</option>
+                                <option value="bg">Bulgaria</option>
+                                <option value="d">Germany</option>
+                                <option value="r">Russia</option>
+                            </select>
+                            <input type="text" name="name" placeholder="Village" /><input type="text" name="name" placeholder="District" />
+                        </div>
+
+                        <div class="address">
+                            <input type="text" name="name" placeholder="Street" />
+                            <input type="text" name="name" placeholder="Nr" class="data" />
+                            <input type="text" name="name" placeholder="Floor" class="data" />
+                            <input type="text" name="name" placeholder="Ap Nr" class="data" />
+
+
+                        </div>
+
+                        <div class="door">
+                            <span>Door color</span><br />
+                            <input type="color" id="color" name="name" />
+                            <input type="text" name="name" id="water" placeholder="Water Meter Nr" /><select id="size">
+                                <option value="empty" selected="selected">Aunt Panties Size</option>
+                                <option value="1">80mm x &empty; 16mm</option>
+                                <option value="2">100mm x &empty; 16mm</option>
+                                <option value="3">120mm x &empty; 16mm</option>
+                                <option value="4">80mm x &empty; 10mm</option>
+                                <option value="5">60mm x &empty; 10mm</option>
+                                <option value="6">80mm x &empty; 8mm</option>
+                                <option value="7">60mm x &empty; 6mm</option>
+                                <option value="8">50mm x &empty; 6mm</option>
+                            </select>
+
+                            <span>More Personal Information</span><br />
+                            <textarea placeholder="Give Us More Information!!!"></textarea>
+                        </div>
+                    </fieldset>
+                </div>
+            </div>
+
+            <input type="reset" name="reset" id="sub" value="Clear form" />
+            <input type="submit" name="submit" id="reg" value="Register" />
+        </form>
+    </div>
+</body>
+</html>

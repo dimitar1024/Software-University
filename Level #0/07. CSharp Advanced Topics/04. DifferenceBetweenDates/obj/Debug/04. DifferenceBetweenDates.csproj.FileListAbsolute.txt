@@ -1,0 +1,6 @@
+G:\Programing Language\Software University\07. CSharp Advanced Topics\07.  CSharpAdvancedTopics\04. DifferenceBetweenDates\bin\Debug\_04.DifferenceBetweenDates.exe.config
+G:\Programing Language\Software University\07. CSharp Advanced Topics\07.  CSharpAdvancedTopics\04. DifferenceBetweenDates\bin\Debug\_04.DifferenceBetweenDates.exe
+G:\Programing Language\Software University\07. CSharp Advanced Topics\07.  CSharpAdvancedTopics\04. DifferenceBetweenDates\bin\Debug\_04.DifferenceBetweenDates.pdb
+G:\Programing Language\Software University\07. CSharp Advanced Topics\07.  CSharpAdvancedTopics\04. DifferenceBetweenDates\obj\Debug\04. DifferenceBetweenDates.csprojResolveAssemblyReference.cache
+G:\Programing Language\Software University\07. CSharp Advanced Topics\07.  CSharpAdvancedTopics\04. DifferenceBetweenDates\obj\Debug\_04.DifferenceBetweenDates.exe
+G:\Programing Language\Software University\07. CSharp Advanced Topics\07.  CSharpAdvancedTopics\04. DifferenceBetweenDates\obj\Debug\_04.DifferenceBetweenDates.pdb

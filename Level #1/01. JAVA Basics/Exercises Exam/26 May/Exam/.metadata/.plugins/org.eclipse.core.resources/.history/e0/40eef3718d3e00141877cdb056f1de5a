@@ -1,0 +1,33 @@
+import java.util.Arrays;
+import java.util.Scanner;
+
+
+public class _03_LargestThreeRectangles {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		String input = sc.nextLine();
+		String[] numbs = input.split("\\D+");
+		int[] numbers = new int[numbs.length-1];
+		for (int i = 0; i < numbs.length-1; i++) {
+			numbers[i] = Integer.parseInt(numbs[i+1]);
+		}
+		
+		int[] areas = new int[numbers.length/2];
+		for (int i = 0; i < areas.length; i++) {
+			areas[i] = numbers[i] * numbers[i+1];
+		}
+		
+		int max = 0;
+		for (int i = 0; i < areas.length-2; i++) {
+			int sum = areas[i] + areas[i+1] +areas[i+2];
+			if (sum > max) {
+				max = sum;
+			}
+		}
+		
+		System.out.println(max);
+
+	}
+
+}

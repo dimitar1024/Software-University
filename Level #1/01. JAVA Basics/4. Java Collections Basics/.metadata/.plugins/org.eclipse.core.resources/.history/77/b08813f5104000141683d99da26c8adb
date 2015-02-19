@@ -1,0 +1,35 @@
+import java.util.Map.Entry;
+import java.util.Scanner;
+import java.util.TreeMap;
+
+
+public class _12_CardsFrequencies {
+
+	public static void main(String[] args) {
+		Scanner in = new Scanner(System.in);
+		
+		String input = in.nextLine().toUpperCase();
+		String[] cards = input.split("\\W+");
+		
+		TreeMap<String, Integer> cardCounter = new TreeMap<String, Integer>();
+		for (String card : cards) {
+			Integer counter = cardCounter.get(card);
+			if (counter == null) {
+				counter = 0;
+			}
+			cardCounter.put(card, counter+1);
+		}
+		
+		for (Entry<String, Integer> pair : cardCounter.entrySet()) {
+			String card = pair.getKey();
+			Integer value = pair.getValue();
+			
+			float frequency = (float)value/ cardCounter.values().size();
+			
+			System.out.printf("%s -> %.2f%%",card,frequency);
+		}
+		
+		in.close();
+	}
+
+}

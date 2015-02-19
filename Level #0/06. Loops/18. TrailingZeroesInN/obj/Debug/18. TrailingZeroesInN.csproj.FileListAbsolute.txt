@@ -1,0 +1,6 @@
+G:\Programing Language\Software University\06. Loops\18. TrailingZeroesInN\bin\Debug\_18.TrailingZeroesInN.exe.config
+G:\Programing Language\Software University\06. Loops\18. TrailingZeroesInN\bin\Debug\_18.TrailingZeroesInN.exe
+G:\Programing Language\Software University\06. Loops\18. TrailingZeroesInN\bin\Debug\_18.TrailingZeroesInN.pdb
+G:\Programing Language\Software University\06. Loops\18. TrailingZeroesInN\obj\Debug\18. TrailingZeroesInN.csprojResolveAssemblyReference.cache
+G:\Programing Language\Software University\06. Loops\18. TrailingZeroesInN\obj\Debug\_18.TrailingZeroesInN.exe
+G:\Programing Language\Software University\06. Loops\18. TrailingZeroesInN\obj\Debug\_18.TrailingZeroesInN.pdb

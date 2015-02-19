@@ -1,0 +1,6 @@
+G:\Programing Language\Software University\06. Loops\10. OddAndEvenProduct\bin\Debug\_10.OddAndEvenProduct.exe.config
+G:\Programing Language\Software University\06. Loops\10. OddAndEvenProduct\bin\Debug\_10.OddAndEvenProduct.exe
+G:\Programing Language\Software University\06. Loops\10. OddAndEvenProduct\bin\Debug\_10.OddAndEvenProduct.pdb
+G:\Programing Language\Software University\06. Loops\10. OddAndEvenProduct\obj\Debug\10. OddAndEvenProduct.csprojResolveAssemblyReference.cache
+G:\Programing Language\Software University\06. Loops\10. OddAndEvenProduct\obj\Debug\_10.OddAndEvenProduct.exe
+G:\Programing Language\Software University\06. Loops\10. OddAndEvenProduct\obj\Debug\_10.OddAndEvenProduct.pdb

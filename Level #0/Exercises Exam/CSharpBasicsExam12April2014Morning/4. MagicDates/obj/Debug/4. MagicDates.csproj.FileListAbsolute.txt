@@ -1,0 +1,5 @@
+G:\Programing Language\C# Basics Sample Exam\06. Exam\CSharpBasicsExam12April2014Morning\4. MagicDates\bin\Debug\_4.MagicDates.exe.config
+G:\Programing Language\C# Basics Sample Exam\06. Exam\CSharpBasicsExam12April2014Morning\4. MagicDates\bin\Debug\_4.MagicDates.exe
+G:\Programing Language\C# Basics Sample Exam\06. Exam\CSharpBasicsExam12April2014Morning\4. MagicDates\bin\Debug\_4.MagicDates.pdb
+G:\Programing Language\C# Basics Sample Exam\06. Exam\CSharpBasicsExam12April2014Morning\4. MagicDates\obj\Debug\_4.MagicDates.exe
+G:\Programing Language\C# Basics Sample Exam\06. Exam\CSharpBasicsExam12April2014Morning\4. MagicDates\obj\Debug\_4.MagicDates.pdb

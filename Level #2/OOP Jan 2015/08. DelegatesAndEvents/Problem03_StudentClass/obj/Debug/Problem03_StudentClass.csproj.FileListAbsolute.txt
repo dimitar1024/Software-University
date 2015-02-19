@@ -1,0 +1,6 @@
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\Problem08_DelegatesAndEvents\Problem03_StudentClass\bin\Debug\Problem03_StudentClass.exe.config
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\Problem08_DelegatesAndEvents\Problem03_StudentClass\obj\Debug\Problem03_StudentClass.csprojResolveAssemblyReference.cache
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\Problem08_DelegatesAndEvents\Problem03_StudentClass\bin\Debug\Problem03_StudentClass.exe
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\Problem08_DelegatesAndEvents\Problem03_StudentClass\bin\Debug\Problem03_StudentClass.pdb
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\Problem08_DelegatesAndEvents\Problem03_StudentClass\obj\Debug\Problem03_StudentClass.exe
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\Problem08_DelegatesAndEvents\Problem03_StudentClass\obj\Debug\Problem03_StudentClass.pdb

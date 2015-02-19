@@ -1,0 +1,5 @@
+G:\Programing Language\Software University\03. Operators and Expressions\05. ThirdDigitIsSeven\bin\Debug\_05.ThirdDigitIsSeven.exe.config
+G:\Programing Language\Software University\03. Operators and Expressions\05. ThirdDigitIsSeven\bin\Debug\_05.ThirdDigitIsSeven.exe
+G:\Programing Language\Software University\03. Operators and Expressions\05. ThirdDigitIsSeven\bin\Debug\_05.ThirdDigitIsSeven.pdb
+G:\Programing Language\Software University\03. Operators and Expressions\05. ThirdDigitIsSeven\obj\Debug\_05.ThirdDigitIsSeven.exe
+G:\Programing Language\Software University\03. Operators and Expressions\05. ThirdDigitIsSeven\obj\Debug\_05.ThirdDigitIsSeven.pdb

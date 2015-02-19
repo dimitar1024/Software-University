@@ -1,0 +1,5 @@
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\02. FloatOrDouble\bin\Debug\_02.FloatOrDouble.exe.config
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\02. FloatOrDouble\bin\Debug\_02.FloatOrDouble.exe
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\02. FloatOrDouble\bin\Debug\_02.FloatOrDouble.pdb
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\02. FloatOrDouble\obj\Debug\_02.FloatOrDouble.exe
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\02. FloatOrDouble\obj\Debug\_02.FloatOrDouble.pdb

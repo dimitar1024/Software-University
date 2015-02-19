@@ -1,0 +1,6 @@
+G:\Programing Language\Software University\03. Operators and Expressions\12. ExtractBitFromInteger\bin\Debug\_12.ExtractBitFromInteger.exe.config
+G:\Programing Language\Software University\03. Operators and Expressions\12. ExtractBitFromInteger\bin\Debug\_12.ExtractBitFromInteger.exe
+G:\Programing Language\Software University\03. Operators and Expressions\12. ExtractBitFromInteger\bin\Debug\_12.ExtractBitFromInteger.pdb
+G:\Programing Language\Software University\03. Operators and Expressions\12. ExtractBitFromInteger\obj\Debug\12. ExtractBitFromInteger.csprojResolveAssemblyReference.cache
+G:\Programing Language\Software University\03. Operators and Expressions\12. ExtractBitFromInteger\obj\Debug\_12.ExtractBitFromInteger.exe
+G:\Programing Language\Software University\03. Operators and Expressions\12. ExtractBitFromInteger\obj\Debug\_12.ExtractBitFromInteger.pdb

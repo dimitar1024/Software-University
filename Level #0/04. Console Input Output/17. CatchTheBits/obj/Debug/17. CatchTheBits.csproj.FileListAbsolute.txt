@@ -1,0 +1,6 @@
+G:\Programing Language\Software University\04. Console Input Output\17. CatchTheBits\bin\Debug\_17.CatchTheBits.exe.config
+G:\Programing Language\Software University\04. Console Input Output\17. CatchTheBits\bin\Debug\_17.CatchTheBits.exe
+G:\Programing Language\Software University\04. Console Input Output\17. CatchTheBits\bin\Debug\_17.CatchTheBits.pdb
+G:\Programing Language\Software University\04. Console Input Output\17. CatchTheBits\obj\Debug\17. CatchTheBits.csprojResolveAssemblyReference.cache
+G:\Programing Language\Software University\04. Console Input Output\17. CatchTheBits\obj\Debug\_17.CatchTheBits.exe
+G:\Programing Language\Software University\04. Console Input Output\17. CatchTheBits\obj\Debug\_17.CatchTheBits.pdb

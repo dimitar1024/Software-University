@@ -1,0 +1,6 @@
+G:\Programing Language\Software University\05. Conditional Statements\11. NumberAsWords\bin\Debug\_11.NumberAsWords.exe.config
+G:\Programing Language\Software University\05. Conditional Statements\11. NumberAsWords\bin\Debug\_11.NumberAsWords.exe
+G:\Programing Language\Software University\05. Conditional Statements\11. NumberAsWords\bin\Debug\_11.NumberAsWords.pdb
+G:\Programing Language\Software University\05. Conditional Statements\11. NumberAsWords\obj\Debug\_11.NumberAsWords.exe
+G:\Programing Language\Software University\05. Conditional Statements\11. NumberAsWords\obj\Debug\_11.NumberAsWords.pdb
+G:\Programing Language\Software University\05. Conditional Statements\11. NumberAsWords\obj\Debug\11. NumberAsWords.csprojResolveAssemblyReference.cache

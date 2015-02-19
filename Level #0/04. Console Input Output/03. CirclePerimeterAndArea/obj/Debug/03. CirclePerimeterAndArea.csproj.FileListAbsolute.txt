@@ -1,0 +1,5 @@
+G:\Programing Language\Software University\04. Console Input Output\03. CirclePerimeterAndArea\bin\Debug\_03.CirclePerimeterAndArea.exe.config
+G:\Programing Language\Software University\04. Console Input Output\03. CirclePerimeterAndArea\bin\Debug\_03.CirclePerimeterAndArea.exe
+G:\Programing Language\Software University\04. Console Input Output\03. CirclePerimeterAndArea\bin\Debug\_03.CirclePerimeterAndArea.pdb
+G:\Programing Language\Software University\04. Console Input Output\03. CirclePerimeterAndArea\obj\Debug\_03.CirclePerimeterAndArea.exe
+G:\Programing Language\Software University\04. Console Input Output\03. CirclePerimeterAndArea\obj\Debug\_03.CirclePerimeterAndArea.pdb

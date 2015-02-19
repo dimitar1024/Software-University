@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Problem 4.	Numbers Only Field</title>
+</head>
+<body>
+    <input type="text" id="input" name="input" placeholder="Enter number" />
+
+    <script>
+        var input = document.getElementById('input');
+        
+        function checkValue() {
+            var box = input.value;
+            var pattern = /\D/g;
+            if (pattern.test(box)) {
+                input.style.background = '#ff0000';
+                input.value = box.replace(/[^0-9]/g, '');
+                setInterval(function () {
+                    input.style.background = '#ffffff';
+                },300);
+            }
+        }
+
+        input.addEventListener('input', checkValue);
+    </script>
+</body>
+</html>

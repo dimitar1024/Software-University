@@ -1,0 +1,30 @@
+import java.util.*;
+
+public class _01_CountBeers {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		int sum = 0;
+		while (sc.nextLine().toLowerCase() != "end") {
+			String line = sc.nextLine().replace(" ", "");
+			String[] lineStr = line.toLowerCase().split(" ");
+			int number = Integer.parseInt(lineStr[0]);
+			String beer = lineStr[1];
+			switch (beer) {
+			case "beer":
+				sum += number;
+				break;
+			case "stacks":
+				sum += (number*20);
+				break;
+			}
+		}
+		
+		int stacks = sum /20;
+		int beers = sum % 20;
+		
+		System.out.printf("%d stacks + %d beers",stacks,beers);
+
+	}
+
+}

@@ -1,0 +1,12 @@
+G:\Programing Language\Software University\Intro-Programming-Homework\04. HelloCSharp\bin\Debug\_04.HelloCSharp.exe.config
+G:\Programing Language\Software University\Intro-Programming-Homework\04. HelloCSharp\bin\Debug\_04.HelloCSharp.exe
+G:\Programing Language\Software University\Intro-Programming-Homework\04. HelloCSharp\bin\Debug\_04.HelloCSharp.pdb
+G:\Programing Language\Software University\Intro-Programming-Homework\04. HelloCSharp\obj\Debug\04. HelloCSharp.csprojResolveAssemblyReference.cache
+G:\Programing Language\Software University\Intro-Programming-Homework\04. HelloCSharp\obj\Debug\_04.HelloCSharp.exe
+G:\Programing Language\Software University\Intro-Programming-Homework\04. HelloCSharp\obj\Debug\_04.HelloCSharp.pdb
+G:\Programing Language\Software University\01. Intro-Programming-Homework\04. HelloCSharp\bin\Debug\_04.HelloCSharp.exe.config
+G:\Programing Language\Software University\01. Intro-Programming-Homework\04. HelloCSharp\obj\Debug\_04.HelloCSharp.exe
+G:\Programing Language\Software University\01. Intro-Programming-Homework\04. HelloCSharp\obj\Debug\_04.HelloCSharp.pdb
+G:\Programing Language\Software University\01. Intro-Programming-Homework\04. HelloCSharp\bin\Debug\_04.HelloCSharp.exe
+G:\Programing Language\Software University\01. Intro-Programming-Homework\04. HelloCSharp\bin\Debug\_04.HelloCSharp.pdb
+G:\Programing Language\Software University\01. Intro-Programming-Homework\04. HelloCSharp\obj\Debug\04. HelloCSharp.csprojResolveAssemblyReference.cache

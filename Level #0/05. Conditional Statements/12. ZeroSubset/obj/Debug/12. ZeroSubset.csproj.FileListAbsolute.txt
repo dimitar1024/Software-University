@@ -1,0 +1,6 @@
+G:\Programing Language\Software University\05. Conditional Statements\12. ZeroSubset\bin\Debug\_12.ZeroSubset.exe.config
+G:\Programing Language\Software University\05. Conditional Statements\12. ZeroSubset\bin\Debug\_12.ZeroSubset.exe
+G:\Programing Language\Software University\05. Conditional Statements\12. ZeroSubset\bin\Debug\_12.ZeroSubset.pdb
+G:\Programing Language\Software University\05. Conditional Statements\12. ZeroSubset\obj\Debug\12. ZeroSubset.csprojResolveAssemblyReference.cache
+G:\Programing Language\Software University\05. Conditional Statements\12. ZeroSubset\obj\Debug\_12.ZeroSubset.exe
+G:\Programing Language\Software University\05. Conditional Statements\12. ZeroSubset\obj\Debug\_12.ZeroSubset.pdb

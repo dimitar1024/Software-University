@@ -1,0 +1,5 @@
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\05. BooleanVariable\bin\Debug\_05.BooleanVariable.exe.config
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\05. BooleanVariable\bin\Debug\_05.BooleanVariable.exe
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\05. BooleanVariable\bin\Debug\_05.BooleanVariable.pdb
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\05. BooleanVariable\obj\Debug\_05.BooleanVariable.exe
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\05. BooleanVariable\obj\Debug\_05.BooleanVariable.pdb

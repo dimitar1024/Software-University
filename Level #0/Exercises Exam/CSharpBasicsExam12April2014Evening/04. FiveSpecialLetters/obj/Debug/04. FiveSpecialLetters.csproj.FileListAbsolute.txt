@@ -1,0 +1,6 @@
+G:\Programing Language\C# Basics Sample Exam\07. Exam\CSharpBasicsExam12April2014Evening\04. FiveSpecialLetters\bin\Debug\_04.FiveSpecialLetters.exe.config
+G:\Programing Language\C# Basics Sample Exam\07. Exam\CSharpBasicsExam12April2014Evening\04. FiveSpecialLetters\bin\Debug\_04.FiveSpecialLetters.exe
+G:\Programing Language\C# Basics Sample Exam\07. Exam\CSharpBasicsExam12April2014Evening\04. FiveSpecialLetters\bin\Debug\_04.FiveSpecialLetters.pdb
+G:\Programing Language\C# Basics Sample Exam\07. Exam\CSharpBasicsExam12April2014Evening\04. FiveSpecialLetters\obj\Debug\04. FiveSpecialLetters.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Basics Sample Exam\07. Exam\CSharpBasicsExam12April2014Evening\04. FiveSpecialLetters\obj\Debug\_04.FiveSpecialLetters.exe
+G:\Programing Language\C# Basics Sample Exam\07. Exam\CSharpBasicsExam12April2014Evening\04. FiveSpecialLetters\obj\Debug\_04.FiveSpecialLetters.pdb

@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Problem 1.	Like / Unlike Button</title>
+</head>
+<body>
+	<button id="btn" onclick="myFunction()">Like</button>
+
+    <script>
+		var isLike = true;
+		function myFunction(){
+
+			var button = document.getElementById("btn");
+
+
+			if(isLike){
+				button.innerHTML = "Unlike";
+
+			}
+			else{
+				button.innerHTML = "Like";
+			}
+
+			isLike = !isLike;
+
+		}
+
+
+    </script>
+</body>
+</html>

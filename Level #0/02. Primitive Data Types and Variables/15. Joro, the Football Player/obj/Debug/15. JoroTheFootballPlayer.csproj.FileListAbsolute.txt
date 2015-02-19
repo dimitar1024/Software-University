@@ -1,0 +1,6 @@
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\15. Joro, the Football Player\bin\Debug\_15.Joro__the_Football_Player.exe.config
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\15. Joro, the Football Player\bin\Debug\_15.Joro__the_Football_Player.exe
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\15. Joro, the Football Player\bin\Debug\_15.Joro__the_Football_Player.pdb
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\15. Joro, the Football Player\obj\Debug\15. JoroTheFootballPlayer.csprojResolveAssemblyReference.cache
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\15. Joro, the Football Player\obj\Debug\_15.Joro__the_Football_Player.exe
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\15. Joro, the Football Player\obj\Debug\_15.Joro__the_Football_Player.pdb

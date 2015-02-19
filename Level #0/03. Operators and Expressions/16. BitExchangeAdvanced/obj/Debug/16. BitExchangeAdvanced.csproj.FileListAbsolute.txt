@@ -1,0 +1,6 @@
+G:\Programing Language\Software University\03. Operators and Expressions\16. BitExchangeAdvanced\bin\Debug\_16.BitExchangeAdvanced.exe.config
+G:\Programing Language\Software University\03. Operators and Expressions\16. BitExchangeAdvanced\bin\Debug\_16.BitExchangeAdvanced.exe
+G:\Programing Language\Software University\03. Operators and Expressions\16. BitExchangeAdvanced\bin\Debug\_16.BitExchangeAdvanced.pdb
+G:\Programing Language\Software University\03. Operators and Expressions\16. BitExchangeAdvanced\obj\Debug\16. BitExchangeAdvanced.csprojResolveAssemblyReference.cache
+G:\Programing Language\Software University\03. Operators and Expressions\16. BitExchangeAdvanced\obj\Debug\_16.BitExchangeAdvanced.exe
+G:\Programing Language\Software University\03. Operators and Expressions\16. BitExchangeAdvanced\obj\Debug\_16.BitExchangeAdvanced.pdb

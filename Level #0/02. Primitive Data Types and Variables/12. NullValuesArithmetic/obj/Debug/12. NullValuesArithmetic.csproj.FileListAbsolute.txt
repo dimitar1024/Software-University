@@ -1,0 +1,6 @@
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\12. NullValuesArithmetic\bin\Debug\_12.NullValuesArithmetic.exe.config
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\12. NullValuesArithmetic\bin\Debug\_12.NullValuesArithmetic.exe
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\12. NullValuesArithmetic\bin\Debug\_12.NullValuesArithmetic.pdb
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\12. NullValuesArithmetic\obj\Debug\12. NullValuesArithmetic.csprojResolveAssemblyReference.cache
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\12. NullValuesArithmetic\obj\Debug\_12.NullValuesArithmetic.exe
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\12. NullValuesArithmetic\obj\Debug\_12.NullValuesArithmetic.pdb

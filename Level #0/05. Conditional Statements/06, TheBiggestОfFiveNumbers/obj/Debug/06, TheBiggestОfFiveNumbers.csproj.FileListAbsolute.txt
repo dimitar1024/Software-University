@@ -1,0 +1,5 @@
+G:\Programing Language\Software University\05. Conditional Statements\06, TheBiggestОfFiveNumbers\bin\Debug\06, TheBiggestОfFiveNumbers.exe.config
+G:\Programing Language\Software University\05. Conditional Statements\06, TheBiggestОfFiveNumbers\bin\Debug\06, TheBiggestОfFiveNumbers.exe
+G:\Programing Language\Software University\05. Conditional Statements\06, TheBiggestОfFiveNumbers\bin\Debug\06, TheBiggestОfFiveNumbers.pdb
+G:\Programing Language\Software University\05. Conditional Statements\06, TheBiggestОfFiveNumbers\obj\Debug\06, TheBiggestОfFiveNumbers.exe
+G:\Programing Language\Software University\05. Conditional Statements\06, TheBiggestОfFiveNumbers\obj\Debug\06, TheBiggestОfFiveNumbers.pdb

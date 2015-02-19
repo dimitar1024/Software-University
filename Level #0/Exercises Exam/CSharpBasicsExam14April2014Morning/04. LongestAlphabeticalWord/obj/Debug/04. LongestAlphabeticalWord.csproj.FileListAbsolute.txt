@@ -1,0 +1,6 @@
+G:\Programing Language\C# Basics Sample Exam\08. Exam\CSharpBasicsExam14April2014Morning\04. LongestAlphabeticalWord\bin\Debug\_04.LongestAlphabeticalWord.exe.config
+G:\Programing Language\C# Basics Sample Exam\08. Exam\CSharpBasicsExam14April2014Morning\04. LongestAlphabeticalWord\bin\Debug\_04.LongestAlphabeticalWord.exe
+G:\Programing Language\C# Basics Sample Exam\08. Exam\CSharpBasicsExam14April2014Morning\04. LongestAlphabeticalWord\bin\Debug\_04.LongestAlphabeticalWord.pdb
+G:\Programing Language\C# Basics Sample Exam\08. Exam\CSharpBasicsExam14April2014Morning\04. LongestAlphabeticalWord\obj\Debug\04. LongestAlphabeticalWord.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Basics Sample Exam\08. Exam\CSharpBasicsExam14April2014Morning\04. LongestAlphabeticalWord\obj\Debug\_04.LongestAlphabeticalWord.exe
+G:\Programing Language\C# Basics Sample Exam\08. Exam\CSharpBasicsExam14April2014Morning\04. LongestAlphabeticalWord\obj\Debug\_04.LongestAlphabeticalWord.pdb

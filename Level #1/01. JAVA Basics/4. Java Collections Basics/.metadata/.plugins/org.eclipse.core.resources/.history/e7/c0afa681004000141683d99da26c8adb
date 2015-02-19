@@ -1,0 +1,17 @@
+import java.util.Scanner;
+
+
+public class _10_ExtractAllUniqueWords {
+
+	public static void main(String[] args) {
+		Scanner in = new Scanner(System.in);
+		
+		String input = in.nextLine();
+		String[] word = input.split("\\W+");
+		
+		for (String s : word) {
+			System.out.println(s);
+		}
+	}
+
+}

@@ -1,0 +1,28 @@
+﻿body {
+}
+    
+    body div span {
+        font-size: 48px;
+        vertical-align: top;
+    }
+
+    body div span.blue{
+        color: #187198;
+    }
+    
+    body span#fileinfo {
+        font-size: 10px;
+        margin: 5px;
+    }
+
+    body span {
+        vertical-align: middle;
+    }
+    body input {
+        margin-top: 10px;
+        margin-left: 5px;
+    }
+    body img#btn {
+        width: 30px;
+        vertical-align: middle;
+    }

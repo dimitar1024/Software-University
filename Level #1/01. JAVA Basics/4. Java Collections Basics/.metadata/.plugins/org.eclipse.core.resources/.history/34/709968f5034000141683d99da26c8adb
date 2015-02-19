@@ -1,0 +1,29 @@
+
+import java.util.*;
+
+import javax.swing.text.html.HTMLDocument.Iterator;
+
+
+public class _10_ExtractAllUniqueWords {
+
+	public static void main(String[] args) {
+		Scanner in = new Scanner(System.in);
+		
+		String input = in.nextLine().toLowerCase();
+		String[] words = input.split("\\W+");
+		
+		TreeSet sortWords = new TreeSet<>();
+		
+		for (String word : words) {
+			sortWords.add(word);
+		}
+		
+		Iterator it1 =sortWords.iterator();
+
+	    while(sortWords.hasNext()){
+	      Object o1 = sortWords.next();
+	      System.out.println(o1);
+	    }
+	}
+
+}

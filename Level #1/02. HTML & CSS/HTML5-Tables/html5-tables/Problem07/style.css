@@ -1,0 +1,39 @@
+﻿body {
+}
+
+    table,tr,td {
+        border: solid 1px black;
+        height: 55px;
+        font-size: 20px;
+        font-weight: bold;
+    }
+        input[type="button"], input[type="reset"] {
+            width: 55px;
+            height: 55px;
+            font-size: 20px;
+            font-weight: bold;
+        }
+
+        input[type="button"]:hover, input[type="reset"]:hover{
+            background: #f7f0de; /* Old browsers */
+            background: -moz-linear-gradient(top,  #f7f0de 0%, #efd59a 44%, #efd59a 46%, #fff7bc 100%); /* FF3.6+ */
+            background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f7f0de), color-stop(44%,#efd59a), color-stop(46%,#efd59a), color-stop(100%,#fff7bc)); /* Chrome,Safari4+ */
+            background: -webkit-linear-gradient(top,  #f7f0de 0%,#efd59a 44%,#efd59a 46%,#fff7bc 100%); /* Chrome10+,Safari5.1+ */
+            background: -o-linear-gradient(top,  #f7f0de 0%,#efd59a 44%,#efd59a 46%,#fff7bc 100%); /* Opera 11.10+ */
+            background: -ms-linear-gradient(top,  #f7f0de 0%,#efd59a 44%,#efd59a 46%,#fff7bc 100%); /* IE10+ */
+            background: linear-gradient(to bottom,  #f7f0de 0%,#efd59a 44%,#efd59a 46%,#fff7bc 100%); /* W3C */
+            filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f7f0de', endColorstr='#fff7bc',GradientType=0 ); /* IE6-9 */
+            }
+        /* За този ефект на backgrounda потърсете (http://www.colorzilla.com/gradient-editor/)*/ 
+
+        input[type="text"] {
+            width: 230px;
+            height: 55px;
+            text-align: right;
+            font-family: Consolas;
+            font-size: 30px;
+        }
+
+            button:hover {
+            
+            }

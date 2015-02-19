@@ -1,0 +1,5 @@
+G:\Programing Language\C# Basics Sample Exam\07. Exam\CSharpBasicsExam11April2014Evening\03. NewHouse\bin\Debug\_03.NewHouse.exe.config
+G:\Programing Language\C# Basics Sample Exam\07. Exam\CSharpBasicsExam11April2014Evening\03. NewHouse\bin\Debug\_03.NewHouse.exe
+G:\Programing Language\C# Basics Sample Exam\07. Exam\CSharpBasicsExam11April2014Evening\03. NewHouse\bin\Debug\_03.NewHouse.pdb
+G:\Programing Language\C# Basics Sample Exam\07. Exam\CSharpBasicsExam11April2014Evening\03. NewHouse\obj\Debug\_03.NewHouse.exe
+G:\Programing Language\C# Basics Sample Exam\07. Exam\CSharpBasicsExam11April2014Evening\03. NewHouse\obj\Debug\_03.NewHouse.pdb

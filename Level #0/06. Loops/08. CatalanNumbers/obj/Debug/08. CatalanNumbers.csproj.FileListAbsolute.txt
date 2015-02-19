@@ -1,0 +1,6 @@
+G:\Programing Language\Software University\06. Loops\08. CatalanNumbers\bin\Debug\_08.CatalanNumbers.exe.config
+G:\Programing Language\Software University\06. Loops\08. CatalanNumbers\bin\Debug\_08.CatalanNumbers.exe
+G:\Programing Language\Software University\06. Loops\08. CatalanNumbers\bin\Debug\_08.CatalanNumbers.pdb
+G:\Programing Language\Software University\06. Loops\08. CatalanNumbers\obj\Debug\08. CatalanNumbers.csprojResolveAssemblyReference.cache
+G:\Programing Language\Software University\06. Loops\08. CatalanNumbers\obj\Debug\_08.CatalanNumbers.exe
+G:\Programing Language\Software University\06. Loops\08. CatalanNumbers\obj\Debug\_08.CatalanNumbers.pdb

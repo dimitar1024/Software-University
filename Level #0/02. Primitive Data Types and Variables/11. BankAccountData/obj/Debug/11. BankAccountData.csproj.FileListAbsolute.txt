@@ -1,0 +1,6 @@
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\11. BankAccountData\bin\Debug\_11.BankAccountData.exe.config
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\11. BankAccountData\bin\Debug\_11.BankAccountData.exe
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\11. BankAccountData\bin\Debug\_11.BankAccountData.pdb
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\11. BankAccountData\obj\Debug\11. BankAccountData.csprojResolveAssemblyReference.cache
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\11. BankAccountData\obj\Debug\_11.BankAccountData.exe
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\11. BankAccountData\obj\Debug\_11.BankAccountData.pdb

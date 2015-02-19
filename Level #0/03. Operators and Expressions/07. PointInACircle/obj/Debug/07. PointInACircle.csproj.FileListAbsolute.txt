@@ -1,0 +1,5 @@
+G:\Programing Language\Software University\03. Operators and Expressions\07. PointInACircle\bin\Debug\_07.PointInACircle.exe.config
+G:\Programing Language\Software University\03. Operators and Expressions\07. PointInACircle\bin\Debug\_07.PointInACircle.exe
+G:\Programing Language\Software University\03. Operators and Expressions\07. PointInACircle\bin\Debug\_07.PointInACircle.pdb
+G:\Programing Language\Software University\03. Operators and Expressions\07. PointInACircle\obj\Debug\_07.PointInACircle.exe
+G:\Programing Language\Software University\03. Operators and Expressions\07. PointInACircle\obj\Debug\_07.PointInACircle.pdb

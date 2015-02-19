@@ -1,0 +1,6 @@
+G:\Programing Language\Software University\07. CSharp Advanced Topics\07.  CSharpAdvancedTopics\06. LongestAreaInArray\bin\Debug\_06.LongestAreaInArray.exe.config
+G:\Programing Language\Software University\07. CSharp Advanced Topics\07.  CSharpAdvancedTopics\06. LongestAreaInArray\obj\Debug\06. LongestAreaInArray.csprojResolveAssemblyReference.cache
+G:\Programing Language\Software University\07. CSharp Advanced Topics\07.  CSharpAdvancedTopics\06. LongestAreaInArray\bin\Debug\_06.LongestAreaInArray.exe
+G:\Programing Language\Software University\07. CSharp Advanced Topics\07.  CSharpAdvancedTopics\06. LongestAreaInArray\bin\Debug\_06.LongestAreaInArray.pdb
+G:\Programing Language\Software University\07. CSharp Advanced Topics\07.  CSharpAdvancedTopics\06. LongestAreaInArray\obj\Debug\_06.LongestAreaInArray.exe
+G:\Programing Language\Software University\07. CSharp Advanced Topics\07.  CSharpAdvancedTopics\06. LongestAreaInArray\obj\Debug\_06.LongestAreaInArray.pdb

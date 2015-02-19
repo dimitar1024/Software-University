@@ -1,0 +1,5 @@
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\07. QuotesInStrings\bin\Debug\_07.QuotesInStrings.exe.config
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\07. QuotesInStrings\bin\Debug\_07.QuotesInStrings.exe
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\07. QuotesInStrings\bin\Debug\_07.QuotesInStrings.pdb
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\07. QuotesInStrings\obj\Debug\_07.QuotesInStrings.exe
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\07. QuotesInStrings\obj\Debug\_07.QuotesInStrings.pdb

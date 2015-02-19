@@ -1,0 +1,6 @@
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\02. StaticMembersandNamespaces\Problem05_BitArray\bin\Debug\Problem05_BitArray.exe.config
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\02. StaticMembersandNamespaces\Problem05_BitArray\obj\Debug\Problem05_BitArray.csprojResolveAssemblyReference.cache
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\02. StaticMembersandNamespaces\Problem05_BitArray\bin\Debug\Problem05_BitArray.exe
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\02. StaticMembersandNamespaces\Problem05_BitArray\bin\Debug\Problem05_BitArray.pdb
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\02. StaticMembersandNamespaces\Problem05_BitArray\obj\Debug\Problem05_BitArray.exe
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\02. StaticMembersandNamespaces\Problem05_BitArray\obj\Debug\Problem05_BitArray.pdb

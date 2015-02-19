@@ -1,0 +1,6 @@
+G:\Programing Language\Software University\03. Operators and Expressions\11. BitwiseExtractBitNo3\bin\Debug\_11.BitwiseExtractBitNo3.exe.config
+G:\Programing Language\Software University\03. Operators and Expressions\11. BitwiseExtractBitNo3\bin\Debug\_11.BitwiseExtractBitNo3.exe
+G:\Programing Language\Software University\03. Operators and Expressions\11. BitwiseExtractBitNo3\bin\Debug\_11.BitwiseExtractBitNo3.pdb
+G:\Programing Language\Software University\03. Operators and Expressions\11. BitwiseExtractBitNo3\obj\Debug\11. BitwiseExtractBitNo3.csprojResolveAssemblyReference.cache
+G:\Programing Language\Software University\03. Operators and Expressions\11. BitwiseExtractBitNo3\obj\Debug\_11.BitwiseExtractBitNo3.exe
+G:\Programing Language\Software University\03. Operators and Expressions\11. BitwiseExtractBitNo3\obj\Debug\_11.BitwiseExtractBitNo3.pdb

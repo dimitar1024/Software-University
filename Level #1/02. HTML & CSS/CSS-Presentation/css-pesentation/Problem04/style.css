@@ -1,0 +1,17 @@
+﻿body {
+}
+div#a1 {
+    width: 690px;
+    position: relative;
+}
+
+div{
+    display: block;
+    padding-right: 10px;
+    background-color: #ff9c00;
+    border: solid 1px #234465;
+    border-radius: 60px;
+    position: relative;
+}
+
+

@@ -1,0 +1,9 @@
+G:\Programing Language\C# Basics Sample Exam\C# Basics Sample Exam May 2014\CSharpBasicsSampleExamMay2014\05. BitwiseOperators\bin\Debug\_05.BitwiseOperators.exe.config
+G:\Programing Language\C# Basics Sample Exam\C# Basics Sample Exam May 2014\CSharpBasicsSampleExamMay2014\05. BitwiseOperators\bin\Debug\_05.BitwiseOperators.exe
+G:\Programing Language\C# Basics Sample Exam\C# Basics Sample Exam May 2014\CSharpBasicsSampleExamMay2014\05. BitwiseOperators\bin\Debug\_05.BitwiseOperators.pdb
+G:\Programing Language\C# Basics Sample Exam\C# Basics Sample Exam May 2014\CSharpBasicsSampleExamMay2014\05. BitwiseOperators\obj\Debug\05. BitwiseOperators.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Basics Sample Exam\C# Basics Sample Exam May 2014\CSharpBasicsSampleExamMay2014\05. BitwiseOperators\obj\Debug\_05.BitwiseOperators.exe
+G:\Programing Language\C# Basics Sample Exam\C# Basics Sample Exam May 2014\CSharpBasicsSampleExamMay2014\05. BitwiseOperators\obj\Debug\_05.BitwiseOperators.pdb
+G:\Programing Language\C# Basics Sample Exam\00. Exam\CSharpBasicsSampleExamMay2014\05. BitwiseOperators\bin\Debug\_05.BitwiseOperators.exe.config
+G:\Programing Language\C# Basics Sample Exam\00. Exam\CSharpBasicsSampleExamMay2014\05. BitwiseOperators\obj\Debug\_05.BitwiseOperators.exe
+G:\Programing Language\C# Basics Sample Exam\00. Exam\CSharpBasicsSampleExamMay2014\05. BitwiseOperators\obj\Debug\_05.BitwiseOperators.pdb

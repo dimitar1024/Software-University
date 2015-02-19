@@ -1,0 +1,6 @@
+G:\Programing Language\C# Basics Sample Exam\09. Exam\CSharpBasicsExam14April2014Evening\02. StudentCables\bin\Debug\_02.StudentCables.exe.config
+G:\Programing Language\C# Basics Sample Exam\09. Exam\CSharpBasicsExam14April2014Evening\02. StudentCables\bin\Debug\_02.StudentCables.exe
+G:\Programing Language\C# Basics Sample Exam\09. Exam\CSharpBasicsExam14April2014Evening\02. StudentCables\bin\Debug\_02.StudentCables.pdb
+G:\Programing Language\C# Basics Sample Exam\09. Exam\CSharpBasicsExam14April2014Evening\02. StudentCables\obj\Debug\_02.StudentCables.exe
+G:\Programing Language\C# Basics Sample Exam\09. Exam\CSharpBasicsExam14April2014Evening\02. StudentCables\obj\Debug\_02.StudentCables.pdb
+G:\Programing Language\C# Basics Sample Exam\09. Exam\CSharpBasicsExam14April2014Evening\02. StudentCables\obj\Debug\02. StudentCables.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+G:\Programing Language\C# Basics Sample Exam\10. Exam\CSharpBasicsExam25July2014Morning\03. PandaScotlandFlag\bin\Debug\_03.PandaScotlandFlag.exe.config
+G:\Programing Language\C# Basics Sample Exam\10. Exam\CSharpBasicsExam25July2014Morning\03. PandaScotlandFlag\bin\Debug\_03.PandaScotlandFlag.exe
+G:\Programing Language\C# Basics Sample Exam\10. Exam\CSharpBasicsExam25July2014Morning\03. PandaScotlandFlag\bin\Debug\_03.PandaScotlandFlag.pdb
+G:\Programing Language\C# Basics Sample Exam\10. Exam\CSharpBasicsExam25July2014Morning\03. PandaScotlandFlag\obj\Debug\_03.PandaScotlandFlag.exe
+G:\Programing Language\C# Basics Sample Exam\10. Exam\CSharpBasicsExam25July2014Morning\03. PandaScotlandFlag\obj\Debug\_03.PandaScotlandFlag.pdb
+G:\Programing Language\C# Basics Sample Exam\10. Exam\CSharpBasicsExam25July2014Morning\03. PandaScotlandFlag\obj\Debug\03. PandaScotlandFlag.csprojResolveAssemblyReference.cache

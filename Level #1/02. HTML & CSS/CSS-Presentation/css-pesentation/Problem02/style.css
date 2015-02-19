@@ -1,0 +1,78 @@
+﻿
+
+body { 	
+        background-repeat: no-repeat;
+        position: absolute;
+        
+}
+
+@font-face {
+	font-family: Animated;
+	src: url('font/Animated.ttf');
+    }
+   
+
+section {
+    width: 900px;
+    height: 600px;
+    background: #fdffc1; /* Old browsers */
+    background: -moz-radial-gradient(center, ellipse cover,  #fdffc1 0%, #ffea68 9%, #fff6bf 18%, #429ee5 100%); /* FF3.6+ */
+    background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#fdffc1), color-stop(9%,#ffea68), color-stop(18%,#fff6bf), color-stop(100%,#429ee5)); /* Chrome,Safari4+ */
+    background: -webkit-radial-gradient(center, ellipse cover,  #fdffc1 0%,#ffea68 9%,#fff6bf 18%,#429ee5 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-radial-gradient(center, ellipse cover,  #fdffc1 0%,#ffea68 9%,#fff6bf 18%,#429ee5 100%); /* Opera 12+ */
+    background: -ms-radial-gradient(center, ellipse cover,  #fdffc1 0%,#ffea68 9%,#fff6bf 18%,#429ee5 100%); /* IE10+ */
+    background: radial-gradient(ellipse at center,  #fdffc1 0%,#ffea68 9%,#fff6bf 18%,#429ee5 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fdffc1', endColorstr='#429ee5',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+    background-image: url('img/HawaiiBackground.png'), url('img/background.png');
+}
+
+    section div#valdog {
+        display: inline-block;
+        margin-top: 200px;
+        margin-left: 30px;
+    }
+
+    section div#petia {
+        display: inline-block;
+        margin-top: 160px;
+        margin-left: -140px;
+    }
+
+    section div#tedi {
+        display: inline-block;
+        margin-top: 170px;
+        margin-left: -160px;
+    }
+
+    section div#nakov {
+        display: inline-block;
+        margin-top: 160px;
+        margin-left: 0px;
+    }
+
+    section div#alex {
+        display: inline-block;
+        margin-top: 170px;
+        margin-left: -140px;
+    }
+
+    section div#valdok {
+        display: inline-block;
+        margin-top: 170px;
+        margin-left: -60px;
+    }
+
+    section span {
+        font-family: Animated;
+        color: #ffc300;
+        font-size: 2.8em;
+        margin-left: -360px;
+        margin-top: 20px;
+        position: absolute;
+    }
+    
+   
+
+
+

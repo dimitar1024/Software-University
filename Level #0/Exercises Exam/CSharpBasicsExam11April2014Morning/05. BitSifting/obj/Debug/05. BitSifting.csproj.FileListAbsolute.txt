@@ -1,0 +1,9 @@
+G:\Programing Language\C# Basics Sample Exam\06. Exam\CSharpBasicsExam11April2014Morning\05. BitSifting\bin\Debug\_05.BitSifting.exe.config
+G:\Programing Language\C# Basics Sample Exam\06. Exam\CSharpBasicsExam11April2014Morning\05. BitSifting\bin\Debug\_05.BitSifting.exe
+G:\Programing Language\C# Basics Sample Exam\06. Exam\CSharpBasicsExam11April2014Morning\05. BitSifting\bin\Debug\_05.BitSifting.pdb
+G:\Programing Language\C# Basics Sample Exam\06. Exam\CSharpBasicsExam11April2014Morning\05. BitSifting\obj\Debug\05. BitSifting.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Basics Sample Exam\06. Exam\CSharpBasicsExam11April2014Morning\05. BitSifting\obj\Debug\_05.BitSifting.exe
+G:\Programing Language\C# Basics Sample Exam\06. Exam\CSharpBasicsExam11April2014Morning\05. BitSifting\obj\Debug\_05.BitSifting.pdb
+G:\Programing Language\C# Basics Sample Exam\04. Exam\CSharpBasicsExam11April2014Morning\05. BitSifting\bin\Debug\_05.BitSifting.exe.config
+G:\Programing Language\C# Basics Sample Exam\04. Exam\CSharpBasicsExam11April2014Morning\05. BitSifting\obj\Debug\_05.BitSifting.exe
+G:\Programing Language\C# Basics Sample Exam\04. Exam\CSharpBasicsExam11April2014Morning\05. BitSifting\obj\Debug\_05.BitSifting.pdb

@@ -1,0 +1,6 @@
+G:\Programing Language\C# Basics Sample Exam\01. Exam\CSharpBasicsExam28April2014\CSharpBasicsExam28April2014\03. Disk\bin\Debug\_03.Disk.exe.config
+G:\Programing Language\C# Basics Sample Exam\01. Exam\CSharpBasicsExam28April2014\CSharpBasicsExam28April2014\03. Disk\bin\Debug\_03.Disk.exe
+G:\Programing Language\C# Basics Sample Exam\01. Exam\CSharpBasicsExam28April2014\CSharpBasicsExam28April2014\03. Disk\bin\Debug\_03.Disk.pdb
+G:\Programing Language\C# Basics Sample Exam\01. Exam\CSharpBasicsExam28April2014\CSharpBasicsExam28April2014\03. Disk\obj\Debug\03. Disk.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Basics Sample Exam\01. Exam\CSharpBasicsExam28April2014\CSharpBasicsExam28April2014\03. Disk\obj\Debug\_03.Disk.exe
+G:\Programing Language\C# Basics Sample Exam\01. Exam\CSharpBasicsExam28April2014\CSharpBasicsExam28April2014\03. Disk\obj\Debug\_03.Disk.pdb

@@ -1,0 +1,87 @@
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.FileReader;
+import java.math.BigDecimal;
+import java.util.HashMap;
+import java.util.Locale;
+import java.util.Map;
+
+public class _10_OrderOfProducts {
+
+	public static void main(String[] args) {
+		Locale.setDefault(Locale.ROOT);
+		Map<String,Double> products = null;
+		Map<String,Double> orders = null;
+		String productsFile = "Products.txt";
+		String orderFile = "Orders.txt";
+		String outputFile = "Output10.txt";
+		
+		BufferedReader fileReader = null;
+		
+		try {
+			BigDecimal sum = new BigDecimal(0);
+			fileReader = new BufferedReader(new FileReader(productsFile));
+			products = new HashMap<String,Double>();
+			while (true) {
+				String line = fileReader.readLine();
+				if (line == null) {
+					break;
+				}
+				
+				products = createProducts(line);
+			}
+			fileReader.close();
+			
+			fileReader = new BufferedReader(new FileReader(orderFile));
+			orders = new HashMap<String,Double>();
+			while (true) {
+				String line = fileReader.readLine();
+				if (line == null) {
+					break;
+				}
+				
+				products = ordersProducts(line);
+			}
+			fileReader.close();
+			
+			for (Map.Entry<String, Double> prod: products.entrySet() ) {
+				for (Map.Entry<String, Double> ords : orders.entrySet()) {
+					if (prod.getKey().equals(ords.getKey())) {
+						BigDecimal s = new BigDecimal(prod.getValue() * ords.getValue());
+						sum = sum.add(s);
+					}
+					
+				}
+			}
+			
+			System.out.println(sum);
+			
+		} catch (Exception e) {
+			// TODO: handle exception
+		}
+		
+
+	}
+	
+	public static Map<String,Double> createProducts (String line){
+		Map<String,Double> create = new HashMap<String,Double>();
+		String[] input = line.split(" ");
+		String name = input[0].toString();
+		Double price = Double.parseDouble(input[1]);
+		create.put(name, price);
+		
+		
+		return create;
+	}
+	
+	public static Map<String,Double> ordersProducts (String line){
+		Map<String,Double> orders = new HashMap<String,Double>();
+		String[] input = line.split(" ");
+		String name = input[1];
+		Double col = Double.parseDouble(input[0]);
+		orders.put(name, col);
+		
+		return orders;
+	}
+
+}

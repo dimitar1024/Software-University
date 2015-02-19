@@ -1,0 +1,6 @@
+G:\Programing Language\Software University\04. Console Input Output\14. SumOfElements\bin\Debug\_14.SumOfElements.exe.config
+G:\Programing Language\Software University\04. Console Input Output\14. SumOfElements\bin\Debug\_14.SumOfElements.exe
+G:\Programing Language\Software University\04. Console Input Output\14. SumOfElements\bin\Debug\_14.SumOfElements.pdb
+G:\Programing Language\Software University\04. Console Input Output\14. SumOfElements\obj\Debug\14. SumOfElements.csprojResolveAssemblyReference.cache
+G:\Programing Language\Software University\04. Console Input Output\14. SumOfElements\obj\Debug\_14.SumOfElements.exe
+G:\Programing Language\Software University\04. Console Input Output\14. SumOfElements\obj\Debug\_14.SumOfElements.pdb

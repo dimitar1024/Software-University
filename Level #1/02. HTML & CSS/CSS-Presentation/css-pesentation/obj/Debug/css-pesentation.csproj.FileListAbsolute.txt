@@ -1,0 +1,6 @@
+C:\Users\dimitar1024\Desktop\HTML and CSS  Octomber 2014\CSS-Presentation\css-pesentation\bin\css-pesentation.dll.config
+C:\Users\dimitar1024\Desktop\HTML and CSS  Octomber 2014\CSS-Presentation\css-pesentation\bin\css-pesentation.dll
+C:\Users\dimitar1024\Desktop\HTML and CSS  Octomber 2014\CSS-Presentation\css-pesentation\bin\css-pesentation.pdb
+C:\Users\dimitar1024\Desktop\HTML and CSS  Octomber 2014\CSS-Presentation\css-pesentation\obj\Debug\css-pesentation.csprojResolveAssemblyReference.cache
+C:\Users\dimitar1024\Desktop\HTML and CSS  Octomber 2014\CSS-Presentation\css-pesentation\obj\Debug\css-pesentation.dll
+C:\Users\dimitar1024\Desktop\HTML and CSS  Octomber 2014\CSS-Presentation\css-pesentation\obj\Debug\css-pesentation.pdb

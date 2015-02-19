@@ -1,0 +1,77 @@
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.math.BigDecimal;
+import java.text.DecimalFormat;
+import java.util.ArrayList;
+import java.util.Locale;
+
+public class _10_OrderOfProducts {
+
+	public static void main(String[] args) {
+		Locale.setDefault(Locale.ROOT);
+		
+		String productsFile = "Products.txt";
+		String orderFile = "Orders.txt";
+		String outputFile = "Output10.txt";
+		
+		BufferedReader fileReader = null;
+		BufferedWriter fileWriter = null;
+		
+		try {
+		
+			ArrayList<Product> products = new ArrayList<Product>();
+			fileReader = new BufferedReader(new FileReader(productsFile));
+			while (true) {
+				String line = fileReader.readLine();
+				if (line == null) {
+					break;
+				}
+				String[] prod = line.split(" ");
+				Product product = new Product(prod[0], Double.parseDouble(prod[1]));
+				products.add(product);
+			}
+			fileReader.close();
+			
+			BigDecimal sum = new BigDecimal(0);
+			
+			fileReader = new BufferedReader(new FileReader(orderFile));
+            while (true) {
+                String line = fileReader.readLine();
+                if (line == null) {
+                    break;
+                }
+                String[] order = line.split(" ");
+                for (Product product : products) {
+                    if (product.getName().equals(order[1])) {
+                        double price = product.getPrice();
+                        int quantity = Integer.parseInt(order[0]);
+                        BigDecimal s = new BigDecimal(quantity * price);
+                        sum = sum.add(s);
+                        break;
+                    }
+                }
+            }
+            fileReader.close();
+			
+            fileWriter = new BufferedWriter(new FileWriter(outputFile));
+            sum.setScale(2, BigDecimal.ROUND_DOWN);
+            DecimalFormat df = new DecimalFormat();
+            df.setMaximumFractionDigits(2);
+            df.setMinimumFractionDigits(0);
+            df.setGroupingUsed(false);
+            String result = df.format(sum);
+            fileWriter.write(result);
+            fileWriter.close();
+			
+			
+		} catch (Exception e) {
+			System.out.println("Error");
+		}
+		
+
+	}
+
+}

@@ -1,0 +1,6 @@
+G:\Programing Language\C# Basics Sample Exam\06. Exam\CSharpBasicsExam11April2014Morning\02. SumOfElements\bin\Debug\_02.SumOfElements.exe.config
+G:\Programing Language\C# Basics Sample Exam\06. Exam\CSharpBasicsExam11April2014Morning\02. SumOfElements\bin\Debug\_02.SumOfElements.exe
+G:\Programing Language\C# Basics Sample Exam\06. Exam\CSharpBasicsExam11April2014Morning\02. SumOfElements\bin\Debug\_02.SumOfElements.pdb
+G:\Programing Language\C# Basics Sample Exam\06. Exam\CSharpBasicsExam11April2014Morning\02. SumOfElements\obj\Debug\02. SumOfElements.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Basics Sample Exam\06. Exam\CSharpBasicsExam11April2014Morning\02. SumOfElements\obj\Debug\_02.SumOfElements.exe
+G:\Programing Language\C# Basics Sample Exam\06. Exam\CSharpBasicsExam11April2014Morning\02. SumOfElements\obj\Debug\_02.SumOfElements.pdb

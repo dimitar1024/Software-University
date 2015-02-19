@@ -1,0 +1,1 @@
+G:\Programing Language\C# Basics Sample Exam\01. Exam\CSharpBasicsExam28April2014\CSharpBasicsExam28April2014\02. SequenceOfKNumbers\bin\Debug\_02.SequenceOfKNumbers.exe.config

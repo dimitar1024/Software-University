@@ -1,0 +1,6 @@
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\17. Sunglasses\bin\Debug\_17.Sunglasses.exe.config
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\17. Sunglasses\bin\Debug\_17.Sunglasses.exe
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\17. Sunglasses\bin\Debug\_17.Sunglasses.pdb
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\17. Sunglasses\obj\Debug\17. Sunglasses.csprojResolveAssemblyReference.cache
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\17. Sunglasses\obj\Debug\_17.Sunglasses.exe
+G:\Programing Language\Software University\02. Primitive Data Types and Variables\17. Sunglasses\obj\Debug\_17.Sunglasses.pdb

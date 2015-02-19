@@ -1,0 +1,9 @@
+G:\Programing Language\C# Basics Sample Exam\06. Exam\CSharpBasicsExam11April2014Morning\01. WorkHours\bin\Debug\_01.WorkHours.exe.config
+G:\Programing Language\C# Basics Sample Exam\06. Exam\CSharpBasicsExam11April2014Morning\01. WorkHours\bin\Debug\_01.WorkHours.exe
+G:\Programing Language\C# Basics Sample Exam\06. Exam\CSharpBasicsExam11April2014Morning\01. WorkHours\bin\Debug\_01.WorkHours.pdb
+G:\Programing Language\C# Basics Sample Exam\06. Exam\CSharpBasicsExam11April2014Morning\01. WorkHours\obj\Debug\01. WorkHours.csprojResolveAssemblyReference.cache
+G:\Programing Language\C# Basics Sample Exam\06. Exam\CSharpBasicsExam11April2014Morning\01. WorkHours\obj\Debug\_01.WorkHours.exe
+G:\Programing Language\C# Basics Sample Exam\06. Exam\CSharpBasicsExam11April2014Morning\01. WorkHours\obj\Debug\_01.WorkHours.pdb
+G:\Programing Language\C# Basics Sample Exam\04. Exam\CSharpBasicsExam11April2014Morning\01. WorkHours\bin\Debug\_01.WorkHours.exe.config
+G:\Programing Language\C# Basics Sample Exam\04. Exam\CSharpBasicsExam11April2014Morning\01. WorkHours\obj\Debug\_01.WorkHours.exe
+G:\Programing Language\C# Basics Sample Exam\04. Exam\CSharpBasicsExam11April2014Morning\01. WorkHours\obj\Debug\_01.WorkHours.pdb

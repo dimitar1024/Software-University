@@ -1,0 +1,43 @@
+import java.util.Scanner;
+
+
+public class _08_CountOfEqualBitsPairs {
+
+	private static Scanner sc;
+
+	public static void main(String[] args) {
+		sc = new Scanner(System.in);
+		int number = sc.nextInt();
+		
+		int numberOne = number;
+		int numberTwo = number;
+		
+		int count = 0;
+		int maskFirst = 0;
+		int maskSecond = 0;
+		
+		while (numberTwo > 0)
+        {
+			maskFirst = (numberOne & 1);
+            maskSecond = (numberTwo & 1);
+			if (number == numberOne) {
+				
+	            numberTwo >>= 1;
+			}
+			else {
+				numberOne >>=1;
+	            numberTwo >>= 1;
+			}
+            
+            if (maskFirst == maskSecond) {
+				count++;
+			}
+            
+        }
+		
+		//  6 ne e zavar6ena !
+        System.out.println(count);
+
+	}
+
+}

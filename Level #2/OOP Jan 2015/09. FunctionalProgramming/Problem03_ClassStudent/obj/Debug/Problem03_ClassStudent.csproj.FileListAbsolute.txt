@@ -1,0 +1,6 @@
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\09. FunctionalProgramming\Problem03_ClassStudent\bin\Debug\Problem03_ClassStudent.exe.config
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\09. FunctionalProgramming\Problem03_ClassStudent\bin\Debug\Problem03_ClassStudent.exe
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\09. FunctionalProgramming\Problem03_ClassStudent\bin\Debug\Problem03_ClassStudent.pdb
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\09. FunctionalProgramming\Problem03_ClassStudent\obj\Debug\Problem03_ClassStudent.exe
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\09. FunctionalProgramming\Problem03_ClassStudent\obj\Debug\Problem03_ClassStudent.pdb
+C:\Users\dimitar1024\Desktop\Level #2\OOP Jan 2015\09. FunctionalProgramming\Problem03_ClassStudent\obj\Debug\Problem03_ClassStudent.csprojResolveAssemblyReference.cache
